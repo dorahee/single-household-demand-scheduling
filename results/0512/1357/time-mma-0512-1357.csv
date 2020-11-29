@@ -1,0 +1,10 @@
+,Weight,Type,Model,Solver,Time (ms)
+0,800,min,Initial,Gecode,60.0
+1,800,min,Modified,Gecode,60.0
+2,800,min,Modified,OGSA,0.00015937210991978645
+3,800,max,Initial,Gecode,260.0
+4,800,max,Modified,Gecode,210.0
+5,800,max,Modified,OGSA,0.0004469319246709347
+6,800,mean,Initial,Gecode,72.84083333333334
+7,800,mean,Modified,Gecode,70.63958333333333
+8,800,mean,Modified,OGSA,0.00020744931263228257

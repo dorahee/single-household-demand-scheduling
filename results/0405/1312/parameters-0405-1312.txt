@@ -1,0 +1,2 @@
+care factor weight = 10000
+num of tasks = 5

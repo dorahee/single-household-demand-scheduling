@@ -1,0 +1,3 @@
+care factor weight = 9000
+num of tasks = 10
+max demand mutiplier = 10

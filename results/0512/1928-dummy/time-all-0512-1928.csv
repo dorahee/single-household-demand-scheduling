@@ -1,0 +1,35 @@
+,,,,,Gecode,Gecode,OGSA,Model Run Time Ratio
+,,,,,Initial,Modified,Modified,Gecode
+Month,House,Variable choices,Constraint variables,Weight,,,,
+1,1,first_fail,indomain_max,800,70.0,70.0,,1.0
+1,1,first_fail,indomain_median,800,70.0,60.0,,1.1666666666666667
+1,1,first_fail,indomain_min,800,70.0,60.0,,1.1666666666666667
+1,1,first_fail,indomain_random,800,70.0,60.0,0.0003204280510544777,1.1666666666666667
+1,1,input_order,indomain_max,800,70.0,80.0,,0.875
+1,1,input_order,indomain_median,800,70.0,60.0,,1.1666666666666667
+1,1,input_order,indomain_min,800,70.0,70.0,,1.0
+1,1,input_order,indomain_random,800,70.0,70.0,,1.0
+1,2,first_fail,indomain_max,800,80.0,70.0,,1.1428571428571428
+1,2,first_fail,indomain_median,800,70.0,60.0,,1.1666666666666667
+1,2,first_fail,indomain_min,800,70.0,70.0,,1.0
+1,2,first_fail,indomain_random,800,80.0,60.0,0.00019177095964550972,1.3333333333333333
+1,2,input_order,indomain_max,800,100.0,70.0,,1.4285714285714286
+1,2,input_order,indomain_median,800,90.0,60.0,,1.5
+1,2,input_order,indomain_min,800,110.0,70.0,,1.5714285714285714
+1,2,input_order,indomain_random,800,70.0,60.0,,1.1666666666666667
+2,1,first_fail,indomain_max,800,70.0,70.0,,1.0
+2,1,first_fail,indomain_median,800,70.0,70.0,,1.0
+2,1,first_fail,indomain_min,800,70.0,90.0,,0.7777777777777778
+2,1,first_fail,indomain_random,800,70.0,70.0,0.0002089240588247776,1.0
+2,1,input_order,indomain_max,800,70.0,70.0,,1.0
+2,1,input_order,indomain_median,800,70.0,70.0,,1.0
+2,1,input_order,indomain_min,800,70.0,60.0,,1.1666666666666667
+2,1,input_order,indomain_random,800,70.0,60.0,,1.1666666666666667
+2,2,first_fail,indomain_max,800,70.0,70.0,,1.0
+2,2,first_fail,indomain_median,800,70.0,60.0,,1.1666666666666667
+2,2,first_fail,indomain_min,800,80.0,60.0,,1.3333333333333333
+2,2,first_fail,indomain_random,800,70.0,60.0,0.00022547412663698196,1.1666666666666667
+2,2,input_order,indomain_max,800,70.0,70.0,,1.0
+2,2,input_order,indomain_median,800,60.0,70.0,,0.8571428571428571
+2,2,input_order,indomain_min,800,70.0,70.0,,1.0
+2,2,input_order,indomain_random,800,70.0,60.0,,1.1666666666666667

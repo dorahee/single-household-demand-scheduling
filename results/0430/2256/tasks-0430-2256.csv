@@ -1,0 +1,4501 @@
+Month,House,Attribute,0,1,2,3,4
+0,1,demands,62,2400,20,1200,400
+0,1,durations,3,1,5,5,2
+0,1,earliest_starts,0,0,0,0,0
+0,1,latest_ends,143,143,143,143,143
+0,1,care_factors,5400,2700,3600,6300,0
+0,1,predecessors,1,-1,-1,-1,-1
+0,1,successors,2,-1,-1,-1,-1
+0,1,prec_delays,50,-1,-1,-1,-1
+0,1,preferred_starts,139,47,101,42,97
+1,1,astart - ogsa,139,44,91,42,18
+1,1,astart - Gecode,139,44,91,42,15
+1,1,astart - Gurobi,139,44,91,42,22
+2,1,astart - ogsa,139,23,74,22,7
+2,1,astart - Gecode,139,50,101,22,6
+2,1,astart - Gurobi,139,50,101,22,7
+3,1,astart - ogsa,139,47,98,19,17
+3,1,astart - Gecode,139,51,101,19,15
+3,1,astart - Gurobi,139,51,101,19,19
+4,1,astart - ogsa,139,29,80,25,21
+4,1,astart - Gecode,139,51,101,25,21
+4,1,astart - Gurobi,139,51,101,25,22
+5,1,astart - ogsa,139,29,80,25,21
+5,1,astart - Gecode,139,35,86,25,21
+5,1,astart - Gurobi,139,35,86,25,22
+6,1,astart - ogsa,139,26,77,25,25
+6,1,astart - Gecode,139,32,83,25,24
+6,1,astart - Gurobi,139,32,83,25,25
+7,1,astart - ogsa,139,29,80,25,21
+7,1,astart - Gecode,139,35,86,25,18
+7,1,astart - Gurobi,139,35,86,25,22
+8,1,astart - ogsa,139,29,80,25,25
+8,1,astart - Gecode,139,29,80,25,24
+8,1,astart - Gurobi,139,29,80,25,25
+9,1,astart - ogsa,139,29,80,25,27
+9,1,astart - Gecode,139,63,101,25,27
+9,1,astart - Gurobi,139,63,101,25,28
+10,1,astart - ogsa,139,23,74,19,22
+10,1,astart - Gecode,139,47,98,19,21
+10,1,astart - Gurobi,139,47,98,19,22
+11,1,astart - ogsa,139,29,80,25,11
+11,1,astart - Gecode,139,54,101,25,9
+11,1,astart - Gurobi,139,54,101,25,13
+12,1,astart - ogsa,139,29,80,25,17
+12,1,astart - Gecode,139,47,98,25,15
+12,1,astart - Gurobi,139,47,98,25,19
+0,2,demands,100,45,6000,62,1000
+0,2,durations,2,8,4,1,5
+0,2,earliest_starts,0,0,0,0,0
+0,2,latest_ends,143,143,143,143,143
+0,2,care_factors,6300,900,3600,4500,9000
+0,2,predecessors,0,0,-1,-1,-1
+0,2,successors,1,2,-1,-1,-1
+0,2,prec_delays,79,32,-1,-1,-1
+0,2,preferred_starts,87,114,93,19,123
+1,2,astart - ogsa,87,114,121,19,123
+1,2,astart - Gecode,94,114,128,19,123
+1,2,astart - Gurobi,94,114,128,19,123
+2,2,astart - ogsa,87,114,102,19,123
+2,2,astart - Gecode,102,114,134,19,123
+2,2,astart - Gurobi,102,114,134,19,123
+3,2,astart - ogsa,87,114,121,19,123
+3,2,astart - Gecode,94,114,128,19,123
+3,2,astart - Gurobi,94,114,128,19,123
+4,2,astart - ogsa,87,114,121,19,123
+4,2,astart - Gecode,94,114,128,19,123
+4,2,astart - Gurobi,94,114,128,19,123
+5,2,astart - ogsa,87,114,89,19,126
+5,2,astart - Gecode,19,97,21,19,126
+5,2,astart - Gurobi,19,97,21,19,126
+6,2,astart - ogsa,87,114,89,19,127
+6,2,astart - Gecode,21,88,23,19,123
+6,2,astart - Gurobi,21,88,23,19,127
+7,2,astart - ogsa,87,114,89,19,127
+7,2,astart - Gecode,21,94,23,19,127
+7,2,astart - Gurobi,21,94,23,19,127
+8,2,astart - ogsa,87,123,89,19,127
+8,2,astart - Gecode,24,91,26,19,127
+8,2,astart - Gurobi,24,94,26,19,127
+9,2,astart - ogsa,87,117,89,19,126
+9,2,astart - Gecode,85,117,87,19,126
+9,2,astart - Gurobi,85,117,87,19,126
+10,2,astart - ogsa,87,123,89,19,127
+10,2,astart - Gecode,73,123,75,19,127
+10,2,astart - Gurobi,73,123,75,19,127
+11,2,astart - ogsa,87,117,89,19,123
+11,2,astart - Gecode,82,117,84,19,123
+11,2,astart - Gurobi,82,117,84,19,123
+12,2,astart - ogsa,87,117,120,19,126
+12,2,astart - Gecode,18,99,20,19,126
+12,2,astart - Gurobi,18,99,20,19,126
+0,3,demands,3600,100,72,350,1200
+0,3,durations,1,4,1,4,2
+0,3,earliest_starts,0,0,0,0,0
+0,3,latest_ends,143,143,143,143,143
+0,3,care_factors,9000,6300,900,1800,5400
+0,3,predecessors,0,0,-1,-1,-1
+0,3,successors,2,4,-1,-1,-1
+0,3,prec_delays,39,71,-1,-1,-1
+0,3,preferred_starts,71,30,131,115,84
+1,3,astart - ogsa,71,30,111,115,79
+1,3,astart - Gecode,71,30,111,115,79
+1,3,astart - Gurobi,71,30,111,115,79
+2,3,astart - ogsa,71,30,111,115,84
+2,3,astart - Gecode,71,30,111,115,84
+2,3,astart - Gurobi,71,30,111,115,84
+3,3,astart - ogsa,71,30,111,117,84
+3,3,astart - Gecode,71,30,111,117,84
+3,3,astart - Gurobi,71,30,111,117,84
+4,3,astart - ogsa,71,30,111,115,84
+4,3,astart - Gecode,71,30,111,115,84
+4,3,astart - Gurobi,71,30,111,115,84
+5,3,astart - ogsa,71,30,111,115,84
+5,3,astart - Gecode,71,30,111,115,84
+5,3,astart - Gurobi,71,30,111,115,84
+6,3,astart - ogsa,71,30,111,128,84
+6,3,astart - Gecode,71,30,111,128,84
+6,3,astart - Gurobi,71,30,111,128,84
+7,3,astart - ogsa,71,30,111,135,84
+7,3,astart - Gecode,71,30,111,135,84
+7,3,astart - Gurobi,71,30,111,135,84
+8,3,astart - ogsa,72,30,112,89,84
+8,3,astart - Gecode,72,30,112,89,84
+8,3,astart - Gurobi,72,30,112,89,84
+9,3,astart - ogsa,71,30,107,87,84
+9,3,astart - Gecode,71,30,107,87,84
+9,3,astart - Gurobi,71,30,107,87,84
+10,3,astart - ogsa,75,30,115,128,84
+10,3,astart - Gecode,75,30,115,128,84
+10,3,astart - Gurobi,75,30,115,128,84
+11,3,astart - ogsa,72,30,112,128,84
+11,3,astart - Gecode,72,30,112,128,84
+11,3,astart - Gurobi,72,30,112,128,84
+12,3,astart - ogsa,71,30,110,128,79
+12,3,astart - Gecode,71,30,110,128,79
+12,3,astart - Gurobi,71,30,110,128,79
+0,4,demands,100,100,50,900,900
+0,4,durations,7,4,1,3,1
+0,4,earliest_starts,0,0,0,0,0
+0,4,latest_ends,143,143,143,143,143
+0,4,care_factors,2700,6300,3600,6300,8100
+0,4,predecessors,-1,-1,-1,-1,-1
+0,4,successors,-1,-1,-1,-1,-1
+0,4,prec_delays,-1,-1,-1,-1,-1
+0,4,preferred_starts,96,73,142,114,68
+1,4,astart - ogsa,108,73,142,114,68
+1,4,astart - Gecode,108,73,142,114,68
+1,4,astart - Gurobi,108,73,142,114,68
+2,4,astart - ogsa,102,73,142,114,68
+2,4,astart - Gecode,102,73,142,114,68
+2,4,astart - Gurobi,102,73,142,114,68
+3,4,astart - ogsa,96,73,142,117,69
+3,4,astart - Gecode,96,73,142,114,69
+3,4,astart - Gurobi,96,73,142,117,69
+4,4,astart - ogsa,96,73,142,114,68
+4,4,astart - Gecode,96,73,142,114,68
+4,4,astart - Gurobi,96,73,142,114,68
+5,4,astart - ogsa,96,73,142,114,68
+5,4,astart - Gecode,96,73,142,114,68
+5,4,astart - Gurobi,96,73,142,114,68
+6,4,astart - ogsa,92,73,142,114,68
+6,4,astart - Gecode,92,73,142,114,68
+6,4,astart - Gurobi,92,73,142,114,68
+7,4,astart - ogsa,95,73,142,114,68
+7,4,astart - Gecode,95,73,142,114,68
+7,4,astart - Gurobi,96,73,142,114,68
+8,4,astart - ogsa,96,73,142,96,68
+8,4,astart - Gecode,96,73,142,96,68
+8,4,astart - Gurobi,96,73,142,96,68
+9,4,astart - ogsa,96,73,142,96,68
+9,4,astart - Gecode,96,73,142,96,68
+9,4,astart - Gurobi,96,73,142,96,68
+10,4,astart - ogsa,96,73,142,129,68
+10,4,astart - Gecode,96,73,142,129,68
+10,4,astart - Gurobi,96,73,142,129,68
+11,4,astart - ogsa,96,73,142,123,68
+11,4,astart - Gecode,96,73,142,123,68
+11,4,astart - Gurobi,96,73,142,123,68
+12,4,astart - ogsa,96,73,142,120,68
+12,4,astart - Gecode,96,73,142,120,68
+12,4,astart - Gurobi,96,73,142,120,68
+0,5,demands,150,50,8,148,55
+0,5,durations,2,2,5,1,6
+0,5,earliest_starts,0,0,0,0,0
+0,5,latest_ends,143,143,143,143,143
+0,5,care_factors,3600,900,6300,8100,6300
+0,5,predecessors,0,0,2,-1,-1
+0,5,successors,1,3,4,-1,-1
+0,5,prec_delays,32,66,14,-1,-1
+0,5,preferred_starts,65,110,49,107,83
+1,5,astart - ogsa,65,91,49,108,68
+1,5,astart - Gecode,65,91,53,108,72
+1,5,astart - Gurobi,65,91,53,108,72
+2,5,astart - ogsa,65,88,49,107,68
+2,5,astart - Gecode,68,102,49,107,68
+2,5,astart - Gurobi,68,102,49,107,68
+3,5,astart - ogsa,65,99,49,107,68
+3,5,astart - Gecode,65,99,50,107,69
+3,5,astart - Gurobi,65,99,50,107,69
+4,5,astart - ogsa,65,99,49,107,68
+4,5,astart - Gecode,65,99,53,107,72
+4,5,astart - Gurobi,65,99,53,107,72
+5,5,astart - ogsa,65,99,49,107,68
+5,5,astart - Gecode,65,99,57,107,76
+5,5,astart - Gurobi,65,99,57,107,76
+6,5,astart - ogsa,65,99,49,107,68
+6,5,astart - Gecode,65,99,64,107,83
+6,5,astart - Gurobi,65,99,64,107,83
+7,5,astart - ogsa,65,99,49,107,68
+7,5,astart - Gecode,65,99,62,107,81
+7,5,astart - Gurobi,65,99,62,107,81
+8,5,astart - ogsa,65,99,49,107,68
+8,5,astart - Gecode,65,99,56,107,75
+8,5,astart - Gurobi,65,99,56,107,75
+9,5,astart - ogsa,65,99,49,107,68
+9,5,astart - Gecode,65,99,56,107,75
+9,5,astart - Gurobi,65,99,56,107,75
+10,5,astart - ogsa,65,99,49,107,68
+10,5,astart - Gecode,65,99,56,107,75
+10,5,astart - Gurobi,65,99,56,107,75
+11,5,astart - ogsa,65,99,49,107,68
+11,5,astart - Gecode,65,99,64,107,83
+11,5,astart - Gurobi,65,99,64,107,83
+12,5,astart - ogsa,65,99,49,107,68
+12,5,astart - Gecode,65,99,50,107,69
+12,5,astart - Gurobi,65,99,50,107,69
+0,6,demands,500,55,1000,55,38
+0,6,durations,5,2,3,1,1
+0,6,earliest_starts,0,0,0,0,0
+0,6,latest_ends,143,143,143,143,143
+0,6,care_factors,7200,6300,8100,2700,1800
+0,6,predecessors,3,-1,-1,-1,-1
+0,6,successors,4,-1,-1,-1,-1
+0,6,prec_delays,27,-1,-1,-1,-1
+0,6,preferred_starts,105,94,108,41,95
+1,6,astart - ogsa,108,94,108,41,69
+1,6,astart - Gecode,108,94,108,41,69
+1,6,astart - Gurobi,108,94,108,41,69
+2,6,astart - ogsa,105,91,108,41,69
+2,6,astart - Gecode,105,91,108,41,69
+2,6,astart - Gurobi,105,91,108,41,69
+3,6,astart - ogsa,105,94,108,41,69
+3,6,astart - Gecode,105,94,108,41,69
+3,6,astart - Gurobi,105,94,108,41,69
+4,6,astart - ogsa,114,94,114,41,69
+4,6,astart - Gecode,114,94,114,42,70
+4,6,astart - Gurobi,114,94,114,42,70
+5,6,astart - ogsa,112,94,114,42,70
+5,6,astart - Gecode,112,94,114,42,70
+5,6,astart - Gurobi,112,94,114,42,70
+6,6,astart - ogsa,91,94,114,41,69
+6,6,astart - Gecode,91,94,114,42,70
+6,6,astart - Gurobi,91,94,114,42,70
+7,6,astart - ogsa,97,94,99,41,69
+7,6,astart - Gecode,97,94,99,41,69
+7,6,astart - Gurobi,97,94,99,41,69
+8,6,astart - ogsa,97,94,96,41,69
+8,6,astart - Gecode,97,94,96,41,69
+8,6,astart - Gurobi,97,94,96,41,69
+9,6,astart - ogsa,100,94,96,41,69
+9,6,astart - Gecode,100,94,96,41,69
+9,6,astart - Gurobi,100,94,96,41,69
+10,6,astart - ogsa,103,94,102,41,69
+10,6,astart - Gecode,103,94,102,42,70
+10,6,astart - Gurobi,103,94,102,42,70
+11,6,astart - ogsa,105,94,108,41,69
+11,6,astart - Gecode,105,94,108,42,70
+11,6,astart - Gurobi,105,94,108,42,70
+12,6,astart - ogsa,103,94,102,41,69
+12,6,astart - Gecode,103,94,102,41,69
+12,6,astart - Gurobi,103,94,102,41,69
+0,7,demands,100,45,2100,2300,400
+0,7,durations,3,10,5,5,1
+0,7,earliest_starts,0,0,0,0,0
+0,7,latest_ends,143,143,143,143,143
+0,7,care_factors,7200,4500,5400,4500,0
+0,7,predecessors,0,-1,-1,-1,-1
+0,7,successors,2,-1,-1,-1,-1
+0,7,prec_delays,52,-1,-1,-1,-1
+0,7,preferred_starts,79,102,134,45,26
+1,7,astart - ogsa,78,108,133,19,18
+1,7,astart - Gecode,78,108,133,19,15
+1,7,astart - Gurobi,78,108,133,19,23
+2,7,astart - ogsa,78,102,133,19,7
+2,7,astart - Gecode,78,102,133,19,6
+2,7,astart - Gurobi,78,102,133,19,8
+3,7,astart - ogsa,79,102,133,19,16
+3,7,astart - Gecode,79,102,133,19,15
+3,7,astart - Gurobi,79,102,133,19,20
+4,7,astart - ogsa,79,102,127,22,23
+4,7,astart - Gecode,79,102,127,22,21
+4,7,astart - Gurobi,79,102,127,22,23
+5,7,astart - ogsa,79,102,127,21,21
+5,7,astart - Gecode,79,102,127,21,21
+5,7,astart - Gurobi,79,102,127,21,23
+6,7,astart - ogsa,79,102,134,22,24
+6,7,astart - Gecode,80,102,135,22,24
+6,7,astart - Gurobi,80,102,135,22,26
+7,7,astart - ogsa,79,102,134,22,19
+7,7,astart - Gecode,80,102,135,22,18
+7,7,astart - Gurobi,80,102,135,22,23
+8,7,astart - ogsa,79,98,134,25,25
+8,7,astart - Gecode,79,98,134,25,24
+8,7,astart - Gurobi,79,98,134,25,26
+9,7,astart - ogsa,79,102,87,25,27
+9,7,astart - Gecode,79,102,87,25,27
+9,7,astart - Gurobi,79,102,87,25,29
+10,7,astart - ogsa,79,102,127,19,22
+10,7,astart - Gecode,79,102,127,19,21
+10,7,astart - Gurobi,79,102,127,19,23
+11,7,astart - ogsa,79,102,133,13,13
+11,7,astart - Gecode,79,102,133,13,9
+11,7,astart - Gurobi,79,102,133,13,14
+12,7,astart - ogsa,79,102,133,19,16
+12,7,astart - Gecode,79,102,133,19,15
+12,7,astart - Gurobi,79,102,133,19,20
+0,8,demands,2,15,140,2400,10
+0,8,durations,2,3,3,5,4
+0,8,earliest_starts,0,0,0,0,0
+0,8,latest_ends,143,143,143,143,143
+0,8,care_factors,3600,0,9000,0,8100
+0,8,predecessors,0,-1,-1,-1,-1
+0,8,successors,2,-1,-1,-1,-1
+0,8,prec_delays,57,-1,-1,-1,-1
+0,8,preferred_starts,134,12,136,26,62
+1,8,astart - ogsa,134,16,136,18,62
+1,8,astart - Gecode,134,15,136,15,62
+1,8,astart - Gurobi,134,21,136,19,62
+2,8,astart - ogsa,134,6,136,6,62
+2,8,astart - Gecode,134,6,136,6,62
+2,8,astart - Gurobi,134,6,136,6,62
+3,8,astart - ogsa,134,15,136,16,62
+3,8,astart - Gecode,134,15,136,15,62
+3,8,astart - Gurobi,134,18,136,16,62
+4,8,astart - ogsa,134,21,136,21,62
+4,8,astart - Gecode,134,21,136,19,62
+4,8,astart - Gurobi,134,21,136,21,62
+5,8,astart - ogsa,134,21,136,21,62
+5,8,astart - Gecode,134,21,136,21,62
+5,8,astart - Gurobi,134,21,136,21,62
+6,8,astart - ogsa,134,24,136,22,62
+6,8,astart - Gecode,134,24,136,22,62
+6,8,astart - Gurobi,134,24,136,22,62
+7,8,astart - ogsa,134,21,136,18,62
+7,8,astart - Gecode,134,18,136,18,62
+7,8,astart - Gurobi,134,21,136,19,62
+8,8,astart - ogsa,134,24,136,23,62
+8,8,astart - Gecode,134,24,136,22,62
+8,8,astart - Gurobi,134,24,136,24,62
+9,8,astart - ogsa,134,27,136,25,62
+9,8,astart - Gecode,134,27,136,25,62
+9,8,astart - Gurobi,134,27,136,25,62
+10,8,astart - ogsa,134,21,136,19,62
+10,8,astart - Gecode,134,21,136,19,62
+10,8,astart - Gurobi,134,21,136,19,62
+11,8,astart - ogsa,134,9,136,10,62
+11,8,astart - Gecode,134,9,136,9,62
+11,8,astart - Gurobi,134,12,136,10,62
+12,8,astart - ogsa,134,16,136,16,62
+12,8,astart - Gecode,134,15,136,15,62
+12,8,astart - Gurobi,134,18,136,16,62
+0,9,demands,90,4,600,6000,350
+0,9,durations,4,2,8,4,5
+0,9,earliest_starts,0,0,0,0,0
+0,9,latest_ends,143,143,143,143,143
+0,9,care_factors,900,9000,4500,0,5400
+0,9,predecessors,0,-1,-1,-1,-1
+0,9,successors,2,-1,-1,-1,-1
+0,9,prec_delays,85,-1,-1,-1,-1
+0,9,preferred_starts,38,74,96,38,72
+1,9,astart - ogsa,38,74,108,19,72
+1,9,astart - Gecode,38,74,108,15,72
+1,9,astart - Gurobi,38,74,108,20,72
+2,9,astart - ogsa,41,74,102,6,72
+2,9,astart - Gecode,41,74,102,6,72
+2,9,astart - Gurobi,42,74,102,6,72
+3,9,astart - ogsa,42,74,96,15,72
+3,9,astart - Gecode,42,74,96,15,72
+3,9,astart - Gurobi,42,74,96,17,72
+4,9,astart - ogsa,32,74,114,21,72
+4,9,astart - Gecode,32,74,114,20,72
+4,9,astart - Gurobi,32,74,114,21,72
+5,9,astart - ogsa,32,74,87,21,72
+5,9,astart - Gecode,32,74,87,21,72
+5,9,astart - Gurobi,32,74,87,21,72
+6,9,astart - ogsa,32,74,85,23,72
+6,9,astart - Gecode,32,74,85,23,72
+6,9,astart - Gurobi,32,74,85,23,72
+7,9,astart - ogsa,32,74,85,18,72
+7,9,astart - Gecode,32,74,85,18,72
+7,9,astart - Gurobi,32,74,85,20,72
+8,9,astart - ogsa,26,74,85,24,72
+8,9,astart - Gecode,26,74,85,23,72
+8,9,astart - Gurobi,26,74,85,24,72
+9,9,astart - ogsa,26,74,85,26,72
+9,9,astart - Gecode,26,74,85,26,72
+9,9,astart - Gurobi,26,74,85,26,72
+10,9,astart - ogsa,42,74,85,20,72
+10,9,astart - Gecode,42,74,85,20,72
+10,9,astart - Gurobi,42,74,85,20,72
+11,9,astart - ogsa,26,74,84,9,72
+11,9,astart - Gecode,26,74,84,9,72
+11,9,astart - Gurobi,26,74,84,11,72
+12,9,astart - ogsa,26,74,97,16,70
+12,9,astart - Gecode,26,74,97,15,70
+12,9,astart - Gurobi,26,74,97,17,70
+0,10,demands,300,2400,80,72,900
+0,10,durations,6,5,2,2,4
+0,10,earliest_starts,0,0,0,0,0
+0,10,latest_ends,143,143,143,143,143
+0,10,care_factors,3600,5400,900,900,8100
+0,10,predecessors,1,-1,-1,-1,-1
+0,10,successors,4,-1,-1,-1,-1
+0,10,prec_delays,93,-1,-1,-1,-1
+0,10,preferred_starts,10,6,120,10,135
+1,10,astart - ogsa,10,9,120,10,107
+1,10,astart - Gecode,10,19,120,10,117
+1,10,astart - Gurobi,10,19,120,10,117
+2,10,astart - ogsa,10,6,120,10,104
+2,10,astart - Gecode,10,6,120,10,104
+2,10,astart - Gurobi,10,6,120,10,104
+3,10,astart - ogsa,10,12,120,10,110
+3,10,astart - Gecode,10,19,120,10,117
+3,10,astart - Gurobi,10,19,120,10,117
+4,10,astart - ogsa,10,12,120,10,110
+4,10,astart - Gecode,10,22,120,10,120
+4,10,astart - Gurobi,10,22,120,10,120
+5,10,astart - ogsa,10,19,120,10,117
+5,10,astart - Gecode,10,25,120,10,123
+5,10,astart - Gurobi,10,25,120,10,123
+6,10,astart - ogsa,10,18,123,10,114
+6,10,astart - Gecode,10,25,123,10,123
+6,10,astart - Gurobi,10,25,123,10,123
+7,10,astart - ogsa,10,18,120,10,116
+7,10,astart - Gecode,10,25,120,10,123
+7,10,astart - Gurobi,10,25,120,10,123
+8,10,astart - ogsa,12,18,123,10,95
+8,10,astart - Gecode,12,25,123,10,123
+8,10,astart - Gurobi,12,25,123,10,123
+9,10,astart - ogsa,11,15,120,10,95
+9,10,astart - Gecode,10,25,120,10,123
+9,10,astart - Gurobi,12,25,120,10,123
+10,10,astart - ogsa,12,19,120,12,117
+10,10,astart - Gecode,12,19,120,12,117
+10,10,astart - Gurobi,12,19,120,12,117
+11,10,astart - ogsa,10,9,120,10,107
+11,10,astart - Gecode,10,9,120,10,107
+11,10,astart - Gurobi,10,9,120,10,107
+12,10,astart - ogsa,10,9,120,10,103
+12,10,astart - Gecode,10,19,120,10,117
+12,10,astart - Gurobi,10,19,120,10,117
+0,11,demands,100,600,600,1000,80
+0,11,durations,6,3,4,1,4
+0,11,earliest_starts,0,0,0,0,0
+0,11,latest_ends,143,143,143,143,143
+0,11,care_factors,7200,1800,6300,7200,8100
+0,11,predecessors,1,-1,-1,-1,-1
+0,11,successors,2,-1,-1,-1,-1
+0,11,prec_delays,56,-1,-1,-1,-1
+0,11,preferred_starts,89,31,70,67,30
+1,11,astart - ogsa,87,21,70,67,30
+1,11,astart - Gecode,87,21,70,67,30
+1,11,astart - Gurobi,87,27,70,67,30
+2,11,astart - ogsa,84,21,70,67,30
+2,11,astart - Gecode,84,21,70,67,30
+2,11,astart - Gurobi,84,21,70,67,30
+3,11,astart - ogsa,89,21,70,69,30
+3,11,astart - Gecode,89,21,70,69,30
+3,11,astart - Gurobi,89,21,70,69,30
+4,11,astart - ogsa,89,26,70,67,30
+4,11,astart - Gecode,89,24,70,67,30
+4,11,astart - Gurobi,89,27,70,67,30
+5,11,astart - ogsa,89,27,70,67,30
+5,11,astart - Gecode,89,27,70,67,30
+5,11,astart - Gurobi,89,27,70,67,30
+6,11,astart - ogsa,89,24,70,67,30
+6,11,astart - Gecode,89,24,70,67,30
+6,11,astart - Gurobi,89,24,70,67,30
+7,11,astart - ogsa,89,27,70,67,30
+7,11,astart - Gecode,89,27,70,67,30
+7,11,astart - Gurobi,89,27,70,67,30
+8,11,astart - ogsa,89,27,70,67,30
+8,11,astart - Gecode,89,27,70,67,30
+8,11,astart - Gurobi,89,27,70,67,30
+9,11,astart - ogsa,89,27,70,67,30
+9,11,astart - Gecode,89,27,70,67,30
+9,11,astart - Gurobi,89,27,70,67,30
+10,11,astart - ogsa,89,21,74,67,30
+10,11,astart - Gecode,89,21,74,67,30
+10,11,astart - Gurobi,89,21,74,67,30
+11,11,astart - ogsa,89,27,71,67,30
+11,11,astart - Gecode,89,27,71,67,30
+11,11,astart - Gurobi,89,27,71,67,30
+12,11,astart - ogsa,84,21,70,67,30
+12,11,astart - Gecode,84,21,70,67,30
+12,11,astart - Gurobi,84,27,70,67,30
+0,12,demands,100,650,150,120,52
+0,12,durations,4,2,1,8,3
+0,12,earliest_starts,0,0,0,0,0
+0,12,latest_ends,143,143,143,143,143
+0,12,care_factors,5400,2700,6300,900,2700
+0,12,predecessors,0,-1,-1,-1,-1
+0,12,successors,4,-1,-1,-1,-1
+0,12,prec_delays,135,-1,-1,-1,-1
+0,12,preferred_starts,22,92,125,62,49
+1,12,astart - ogsa,22,79,125,55,49
+1,12,astart - Gecode,22,79,125,55,49
+1,12,astart - Gurobi,22,79,125,55,49
+2,12,astart - ogsa,22,85,125,62,49
+2,12,astart - Gecode,22,85,125,62,49
+2,12,astart - Gurobi,22,85,125,62,49
+3,12,astart - ogsa,22,92,125,58,49
+3,12,astart - Gecode,22,92,125,58,49
+3,12,astart - Gurobi,22,92,125,58,49
+4,12,astart - ogsa,22,92,125,62,49
+4,12,astart - Gecode,22,92,125,62,49
+4,12,astart - Gurobi,22,92,125,62,49
+5,12,astart - ogsa,22,91,125,62,49
+5,12,astart - Gecode,22,91,125,62,49
+5,12,astart - Gurobi,22,91,125,62,49
+6,12,astart - ogsa,22,91,125,24,49
+6,12,astart - Gecode,22,91,125,24,49
+6,12,astart - Gurobi,22,91,125,24,49
+7,12,astart - ogsa,22,91,125,22,49
+7,12,astart - Gecode,22,91,125,22,49
+7,12,astart - Gurobi,22,91,125,22,49
+8,12,astart - ogsa,22,91,125,22,49
+8,12,astart - Gecode,22,91,125,22,49
+8,12,astart - Gurobi,22,91,125,22,49
+9,12,astart - ogsa,22,91,125,62,49
+9,12,astart - Gecode,22,91,125,62,49
+9,12,astart - Gurobi,22,91,125,62,49
+10,12,astart - ogsa,22,91,125,62,49
+10,12,astart - Gecode,22,91,125,62,49
+10,12,astart - Gurobi,22,91,125,62,49
+11,12,astart - ogsa,22,92,125,72,49
+11,12,astart - Gecode,22,92,125,72,49
+11,12,astart - Gurobi,22,92,125,72,49
+12,12,astart - ogsa,22,96,125,22,49
+12,12,astart - Gecode,22,96,125,22,49
+12,12,astart - Gurobi,22,96,125,22,49
+0,13,demands,10,2400,1200,35,2400
+0,13,durations,1,6,2,2,1
+0,13,earliest_starts,0,0,0,0,0
+0,13,latest_ends,143,143,143,143,143
+0,13,care_factors,4500,4500,1800,4500,5400
+0,13,predecessors,0,-1,-1,-1,-1
+0,13,successors,1,-1,-1,-1,-1
+0,13,prec_delays,95,-1,-1,-1,-1
+0,13,preferred_starts,46,73,45,76,98
+1,13,astart - ogsa,46,57,22,76,108
+1,13,astart - Gecode,17,18,22,76,108
+1,13,astart - Gurobi,17,18,22,76,108
+2,13,astart - ogsa,46,66,22,76,102
+2,13,astart - Gecode,17,18,22,76,102
+2,13,astart - Gurobi,17,18,22,76,102
+3,13,astart - ogsa,46,69,22,76,98
+3,13,astart - Gecode,46,69,22,76,98
+3,13,astart - Gurobi,46,69,22,76,98
+4,13,astart - ogsa,46,72,25,76,98
+4,13,astart - Gecode,20,21,25,76,98
+4,13,astart - Gurobi,20,21,25,76,98
+5,13,astart - ogsa,46,73,28,76,98
+5,13,astart - Gecode,20,21,28,76,98
+5,13,astart - Gurobi,20,21,28,76,98
+6,13,astart - ogsa,46,81,25,76,92
+6,13,astart - Gecode,23,24,25,76,92
+6,13,astart - Gurobi,23,24,25,76,92
+7,13,astart - ogsa,46,81,28,76,98
+7,13,astart - Gecode,23,24,28,76,98
+7,13,astart - Gurobi,23,24,28,76,98
+8,13,astart - ogsa,46,73,28,76,98
+8,13,astart - Gecode,23,24,28,76,98
+8,13,astart - Gurobi,23,24,28,76,98
+9,13,astart - ogsa,46,73,28,76,98
+9,13,astart - Gecode,46,73,28,76,98
+9,13,astart - Gurobi,46,73,28,76,98
+10,13,astart - ogsa,46,75,22,76,98
+10,13,astart - Gecode,46,75,22,76,98
+10,13,astart - Gurobi,46,75,22,76,98
+11,13,astart - ogsa,46,73,28,76,98
+11,13,astart - Gecode,46,73,28,76,98
+11,13,astart - Gurobi,46,73,28,76,98
+12,13,astart - ogsa,46,69,22,76,102
+12,13,astart - Gecode,17,18,22,76,98
+12,13,astart - Gurobi,17,18,22,76,102
+0,14,demands,900,4,148,52,1000
+0,14,durations,5,2,2,7,2
+0,14,earliest_starts,0,0,0,0,0
+0,14,latest_ends,143,143,143,143,143
+0,14,care_factors,1800,3600,900,5400,900
+0,14,predecessors,0,-1,-1,-1,-1
+0,14,successors,4,-1,-1,-1,-1
+0,14,prec_delays,67,-1,-1,-1,-1
+0,14,preferred_starts,10,49,4,106,102
+1,14,astart - ogsa,10,49,6,108,22
+1,14,astart - Gecode,10,49,6,108,22
+1,14,astart - Gurobi,10,49,6,108,22
+2,14,astart - ogsa,6,49,6,106,22
+2,14,astart - Gecode,6,49,6,106,22
+2,14,astart - Gurobi,6,49,6,106,22
+3,14,astart - ogsa,12,49,4,106,84
+3,14,astart - Gecode,12,49,4,106,84
+3,14,astart - Gurobi,12,49,4,106,84
+4,14,astart - ogsa,12,49,4,106,25
+4,14,astart - Gecode,12,49,4,106,25
+4,14,astart - Gurobi,12,49,4,106,25
+5,14,astart - ogsa,19,49,6,106,25
+5,14,astart - Gecode,19,49,6,106,25
+5,14,astart - Gurobi,19,49,6,106,25
+6,14,astart - ogsa,18,49,4,106,25
+6,14,astart - Gecode,18,49,4,106,25
+6,14,astart - Gurobi,18,49,4,106,25
+7,14,astart - ogsa,18,49,6,106,25
+7,14,astart - Gecode,18,49,6,106,25
+7,14,astart - Gurobi,18,49,6,106,25
+8,14,astart - ogsa,18,49,4,106,28
+8,14,astart - Gecode,18,49,4,106,28
+8,14,astart - Gurobi,18,49,4,106,28
+9,14,astart - ogsa,15,49,4,106,87
+9,14,astart - Gecode,15,49,4,106,87
+9,14,astart - Gurobi,15,49,4,106,87
+10,14,astart - ogsa,19,49,4,106,76
+10,14,astart - Gecode,19,49,4,106,76
+10,14,astart - Gurobi,19,49,4,106,76
+11,14,astart - ogsa,10,49,6,106,79
+11,14,astart - Gecode,12,49,6,106,84
+11,14,astart - Gurobi,12,49,6,106,84
+12,14,astart - ogsa,10,49,4,106,22
+12,14,astart - Gecode,10,49,4,106,22
+12,14,astart - Gurobi,10,49,4,106,22
+0,15,demands,700,120,1200,5,72
+0,15,durations,3,4,5,1,3
+0,15,earliest_starts,0,0,0,0,0
+0,15,latest_ends,143,143,143,143,143
+0,15,care_factors,1800,900,4500,900,9000
+0,15,predecessors,2,-1,-1,-1,-1
+0,15,successors,3,-1,-1,-1,-1
+0,15,prec_delays,48,-1,-1,-1,-1
+0,15,preferred_starts,43,91,37,103,75
+1,15,astart - ogsa,21,77,19,72,75
+1,15,astart - Gecode,21,77,22,75,75
+1,15,astart - Gurobi,21,77,22,75,75
+2,15,astart - ogsa,21,102,19,72,75
+2,15,astart - Gecode,21,102,22,75,75
+2,15,astart - Gurobi,21,102,22,75,75
+3,15,astart - ogsa,21,91,19,72,75
+3,15,astart - Gecode,21,91,19,72,75
+3,15,astart - Gurobi,21,91,19,72,75
+4,15,astart - ogsa,24,91,25,78,75
+4,15,astart - Gecode,24,91,25,78,75
+4,15,astart - Gurobi,24,91,25,78,75
+5,15,astart - ogsa,27,89,25,78,75
+5,15,astart - Gecode,27,89,25,78,75
+5,15,astart - Gurobi,27,89,25,78,75
+6,15,astart - ogsa,24,89,24,77,75
+6,15,astart - Gecode,24,89,25,78,75
+6,15,astart - Gurobi,24,89,25,78,75
+7,15,astart - ogsa,27,91,25,78,75
+7,15,astart - Gecode,27,91,25,78,75
+7,15,astart - Gurobi,27,91,25,78,75
+8,15,astart - ogsa,27,89,25,78,75
+8,15,astart - Gecode,27,89,25,78,75
+8,15,astart - Gurobi,27,89,25,78,75
+9,15,astart - ogsa,27,89,25,78,75
+9,15,astart - Gecode,27,89,25,78,75
+9,15,astart - Gurobi,27,89,25,78,75
+10,15,astart - ogsa,21,89,19,72,75
+10,15,astart - Gecode,21,89,19,72,75
+10,15,astart - Gurobi,21,89,19,72,75
+11,15,astart - ogsa,27,91,16,69,75
+11,15,astart - Gecode,27,91,25,78,75
+11,15,astart - Gurobi,27,91,25,78,75
+12,15,astart - ogsa,21,96,19,72,75
+12,15,astart - Gecode,21,96,19,72,75
+12,15,astart - Gurobi,21,96,19,72,75
+0,16,demands,5,56,2400,75,400
+0,16,durations,3,1,1,6,2
+0,16,earliest_starts,0,0,0,0,0
+0,16,latest_ends,143,143,143,143,143
+0,16,care_factors,2700,3600,6300,3600,7200
+0,16,predecessors,0,-1,-1,-1,-1
+0,16,successors,4,-1,-1,-1,-1
+0,16,prec_delays,104,-1,-1,-1,-1
+0,16,preferred_starts,0,44,90,105,34
+1,16,astart - ogsa,0,44,80,108,34
+1,16,astart - Gecode,0,44,80,108,34
+1,16,astart - Gurobi,0,44,80,108,34
+2,16,astart - ogsa,0,44,86,105,34
+2,16,astart - Gecode,0,44,86,105,34
+2,16,astart - Gurobi,0,44,86,105,34
+3,16,astart - ogsa,0,44,89,105,34
+3,16,astart - Gecode,0,44,89,105,34
+3,16,astart - Gurobi,0,44,89,105,34
+4,16,astart - ogsa,0,44,90,105,34
+4,16,astart - Gecode,0,44,90,105,34
+4,16,astart - Gurobi,0,44,90,105,34
+5,16,astart - ogsa,0,44,90,108,34
+5,16,astart - Gecode,0,44,90,108,34
+5,16,astart - Gurobi,0,44,90,108,34
+6,16,astart - ogsa,0,44,89,111,34
+6,16,astart - Gecode,0,44,89,111,34
+6,16,astart - Gurobi,0,44,89,111,34
+7,16,astart - ogsa,0,44,90,105,34
+7,16,astart - Gecode,0,44,90,105,34
+7,16,astart - Gurobi,0,44,90,105,34
+8,16,astart - ogsa,0,44,90,99,34
+8,16,astart - Gecode,0,44,90,99,34
+8,16,astart - Gurobi,0,44,90,99,34
+9,16,astart - ogsa,0,44,89,102,34
+9,16,astart - Gecode,0,44,89,102,34
+9,16,astart - Gurobi,0,44,89,102,34
+10,16,astart - ogsa,0,44,90,105,34
+10,16,astart - Gecode,0,44,90,105,34
+10,16,astart - Gurobi,0,44,90,105,34
+11,16,astart - ogsa,0,44,89,105,34
+11,16,astart - Gecode,0,44,89,105,34
+11,16,astart - Gurobi,0,44,89,105,34
+12,16,astart - ogsa,0,44,96,105,34
+12,16,astart - Gecode,0,44,96,105,34
+12,16,astart - Gurobi,0,44,96,105,34
+0,17,demands,1200,148,120,600,100
+0,17,durations,3,3,1,2,8
+0,17,earliest_starts,0,0,0,0,0
+0,17,latest_ends,143,143,143,143,143
+0,17,care_factors,9000,900,7200,0,6300
+0,17,predecessors,0,-1,-1,-1,-1
+0,17,successors,2,-1,-1,-1,-1
+0,17,prec_delays,9,-1,-1,-1,-1
+0,17,preferred_starts,33,34,40,77,85
+1,17,astart - ogsa,33,33,40,21,73
+1,17,astart - Gecode,33,33,40,15,73
+1,17,astart - Gurobi,33,33,40,22,73
+2,17,astart - ogsa,27,27,39,6,84
+2,17,astart - Gecode,27,27,39,6,84
+2,17,astart - Gurobi,27,27,39,7,84
+3,17,astart - ogsa,24,21,36,16,85
+3,17,astart - Gecode,28,21,40,15,85
+3,17,astart - Gurobi,28,21,40,19,85
+4,17,astart - ogsa,33,33,40,22,85
+4,17,astart - Gecode,33,33,40,21,85
+4,17,astart - Gurobi,33,33,40,22,85
+5,17,astart - ogsa,33,33,40,22,85
+5,17,astart - Gecode,33,33,40,21,85
+5,17,astart - Gurobi,33,33,40,22,85
+6,17,astart - ogsa,30,30,40,24,85
+6,17,astart - Gecode,30,30,40,24,85
+6,17,astart - Gurobi,30,30,40,25,85
+7,17,astart - ogsa,33,27,40,18,85
+7,17,astart - Gecode,33,27,40,18,85
+7,17,astart - Gurobi,33,27,40,22,85
+8,17,astart - ogsa,27,27,38,25,85
+8,17,astart - Gecode,28,27,40,24,85
+8,17,astart - Gurobi,28,27,40,25,85
+9,17,astart - ogsa,27,27,39,28,85
+9,17,astart - Gecode,28,27,40,27,85
+9,17,astart - Gurobi,28,27,40,28,85
+10,17,astart - ogsa,21,21,33,22,85
+10,17,astart - Gecode,27,21,39,21,85
+10,17,astart - Gurobi,27,21,39,22,85
+11,17,astart - ogsa,27,27,39,13,85
+11,17,astart - Gecode,27,27,39,9,85
+11,17,astart - Gurobi,27,27,39,13,85
+12,17,astart - ogsa,27,27,39,17,82
+12,17,astart - Gecode,28,27,40,15,82
+12,17,astart - Gurobi,28,27,40,19,82
+0,18,demands,2400,2,6000,1100,2
+0,18,durations,4,3,3,4,1
+0,18,earliest_starts,0,0,0,0,0
+0,18,latest_ends,143,143,143,143,143
+0,18,care_factors,0,3600,7200,8100,0
+0,18,predecessors,0,1,-1,-1,-1
+0,18,successors,3,4,-1,-1,-1
+0,18,prec_delays,20,13,-1,-1,-1
+0,18,preferred_starts,36,10,106,51,38
+1,18,astart - ogsa,15,10,129,39,15
+1,18,astart - Gecode,20,10,129,44,15
+1,18,astart - Gurobi,20,10,129,44,16
+2,18,astart - ogsa,6,10,135,26,17
+2,18,astart - Gecode,6,10,135,26,15
+2,18,astart - Gurobi,6,10,135,26,17
+3,18,astart - ogsa,15,10,129,23,19
+3,18,astart - Gecode,20,10,129,44,15
+3,18,astart - Gurobi,20,10,129,44,16
+4,18,astart - ogsa,21,10,129,42,23
+4,18,astart - Gecode,26,10,129,50,21
+4,18,astart - Gurobi,26,10,129,50,21
+5,18,astart - ogsa,21,10,21,32,22
+5,18,astart - Gecode,21,10,21,32,21
+5,18,astart - Gurobi,21,10,21,32,21
+6,18,astart - ogsa,23,10,24,29,24
+6,18,astart - Gecode,23,10,24,29,24
+6,18,astart - Gurobi,23,10,24,29,24
+7,18,astart - ogsa,18,10,24,26,21
+7,18,astart - Gecode,18,10,24,26,18
+7,18,astart - Gurobi,18,10,24,26,18
+8,18,astart - ogsa,23,10,27,27,25
+8,18,astart - Gecode,22,10,27,26,24
+8,18,astart - Gurobi,22,10,27,26,24
+9,18,astart - ogsa,26,10,87,30,19
+9,18,astart - Gecode,27,10,87,51,18
+9,18,astart - Gurobi,27,10,87,51,18
+10,18,astart - ogsa,20,10,129,44,23
+10,18,astart - Gecode,20,10,129,44,21
+10,18,astart - Gurobi,20,10,129,44,21
+11,18,astart - ogsa,9,10,84,26,14
+11,18,astart - Gecode,9,10,84,26,13
+11,18,astart - Gurobi,9,10,84,26,14
+12,18,astart - ogsa,17,10,21,26,19
+12,18,astart - Gecode,18,10,21,42,15
+12,18,astart - Gurobi,18,10,21,42,16
+0,19,demands,100,900,100,600,100
+0,19,durations,2,5,5,2,1
+0,19,earliest_starts,0,0,0,0,0
+0,19,latest_ends,143,143,143,143,143
+0,19,care_factors,0,6300,7200,0,9000
+0,19,predecessors,3,-1,-1,-1,-1
+0,19,successors,4,-1,-1,-1,-1
+0,19,prec_delays,137,-1,-1,-1,-1
+0,19,preferred_starts,127,116,108,79,87
+1,19,astart - ogsa,17,116,108,15,87
+1,19,astart - Gecode,15,116,108,15,87
+1,19,astart - Gurobi,22,116,108,15,87
+2,19,astart - ogsa,7,116,108,6,87
+2,19,astart - Gecode,6,116,108,6,87
+2,19,astart - Gurobi,7,116,108,6,87
+3,19,astart - ogsa,18,117,108,19,87
+3,19,astart - Gecode,15,117,108,15,87
+3,19,astart - Gurobi,19,117,108,15,87
+4,19,astart - ogsa,21,116,108,22,87
+4,19,astart - Gecode,21,116,108,21,87
+4,19,astart - Gurobi,22,116,108,21,87
+5,19,astart - ogsa,22,116,108,21,87
+5,19,astart - Gecode,21,116,108,21,87
+5,19,astart - Gurobi,22,116,108,21,87
+6,19,astart - ogsa,25,127,108,25,87
+6,19,astart - Gecode,24,127,108,24,87
+6,19,astart - Gurobi,25,127,108,24,87
+7,19,astart - ogsa,19,127,108,21,87
+7,19,astart - Gecode,18,127,108,18,87
+7,19,astart - Gurobi,22,127,108,18,87
+8,19,astart - ogsa,24,88,108,24,87
+8,19,astart - Gecode,24,88,108,24,87
+8,19,astart - Gurobi,25,88,108,24,87
+9,19,astart - ogsa,28,88,108,28,87
+9,19,astart - Gecode,27,88,108,27,87
+9,19,astart - Gurobi,28,88,108,27,87
+10,19,astart - ogsa,21,127,108,21,87
+10,19,astart - Gecode,21,127,108,21,87
+10,19,astart - Gurobi,22,127,108,21,87
+11,19,astart - ogsa,10,123,108,10,87
+11,19,astart - Gecode,9,123,108,9,87
+11,19,astart - Gurobi,13,123,108,9,87
+12,19,astart - ogsa,17,126,108,16,87
+12,19,astart - Gecode,15,126,108,15,87
+12,19,astart - Gurobi,19,126,108,15,87
+0,20,demands,650,120,2000,120,900
+0,20,durations,6,4,5,3,3
+0,20,earliest_starts,0,0,0,0,0
+0,20,latest_ends,143,143,143,143,143
+0,20,care_factors,900,9000,9000,5400,2700
+0,20,predecessors,1,1,-1,-1,-1
+0,20,successors,2,3,-1,-1,-1
+0,20,prec_delays,60,38,-1,-1,-1
+0,20,preferred_starts,131,68,132,123,119
+1,20,astart - ogsa,131,68,132,110,129
+1,20,astart - Gecode,131,68,132,110,129
+1,20,astart - Gurobi,131,68,132,110,129
+2,20,astart - ogsa,132,68,132,110,129
+2,20,astart - Gecode,132,68,132,110,129
+2,20,astart - Gurobi,132,68,132,110,129
+3,20,astart - ogsa,131,68,132,110,119
+3,20,astart - Gecode,131,68,132,110,119
+3,20,astart - Gurobi,131,68,132,110,120
+4,20,astart - ogsa,126,68,127,110,123
+4,20,astart - Gecode,126,68,127,110,123
+4,20,astart - Gurobi,126,68,127,110,129
+5,20,astart - ogsa,21,68,127,110,129
+5,20,astart - Gecode,21,68,127,110,129
+5,20,astart - Gurobi,21,68,127,110,129
+6,20,astart - ogsa,21,68,127,110,129
+6,20,astart - Gecode,21,71,135,113,129
+6,20,astart - Gurobi,21,71,135,113,129
+7,20,astart - ogsa,21,68,132,110,135
+7,20,astart - Gecode,21,71,135,113,135
+7,20,astart - Gurobi,21,71,135,113,135
+8,20,astart - ogsa,24,68,132,110,90
+8,20,astart - Gecode,24,72,133,114,90
+8,20,astart - Gurobi,24,72,133,114,90
+9,20,astart - ogsa,24,68,132,110,87
+9,20,astart - Gecode,24,72,135,114,87
+9,20,astart - Gurobi,24,72,135,114,87
+10,20,astart - ogsa,126,68,127,110,129
+10,20,astart - Gecode,126,68,127,110,129
+10,20,astart - Gurobi,126,68,127,110,129
+11,20,astart - ogsa,131,68,132,110,129
+11,20,astart - Gecode,131,68,132,110,129
+11,20,astart - Gurobi,131,68,132,110,129
+12,20,astart - ogsa,18,68,132,110,129
+12,20,astart - Gecode,18,68,132,110,129
+12,20,astart - Gurobi,18,68,132,110,129
+0,21,demands,2400,1000,50,1200,100
+0,21,durations,1,2,2,8,3
+0,21,earliest_starts,0,0,0,0,0
+0,21,latest_ends,143,143,143,143,143
+0,21,care_factors,4500,1800,5400,0,9000
+0,21,predecessors,2,3,-1,-1,-1
+0,21,successors,3,4,-1,-1,-1
+0,21,prec_delays,14,9,-1,-1,-1
+0,21,preferred_starts,106,97,10,31,48
+1,21,astart - ogsa,108,129,10,15,32
+1,21,astart - Gecode,108,129,10,22,39
+1,21,astart - Gurobi,108,129,10,22,39
+2,21,astart - ogsa,106,102,10,15,32
+2,21,astart - Gecode,106,102,10,19,36
+2,21,astart - Gurobi,106,102,10,19,36
+3,21,astart - ogsa,106,97,10,14,31
+3,21,astart - Gecode,106,97,10,19,36
+3,21,astart - Gurobi,106,97,10,19,36
+4,21,astart - ogsa,114,114,10,19,36
+4,21,astart - Gecode,114,114,10,22,39
+4,21,astart - Gurobi,114,114,10,22,39
+5,21,astart - ogsa,114,91,10,19,36
+5,21,astart - Gecode,114,91,10,25,42
+5,21,astart - Gurobi,114,91,10,25,42
+6,21,astart - ogsa,92,88,10,19,36
+6,21,astart - Gecode,92,88,10,25,42
+6,21,astart - Gurobi,92,88,10,25,42
+7,21,astart - ogsa,92,91,10,18,35
+7,21,astart - Gecode,92,91,10,22,39
+7,21,astart - Gurobi,92,91,10,22,39
+8,21,astart - ogsa,98,91,10,22,39
+8,21,astart - Gecode,98,91,10,22,39
+8,21,astart - Gurobi,98,91,10,22,39
+9,21,astart - ogsa,89,88,10,22,39
+9,21,astart - Gecode,89,88,10,24,41
+9,21,astart - Gurobi,89,88,10,24,41
+10,21,astart - ogsa,104,91,10,16,33
+10,21,astart - Gecode,104,91,10,16,33
+10,21,astart - Gurobi,104,91,10,16,33
+11,21,astart - ogsa,104,85,10,12,29
+11,21,astart - Gecode,104,85,10,22,39
+11,21,astart - Gurobi,104,85,10,22,39
+12,21,astart - ogsa,104,102,10,15,32
+12,21,astart - Gecode,104,102,10,22,39
+12,21,astart - Gurobi,104,102,10,22,39
+0,22,demands,15,3600,72,600,50
+0,22,durations,1,4,4,3,1
+0,22,earliest_starts,0,0,0,0,0
+0,22,latest_ends,143,143,143,143,143
+0,22,care_factors,4500,7200,2700,8100,2700
+0,22,predecessors,2,2,-1,-1,-1
+0,22,successors,3,4,-1,-1,-1
+0,22,prec_delays,99,88,-1,-1,-1
+0,22,preferred_starts,141,80,6,108,75
+1,22,astart - ogsa,141,20,6,108,75
+1,22,astart - Gecode,141,20,6,108,75
+1,22,astart - Gurobi,141,20,6,108,75
+2,22,astart - ogsa,141,20,6,108,75
+2,22,astart - Gecode,141,20,6,108,75
+2,22,astart - Gurobi,141,20,6,108,75
+3,22,astart - ogsa,141,80,6,108,75
+3,22,astart - Gecode,141,80,6,108,75
+3,22,astart - Gurobi,141,80,6,108,75
+4,22,astart - ogsa,141,23,6,108,75
+4,22,astart - Gecode,141,23,6,108,75
+4,22,astart - Gurobi,141,23,6,108,75
+5,22,astart - ogsa,141,22,6,109,75
+5,22,astart - Gecode,141,21,8,111,75
+5,22,astart - Gurobi,141,21,8,111,75
+6,22,astart - ogsa,141,23,6,109,75
+6,22,astart - Gecode,141,23,11,114,75
+6,22,astart - Gurobi,141,23,11,114,75
+7,22,astart - ogsa,141,23,6,108,75
+7,22,astart - Gecode,141,23,6,108,75
+7,22,astart - Gurobi,141,23,6,108,75
+8,22,astart - ogsa,141,26,6,102,75
+8,22,astart - Gecode,141,26,6,102,75
+8,22,astart - Gurobi,141,26,6,102,75
+9,22,astart - ogsa,141,75,6,102,75
+9,22,astart - Gecode,141,75,6,102,75
+9,22,astart - Gurobi,141,75,6,102,75
+10,22,astart - ogsa,141,75,6,108,75
+10,22,astart - Gecode,141,75,6,108,75
+10,22,astart - Gurobi,141,75,6,108,75
+11,22,astart - ogsa,141,83,6,108,75
+11,22,astart - Gecode,141,83,6,108,75
+11,22,astart - Gurobi,141,83,6,108,75
+12,22,astart - ogsa,141,20,6,108,75
+12,22,astart - Gecode,141,20,6,108,75
+12,22,astart - Gurobi,141,20,6,108,75
+0,23,demands,52,100,1200,52,35
+0,23,durations,6,1,6,2,3
+0,23,earliest_starts,0,0,0,0,0
+0,23,latest_ends,143,143,143,143,143
+0,23,care_factors,0,0,5400,5400,5400
+0,23,predecessors,1,1,-1,-1,-1
+0,23,successors,3,4,-1,-1,-1
+0,23,prec_delays,41,86,-1,-1,-1
+0,23,preferred_starts,83,20,88,118,29
+1,23,astart - ogsa,15,17,75,59,29
+1,23,astart - Gecode,15,28,75,70,29
+1,23,astart - Gurobi,15,28,75,70,29
+2,23,astart - ogsa,6,6,102,48,29
+2,23,astart - Gecode,6,28,102,70,29
+2,23,astart - Gurobi,6,28,102,70,29
+3,23,astart - ogsa,15,17,81,59,29
+3,23,astart - Gecode,15,28,81,70,29
+3,23,astart - Gurobi,15,28,81,70,29
+4,23,astart - ogsa,18,22,88,64,29
+4,23,astart - Gecode,18,28,72,70,29
+4,23,astart - Gurobi,18,28,88,70,29
+5,23,astart - ogsa,21,23,87,65,29
+5,23,astart - Gecode,21,28,87,70,29
+5,23,astart - Gurobi,21,28,87,70,29
+6,23,astart - ogsa,21,24,84,66,29
+6,23,astart - Gecode,21,28,84,70,29
+6,23,astart - Gurobi,21,28,84,70,29
+7,23,astart - ogsa,18,20,87,62,29
+7,23,astart - Gecode,18,28,87,70,29
+7,23,astart - Gurobi,18,28,87,70,29
+8,23,astart - ogsa,22,24,87,66,29
+8,23,astart - Gecode,21,28,87,70,29
+8,23,astart - Gurobi,21,28,87,70,29
+9,23,astart - ogsa,24,27,87,69,29
+9,23,astart - Gecode,24,28,87,70,29
+9,23,astart - Gurobi,24,28,87,70,29
+10,23,astart - ogsa,18,22,87,64,29
+10,23,astart - Gecode,18,28,75,70,29
+10,23,astart - Gurobi,18,28,87,70,29
+11,23,astart - ogsa,9,10,84,52,29
+11,23,astart - Gecode,9,28,84,70,29
+11,23,astart - Gurobi,9,28,84,70,29
+12,23,astart - ogsa,15,19,18,61,29
+12,23,astart - Gecode,15,28,18,70,29
+12,23,astart - Gurobi,15,28,18,70,29
+0,24,demands,68,600,2200,60,4000
+0,24,durations,2,2,7,4,2
+0,24,earliest_starts,0,0,0,0,0
+0,24,latest_ends,143,143,143,143,143
+0,24,care_factors,900,9000,0,3600,5400
+0,24,predecessors,2,-1,-1,-1,-1
+0,24,successors,4,-1,-1,-1,-1
+0,24,prec_delays,117,-1,-1,-1,-1
+0,24,preferred_starts,119,124,1,117,33
+1,24,astart - ogsa,119,124,15,117,22
+1,24,astart - Gecode,119,124,15,117,22
+1,24,astart - Gurobi,119,124,15,117,22
+2,24,astart - ogsa,119,124,6,117,22
+2,24,astart - Gecode,119,124,6,117,22
+2,24,astart - Gurobi,119,124,6,117,22
+3,24,astart - ogsa,119,124,15,117,22
+3,24,astart - Gecode,119,124,14,117,22
+3,24,astart - Gurobi,119,124,14,117,22
+4,24,astart - ogsa,119,124,18,117,25
+4,24,astart - Gecode,119,124,18,117,25
+4,24,astart - Gurobi,119,124,18,117,25
+5,24,astart - ogsa,119,124,20,117,28
+5,24,astart - Gecode,119,124,20,117,28
+5,24,astart - Gurobi,119,124,20,117,28
+6,24,astart - ogsa,119,124,20,117,28
+6,24,astart - Gecode,119,124,18,117,25
+6,24,astart - Gurobi,119,124,18,117,25
+7,24,astart - ogsa,119,124,18,117,28
+7,24,astart - Gecode,119,124,18,117,28
+7,24,astart - Gurobi,119,124,18,117,28
+8,24,astart - ogsa,119,124,22,117,29
+8,24,astart - Gecode,119,124,21,117,28
+8,24,astart - Gurobi,119,124,21,117,28
+9,24,astart - ogsa,119,126,23,117,31
+9,24,astart - Gecode,119,126,15,117,28
+9,24,astart - Gurobi,119,126,15,117,28
+10,24,astart - ogsa,119,124,17,117,25
+10,24,astart - Gecode,119,124,15,117,22
+10,24,astart - Gurobi,119,124,15,117,22
+11,24,astart - ogsa,119,124,9,117,28
+11,24,astart - Gecode,119,124,9,117,28
+11,24,astart - Gurobi,119,124,9,117,28
+12,24,astart - ogsa,119,124,14,117,22
+12,24,astart - Gecode,119,124,14,117,22
+12,24,astart - Gurobi,119,124,14,117,22
+0,25,demands,130,2400,2400,8,15
+0,25,durations,5,1,5,2,6
+0,25,earliest_starts,0,0,0,0,0
+0,25,latest_ends,143,143,143,143,143
+0,25,care_factors,1800,9000,8100,2700,7200
+0,25,predecessors,0,1,0,-1,-1
+0,25,successors,1,3,4,-1,-1
+0,25,prec_delays,39,95,55,-1,-1
+0,25,preferred_starts,32,76,124,111,65
+1,25,astart - ogsa,31,75,127,111,65
+1,25,astart - Gecode,32,76,127,111,65
+1,25,astart - Gurobi,32,76,127,111,65
+2,25,astart - ogsa,25,69,127,111,65
+2,25,astart - Gecode,32,76,127,111,65
+2,25,astart - Gurobi,32,76,127,111,65
+3,25,astart - ogsa,22,65,126,111,65
+3,25,astart - Gecode,32,76,126,111,65
+3,25,astart - Gurobi,32,76,126,111,65
+4,25,astart - ogsa,31,75,127,111,65
+4,25,astart - Gecode,32,76,127,111,65
+4,25,astart - Gurobi,32,76,127,111,65
+5,25,astart - ogsa,31,75,127,111,65
+5,25,astart - Gecode,32,76,127,111,65
+5,25,astart - Gurobi,32,76,127,111,65
+6,25,astart - ogsa,31,75,127,111,65
+6,25,astart - Gecode,32,76,127,111,65
+6,25,astart - Gurobi,32,76,127,111,65
+7,25,astart - ogsa,31,75,135,111,65
+7,25,astart - Gecode,32,76,135,111,65
+7,25,astart - Gurobi,32,76,135,111,65
+8,25,astart - ogsa,28,72,88,111,65
+8,25,astart - Gecode,32,76,88,111,65
+8,25,astart - Gurobi,32,76,88,111,65
+9,25,astart - ogsa,28,72,87,111,65
+9,25,astart - Gecode,32,76,87,111,65
+9,25,astart - Gurobi,32,76,87,111,65
+10,25,astart - ogsa,21,65,127,111,65
+10,25,astart - Gecode,32,76,127,111,65
+10,25,astart - Gurobi,32,76,127,111,65
+11,25,astart - ogsa,25,68,127,111,65
+11,25,astart - Gecode,32,76,127,111,65
+11,25,astart - Gurobi,32,76,127,111,65
+12,25,astart - ogsa,28,72,127,111,65
+12,25,astart - Gecode,31,74,127,111,65
+12,25,astart - Gurobi,31,74,127,111,65
+0,26,demands,72,100,5000,650,11
+0,26,durations,2,5,5,6,1
+0,26,earliest_starts,0,0,0,0,0
+0,26,latest_ends,143,143,143,143,143
+0,26,care_factors,900,5400,900,8100,5400
+0,26,predecessors,-1,-1,-1,-1,-1
+0,26,successors,-1,-1,-1,-1,-1
+0,26,prec_delays,-1,-1,-1,-1,-1
+0,26,preferred_starts,93,60,17,35,88
+1,26,astart - ogsa,91,60,17,30,88
+1,26,astart - Gecode,91,60,17,30,88
+1,26,astart - Gurobi,91,60,17,30,88
+2,26,astart - ogsa,88,60,6,24,88
+2,26,astart - Gecode,88,60,6,24,88
+2,26,astart - Gurobi,88,60,6,24,88
+3,26,astart - ogsa,93,60,16,21,88
+3,26,astart - Gecode,93,60,16,21,88
+3,26,astart - Gurobi,93,60,16,21,88
+4,26,astart - ogsa,93,60,19,30,88
+4,26,astart - Gecode,93,60,19,30,88
+4,26,astart - Gurobi,93,60,19,30,88
+5,26,astart - ogsa,93,60,21,30,88
+5,26,astart - Gecode,93,60,21,30,88
+5,26,astart - Gurobi,93,60,21,30,88
+6,26,astart - ogsa,93,60,22,30,88
+6,26,astart - Gecode,93,60,22,30,88
+6,26,astart - Gurobi,93,60,22,30,88
+7,26,astart - ogsa,93,60,18,27,88
+7,26,astart - Gecode,93,60,18,27,88
+7,26,astart - Gurobi,93,60,18,27,88
+8,26,astart - ogsa,93,60,22,27,88
+8,26,astart - Gecode,93,60,22,27,88
+8,26,astart - Gurobi,93,60,22,27,88
+9,26,astart - ogsa,93,60,25,27,88
+9,26,astart - Gecode,93,60,25,27,88
+9,26,astart - Gurobi,93,60,25,27,88
+10,26,astart - ogsa,91,60,19,21,88
+10,26,astart - Gecode,91,60,19,21,88
+10,26,astart - Gurobi,91,60,19,21,88
+11,26,astart - ogsa,93,60,10,24,88
+11,26,astart - Gecode,93,60,10,24,88
+11,26,astart - Gurobi,93,60,10,24,88
+12,26,astart - ogsa,96,60,16,24,88
+12,26,astart - Gecode,96,60,16,24,88
+12,26,astart - Gurobi,96,60,16,24,88
+0,27,demands,1200,62,100,1100,1500
+0,27,durations,3,5,1,3,4
+0,27,earliest_starts,0,0,0,0,0
+0,27,latest_ends,143,143,143,143,143
+0,27,care_factors,3600,0,6300,0,1800
+0,27,predecessors,0,0,0,-1,-1
+0,27,successors,1,2,3,-1,-1
+0,27,prec_delays,20,90,117,-1,-1
+0,27,preferred_starts,26,121,100,85,23
+1,27,astart - ogsa,21,24,98,24,20
+1,27,astart - Gecode,18,21,98,21,20
+1,27,astart - Gurobi,18,21,98,21,20
+2,27,astart - ogsa,21,24,102,24,6
+2,27,astart - Gecode,18,21,102,21,6
+2,27,astart - Gurobi,18,21,102,21,6
+3,27,astart - ogsa,21,24,100,24,20
+3,27,astart - Gecode,18,21,100,21,20
+3,27,astart - Gurobi,18,21,100,21,20
+4,27,astart - ogsa,24,27,100,27,23
+4,27,astart - Gecode,21,24,100,24,23
+4,27,astart - Gurobi,21,24,100,24,23
+5,27,astart - ogsa,26,29,100,29,21
+5,27,astart - Gecode,21,24,100,24,21
+5,27,astart - Gurobi,21,24,100,24,21
+6,27,astart - ogsa,24,27,100,27,23
+6,27,astart - Gecode,22,25,100,25,23
+6,27,astart - Gurobi,22,25,100,25,23
+7,27,astart - ogsa,26,29,100,29,23
+7,27,astart - Gecode,22,25,100,25,23
+7,27,astart - Gurobi,22,25,100,25,23
+8,27,astart - ogsa,26,29,100,29,23
+8,27,astart - Gecode,24,27,100,27,23
+8,27,astart - Gurobi,24,27,100,27,23
+9,27,astart - ogsa,26,29,100,29,24
+9,27,astart - Gecode,24,27,100,27,24
+9,27,astart - Gurobi,24,27,100,27,24
+10,27,astart - ogsa,21,24,100,24,20
+10,27,astart - Gecode,18,21,100,21,20
+10,27,astart - Gurobi,18,21,100,21,20
+11,27,astart - ogsa,26,29,100,84,14
+11,27,astart - Gecode,13,16,100,16,14
+11,27,astart - Gurobi,13,16,100,16,14
+12,27,astart - ogsa,21,24,100,24,20
+12,27,astart - Gecode,18,21,100,21,20
+12,27,astart - Gurobi,18,21,100,21,20
+0,28,demands,56,900,60,1000,90
+0,28,durations,1,7,2,7,9
+0,28,earliest_starts,0,0,0,0,0
+0,28,latest_ends,143,143,143,143,143
+0,28,care_factors,9000,8100,5400,6300,5400
+0,28,predecessors,0,1,0,-1,-1
+0,28,successors,1,3,4,-1,-1
+0,28,prec_delays,130,72,11,-1,-1
+0,28,preferred_starts,69,83,29,109,73
+1,28,astart - ogsa,69,74,29,109,72
+1,28,astart - Gecode,69,74,29,109,72
+1,28,astart - Gurobi,69,74,29,109,72
+2,28,astart - ogsa,69,71,29,109,72
+2,28,astart - Gecode,69,71,29,109,72
+2,28,astart - Gurobi,69,71,29,109,72
+3,28,astart - ogsa,69,83,29,117,73
+3,28,astart - Gecode,69,83,29,117,73
+3,28,astart - Gurobi,69,83,29,117,73
+4,28,astart - ogsa,69,83,29,114,73
+4,28,astart - Gecode,69,83,29,114,73
+4,28,astart - Gurobi,69,83,29,114,73
+5,28,astart - ogsa,69,83,29,125,73
+5,28,astart - Gecode,69,83,29,125,73
+5,28,astart - Gurobi,69,83,29,125,73
+6,28,astart - ogsa,69,83,29,125,73
+6,28,astart - Gecode,69,83,29,125,73
+6,28,astart - Gurobi,69,83,29,125,73
+7,28,astart - ogsa,69,83,29,90,73
+7,28,astart - Gecode,69,82,29,89,73
+7,28,astart - Gurobi,69,82,29,89,73
+8,28,astart - ogsa,69,83,29,90,73
+8,28,astart - Gecode,69,83,29,90,73
+8,28,astart - Gurobi,69,83,29,90,73
+9,28,astart - ogsa,69,83,29,90,73
+9,28,astart - Gecode,69,82,29,89,73
+9,28,astart - Gurobi,69,82,29,89,73
+10,28,astart - ogsa,69,83,29,125,73
+10,28,astart - Gecode,69,83,29,125,73
+10,28,astart - Gurobi,69,83,29,125,73
+11,28,astart - ogsa,69,83,29,125,73
+11,28,astart - Gecode,69,83,29,125,73
+11,28,astart - Gurobi,69,83,29,125,73
+12,28,astart - ogsa,69,70,29,126,73
+12,28,astart - Gecode,69,70,29,126,73
+12,28,astart - Gurobi,69,70,29,126,73
+0,29,demands,3600,55,1000,56,2
+0,29,durations,3,2,4,7,3
+0,29,earliest_starts,0,0,0,0,0
+0,29,latest_ends,143,143,143,143,143
+0,29,care_factors,5400,900,4500,1800,8100
+0,29,predecessors,1,0,-1,-1,-1
+0,29,successors,2,3,-1,-1,-1
+0,29,prec_delays,111,100,-1,-1,-1
+0,29,preferred_starts,64,66,71,112,95
+1,29,astart - ogsa,21,66,71,112,95
+1,29,astart - Gecode,21,66,71,112,95
+1,29,astart - Gurobi,21,66,71,112,95
+2,29,astart - ogsa,6,66,71,109,95
+2,29,astart - Gecode,21,66,71,112,95
+2,29,astart - Gurobi,21,66,71,112,95
+3,29,astart - ogsa,21,66,69,112,95
+3,29,astart - Gecode,21,66,69,112,95
+3,29,astart - Gurobi,69,66,69,112,95
+4,29,astart - ogsa,24,66,71,112,95
+4,29,astart - Gecode,24,66,71,112,95
+4,29,astart - Gurobi,24,66,71,112,95
+5,29,astart - ogsa,21,66,71,112,95
+5,29,astart - Gecode,21,66,71,112,95
+5,29,astart - Gurobi,21,66,71,112,95
+6,29,astart - ogsa,24,66,71,112,95
+6,29,astart - Gecode,24,66,71,112,95
+6,29,astart - Gurobi,24,66,71,112,95
+7,29,astart - ogsa,24,66,69,112,95
+7,29,astart - Gecode,24,66,69,112,95
+7,29,astart - Gurobi,24,66,69,112,95
+8,29,astart - ogsa,27,66,72,114,95
+8,29,astart - Gecode,27,66,72,114,95
+8,29,astart - Gurobi,27,66,72,114,95
+9,29,astart - ogsa,27,66,71,114,95
+9,29,astart - Gecode,27,66,71,114,95
+9,29,astart - Gurobi,27,66,71,114,95
+10,29,astart - ogsa,21,66,75,114,95
+10,29,astart - Gecode,21,66,75,114,95
+10,29,astart - Gurobi,21,66,75,114,95
+11,29,astart - ogsa,72,66,72,112,95
+11,29,astart - Gecode,72,66,72,112,95
+11,29,astart - Gurobi,72,66,72,112,95
+12,29,astart - ogsa,21,66,71,114,95
+12,29,astart - Gecode,21,66,71,114,95
+12,29,astart - Gurobi,21,66,71,114,95
+0,30,demands,3500,2400,1200,10,100
+0,30,durations,1,4,3,2,8
+0,30,earliest_starts,0,0,0,0,0
+0,30,latest_ends,143,143,143,143,143
+0,30,care_factors,1800,7200,1800,6300,7200
+0,30,predecessors,0,0,0,-1,-1
+0,30,successors,1,2,4,-1,-1
+0,30,prec_delays,106,140,84,-1,-1
+0,30,preferred_starts,35,48,78,25,135
+1,30,astart - ogsa,23,26,24,25,108
+1,30,astart - Gecode,44,47,75,25,129
+1,30,astart - Gurobi,44,47,75,25,129
+2,30,astart - ogsa,8,20,21,25,84
+2,30,astart - Gecode,22,23,23,25,107
+2,30,astart - Gurobi,22,23,23,25,107
+3,30,astart - ogsa,23,51,78,25,108
+3,30,astart - Gecode,51,52,78,25,135
+3,30,astart - Gurobi,51,52,78,25,135
+4,30,astart - ogsa,26,27,75,25,111
+4,30,astart - Gecode,25,26,26,25,110
+4,30,astart - Gurobi,25,26,26,25,110
+5,30,astart - ogsa,23,26,24,25,108
+5,30,astart - Gecode,25,26,26,25,110
+5,30,astart - Gurobi,25,26,26,25,110
+6,30,astart - ogsa,26,27,27,25,111
+6,30,astart - Gecode,25,26,26,25,110
+6,30,astart - Gurobi,25,26,26,25,110
+7,30,astart - ogsa,26,27,27,25,111
+7,30,astart - Gecode,25,26,26,25,110
+7,30,astart - Gurobi,25,26,26,25,110
+8,30,astart - ogsa,29,30,30,25,114
+8,30,astart - Gecode,25,26,27,25,110
+8,30,astart - Gurobi,25,26,27,25,110
+9,30,astart - ogsa,29,30,75,25,114
+9,30,astart - Gecode,63,64,75,25,135
+9,30,astart - Gurobi,63,64,75,25,135
+10,30,astart - ogsa,23,24,75,25,108
+10,30,astart - Gecode,19,20,75,25,104
+10,30,astart - Gurobi,19,20,75,25,104
+11,30,astart - ogsa,17,26,78,25,102
+11,30,astart - Gecode,60,72,78,25,135
+11,30,astart - Gurobi,60,72,78,25,135
+12,30,astart - ogsa,23,26,27,25,108
+12,30,astart - Gecode,25,26,27,25,110
+12,30,astart - Gurobi,25,26,27,25,110
+0,31,demands,1200,700,1200,50,2400
+0,31,durations,1,7,1,1,2
+0,31,earliest_starts,0,0,0,0,0
+0,31,latest_ends,143,143,143,143,143
+0,31,care_factors,7200,900,900,7200,900
+0,31,predecessors,0,2,-1,-1,-1
+0,31,successors,2,4,-1,-1,-1
+0,31,prec_delays,122,17,-1,-1,-1
+0,31,preferred_starts,34,69,69,45,100
+1,31,astart - ogsa,34,17,62,45,76
+1,31,astart - Gecode,34,17,129,45,130
+1,31,astart - Gurobi,34,17,129,45,130
+2,31,astart - ogsa,34,6,68,45,70
+2,31,astart - Gecode,23,6,24,45,25
+2,31,astart - Gurobi,23,6,24,45,25
+3,31,astart - ogsa,36,17,69,45,70
+3,31,astart - Gecode,32,17,69,45,70
+3,31,astart - Gurobi,32,17,69,45,70
+4,31,astart - ogsa,34,20,68,45,76
+4,31,astart - Gecode,26,20,27,45,28
+4,31,astart - Gurobi,26,20,27,45,28
+5,31,astart - ogsa,34,21,69,45,87
+5,31,astart - Gecode,26,21,27,45,28
+5,31,astart - Gurobi,26,21,27,45,28
+6,31,astart - ogsa,34,20,69,45,85
+6,31,astart - Gecode,26,20,27,45,28
+6,31,astart - Gurobi,26,20,27,45,28
+7,31,astart - ogsa,34,20,69,45,85
+7,31,astart - Gecode,26,20,27,45,28
+7,31,astart - Gurobi,26,20,27,45,28
+8,31,astart - ogsa,32,23,72,45,76
+8,31,astart - Gecode,26,23,27,45,28
+8,31,astart - Gurobi,26,23,27,45,28
+9,31,astart - ogsa,34,23,69,45,87
+9,31,astart - Gecode,34,23,69,45,87
+9,31,astart - Gurobi,34,23,69,45,87
+10,31,astart - ogsa,34,17,75,45,76
+10,31,astart - Gecode,34,17,75,45,76
+10,31,astart - Gurobi,34,17,75,45,76
+11,31,astart - ogsa,29,11,72,45,85
+11,31,astart - Gecode,29,11,72,45,85
+11,31,astart - Gurobi,29,11,72,45,85
+12,31,astart - ogsa,34,17,69,45,70
+12,31,astart - Gecode,26,17,27,45,28
+12,31,astart - Gurobi,26,17,27,45,28
+0,32,demands,55,100,4,900,3600
+0,32,durations,3,3,1,9,1
+0,32,earliest_starts,0,0,0,0,0
+0,32,latest_ends,143,143,143,143,143
+0,32,care_factors,4500,1800,6300,0,9000
+0,32,predecessors,1,3,-1,-1,-1
+0,32,successors,3,4,-1,-1,-1
+0,32,prec_delays,19,80,-1,-1,-1
+0,32,preferred_starts,118,6,14,28,46
+1,32,astart - ogsa,118,6,14,15,44
+1,32,astart - Gecode,118,6,14,15,44
+1,32,astart - Gurobi,118,6,14,15,46
+2,32,astart - ogsa,118,6,14,15,46
+2,32,astart - Gecode,118,3,14,6,46
+2,32,astart - Gurobi,118,3,14,6,46
+3,32,astart - ogsa,118,6,14,15,46
+3,32,astart - Gecode,118,6,14,12,46
+3,32,astart - Gurobi,118,6,14,15,46
+4,32,astart - ogsa,118,6,14,18,44
+4,32,astart - Gecode,118,6,14,18,44
+4,32,astart - Gurobi,118,6,14,18,44
+5,32,astart - ogsa,118,6,14,18,35
+5,32,astart - Gecode,118,6,14,18,35
+5,32,astart - Gurobi,118,6,14,18,35
+6,32,astart - ogsa,118,6,14,18,32
+6,32,astart - Gecode,118,6,14,18,32
+6,32,astart - Gurobi,118,6,14,18,32
+7,32,astart - ogsa,118,6,14,18,35
+7,32,astart - Gecode,118,6,14,18,29
+7,32,astart - Gurobi,118,6,14,18,35
+8,32,astart - ogsa,118,6,14,21,32
+8,32,astart - Gecode,118,6,14,20,29
+8,32,astart - Gurobi,118,6,14,20,29
+9,32,astart - ogsa,118,6,14,21,32
+9,32,astart - Gecode,118,6,14,20,29
+9,32,astart - Gurobi,118,6,14,20,29
+10,32,astart - ogsa,118,6,14,15,46
+10,32,astart - Gecode,118,6,14,15,46
+10,32,astart - Gurobi,118,6,14,15,46
+11,32,astart - ogsa,118,6,14,9,46
+11,32,astart - Gecode,118,6,14,9,46
+11,32,astart - Gurobi,118,6,14,9,46
+12,32,astart - ogsa,118,6,14,12,44
+12,32,astart - Gecode,118,6,14,12,44
+12,32,astart - Gurobi,118,6,14,15,44
+0,33,demands,90,60,1200,10,100
+0,33,durations,1,4,4,7,2
+0,33,earliest_starts,0,0,0,0,0
+0,33,latest_ends,143,143,143,143,143
+0,33,care_factors,5400,8100,4500,900,5400
+0,33,predecessors,-1,-1,-1,-1,-1
+0,33,successors,-1,-1,-1,-1,-1
+0,33,prec_delays,-1,-1,-1,-1,-1
+0,33,preferred_starts,124,30,2,133,22
+1,33,astart - ogsa,124,30,9,133,22
+1,33,astart - Gecode,124,30,9,133,22
+1,33,astart - Gurobi,124,30,9,133,22
+2,33,astart - ogsa,124,30,6,133,22
+2,33,astart - Gecode,124,30,6,133,22
+2,33,astart - Gurobi,124,30,6,133,22
+3,33,astart - ogsa,124,30,9,133,22
+3,33,astart - Gecode,124,30,9,133,22
+3,33,astart - Gurobi,124,30,9,133,22
+4,33,astart - ogsa,124,30,9,133,22
+4,33,astart - Gecode,124,30,9,133,22
+4,33,astart - Gurobi,124,30,9,133,22
+5,33,astart - ogsa,124,30,12,133,22
+5,33,astart - Gecode,124,30,12,133,22
+5,33,astart - Gurobi,124,30,12,133,22
+6,33,astart - ogsa,124,30,18,133,22
+6,33,astart - Gecode,124,30,18,133,22
+6,33,astart - Gurobi,124,30,18,133,22
+7,33,astart - ogsa,124,30,15,133,22
+7,33,astart - Gecode,124,30,15,133,22
+7,33,astart - Gurobi,124,30,15,133,22
+8,33,astart - ogsa,124,30,18,133,22
+8,33,astart - Gecode,124,30,18,133,22
+8,33,astart - Gurobi,124,30,18,133,22
+9,33,astart - ogsa,124,30,15,133,22
+9,33,astart - Gecode,124,30,15,133,22
+9,33,astart - Gurobi,124,30,15,133,22
+10,33,astart - ogsa,124,30,15,133,22
+10,33,astart - Gecode,124,30,15,133,22
+10,33,astart - Gurobi,124,30,15,133,22
+11,33,astart - ogsa,124,30,9,133,22
+11,33,astart - Gecode,124,30,9,133,22
+11,33,astart - Gurobi,124,30,9,133,22
+12,33,astart - ogsa,124,30,9,133,22
+12,33,astart - Gecode,124,30,9,133,22
+12,33,astart - Gurobi,124,30,9,133,22
+0,34,demands,100,400,1000,350,15
+0,34,durations,6,6,4,4,4
+0,34,earliest_starts,0,0,0,0,0
+0,34,latest_ends,143,143,143,143,143
+0,34,care_factors,9000,3600,6300,4500,1800
+0,34,predecessors,1,-1,-1,-1,-1
+0,34,successors,2,-1,-1,-1,-1
+0,34,prec_delays,132,-1,-1,-1,-1
+0,34,preferred_starts,130,37,105,3,77
+1,34,astart - ogsa,130,24,108,3,77
+1,34,astart - Gecode,130,24,108,3,77
+1,34,astart - Gurobi,130,24,108,3,77
+2,34,astart - ogsa,130,24,105,5,77
+2,34,astart - Gecode,130,21,105,5,77
+2,34,astart - Gurobi,130,21,105,5,77
+3,34,astart - ogsa,130,21,105,3,77
+3,34,astart - Gecode,130,21,105,3,77
+3,34,astart - Gurobi,130,21,105,3,77
+4,34,astart - ogsa,130,26,114,3,77
+4,34,astart - Gecode,130,24,114,3,77
+4,34,astart - Gurobi,130,24,114,3,77
+5,34,astart - ogsa,130,25,114,3,77
+5,34,astart - Gecode,130,24,114,3,77
+5,34,astart - Gurobi,130,24,114,3,77
+6,34,astart - ogsa,130,27,89,3,77
+6,34,astart - Gecode,130,27,89,3,77
+6,34,astart - Gurobi,130,27,89,3,77
+7,34,astart - ogsa,130,24,89,3,77
+7,34,astart - Gecode,130,24,89,3,77
+7,34,astart - Gurobi,130,24,89,3,77
+8,34,astart - ogsa,130,24,89,3,77
+8,34,astart - Gecode,130,24,89,3,77
+8,34,astart - Gurobi,130,24,89,3,77
+9,34,astart - ogsa,130,24,89,3,77
+9,34,astart - Gecode,130,24,89,3,77
+9,34,astart - Gurobi,130,24,89,3,77
+10,34,astart - ogsa,130,21,89,3,77
+10,34,astart - Gecode,130,21,89,3,77
+10,34,astart - Gurobi,130,21,89,3,77
+11,34,astart - ogsa,130,24,104,6,77
+11,34,astart - Gecode,130,24,104,6,77
+11,34,astart - Gurobi,130,24,104,6,77
+12,34,astart - ogsa,130,24,102,3,77
+12,34,astart - Gecode,130,24,102,3,77
+12,34,astart - Gurobi,130,24,102,3,77
+0,35,demands,1200,120,148,700,1000
+0,35,durations,2,7,6,1,4
+0,35,earliest_starts,0,0,0,0,0
+0,35,latest_ends,143,143,143,143,143
+0,35,care_factors,900,0,3600,6300,9000
+0,35,predecessors,0,3,-1,-1,-1
+0,35,successors,1,4,-1,-1,-1
+0,35,prec_delays,52,73,-1,-1,-1
+0,35,preferred_starts,72,133,91,69,73
+1,35,astart - ogsa,22,24,75,69,73
+1,35,astart - Gecode,21,23,75,69,73
+1,35,astart - Gurobi,21,23,75,69,73
+2,35,astart - ogsa,7,15,84,69,73
+2,35,astart - Gecode,7,15,84,69,73
+2,35,astart - Gurobi,7,15,84,69,73
+3,35,astart - ogsa,22,24,91,69,73
+3,35,astart - Gecode,15,17,91,69,73
+3,35,astart - Gurobi,15,17,91,69,73
+4,35,astart - ogsa,25,27,91,69,73
+4,35,astart - Gecode,21,23,91,69,73
+4,35,astart - Gurobi,21,23,91,69,73
+5,35,astart - ogsa,22,24,91,69,73
+5,35,astart - Gecode,21,23,91,69,73
+5,35,astart - Gurobi,21,23,91,69,73
+6,35,astart - ogsa,25,27,91,69,73
+6,35,astart - Gecode,24,26,91,69,73
+6,35,astart - Gurobi,24,26,91,69,73
+7,35,astart - ogsa,25,27,91,69,73
+7,35,astart - Gecode,21,23,91,69,73
+7,35,astart - Gurobi,21,23,91,69,73
+8,35,astart - ogsa,28,30,91,69,73
+8,35,astart - Gecode,24,26,91,69,73
+8,35,astart - Gurobi,24,26,91,69,73
+9,35,astart - ogsa,75,77,91,69,73
+9,35,astart - Gecode,24,26,91,69,73
+9,35,astart - Gurobi,24,26,91,69,73
+10,35,astart - ogsa,22,24,91,69,74
+10,35,astart - Gecode,21,23,91,69,74
+10,35,astart - Gurobi,21,23,91,69,74
+11,35,astart - ogsa,72,80,91,69,73
+11,35,astart - Gecode,72,80,91,69,73
+11,35,astart - Gurobi,72,80,91,69,73
+12,35,astart - ogsa,22,24,96,69,71
+12,35,astart - Gecode,19,21,96,69,71
+12,35,astart - Gurobi,19,21,96,69,71
+0,36,demands,130,300,1000,52,1000
+0,36,durations,9,1,7,2,5
+0,36,earliest_starts,0,0,0,0,0
+0,36,latest_ends,143,143,143,143,143
+0,36,care_factors,1800,8100,8100,4500,5400
+0,36,predecessors,2,-1,-1,-1,-1
+0,36,successors,3,-1,-1,-1,-1
+0,36,prec_delays,39,-1,-1,-1,-1
+0,36,preferred_starts,95,95,38,45,105
+1,36,astart - ogsa,108,92,23,45,108
+1,36,astart - Gecode,108,92,23,45,108
+1,36,astart - Gurobi,108,92,23,45,108
+2,36,astart - ogsa,102,92,20,45,105
+2,36,astart - Gecode,102,92,20,45,105
+2,36,astart - Gurobi,102,92,20,45,105
+3,36,astart - ogsa,95,95,20,45,105
+3,36,astart - Gecode,95,95,20,45,105
+3,36,astart - Gurobi,95,95,20,45,105
+4,36,astart - ogsa,95,95,23,45,114
+4,36,astart - Gecode,95,95,23,45,114
+4,36,astart - Gurobi,95,95,23,45,114
+5,36,astart - ogsa,90,95,23,43,88
+5,36,astart - Gecode,90,95,23,43,88
+5,36,astart - Gurobi,90,95,23,43,88
+6,36,astart - ogsa,84,95,26,45,85
+6,36,astart - Gecode,84,95,26,45,85
+6,36,astart - Gurobi,84,95,26,45,85
+7,36,astart - ogsa,90,95,23,45,88
+7,36,astart - Gecode,90,95,23,45,88
+7,36,astart - Gurobi,90,95,23,45,88
+8,36,astart - ogsa,90,95,23,45,88
+8,36,astart - Gecode,90,95,23,45,88
+8,36,astart - Gurobi,90,95,23,45,88
+9,36,astart - ogsa,87,95,24,45,87
+9,36,astart - Gecode,87,95,24,45,87
+9,36,astart - Gurobi,87,95,24,45,87
+10,36,astart - ogsa,95,95,17,45,88
+10,36,astart - Gecode,95,95,17,45,88
+10,36,astart - Gurobi,95,95,17,45,88
+11,36,astart - ogsa,95,95,23,45,85
+11,36,astart - Gecode,95,95,23,45,85
+11,36,astart - Gurobi,95,95,23,45,85
+12,36,astart - ogsa,96,96,23,45,127
+12,36,astart - Gecode,96,96,23,45,127
+12,36,astart - Gurobi,96,96,23,45,127
+0,37,demands,550,2000,11,1000,50
+0,37,durations,2,2,5,4,2
+0,37,earliest_starts,0,0,0,0,0
+0,37,latest_ends,143,143,143,143,143
+0,37,care_factors,0,4500,4500,5400,0
+0,37,predecessors,-1,-1,-1,-1,-1
+0,37,successors,-1,-1,-1,-1,-1
+0,37,prec_delays,-1,-1,-1,-1,-1
+0,37,preferred_starts,50,61,71,38,126
+1,37,astart - ogsa,15,61,71,26,18
+1,37,astart - Gecode,15,61,71,26,15
+1,37,astart - Gurobi,22,61,71,26,22
+2,37,astart - ogsa,6,61,71,23,6
+2,37,astart - Gecode,6,61,71,23,6
+2,37,astart - Gurobi,7,61,71,23,7
+3,37,astart - ogsa,19,61,71,20,17
+3,37,astart - Gecode,15,61,71,20,15
+3,37,astart - Gurobi,19,61,71,20,19
+4,37,astart - ogsa,22,61,71,26,22
+4,37,astart - Gecode,21,61,71,26,21
+4,37,astart - Gurobi,22,61,71,26,22
+5,37,astart - ogsa,21,63,71,26,21
+5,37,astart - Gecode,21,63,71,26,21
+5,37,astart - Gurobi,22,63,71,26,22
+6,37,astart - ogsa,25,25,71,29,24
+6,37,astart - Gecode,24,25,71,29,24
+6,37,astart - Gurobi,25,25,71,29,25
+7,37,astart - ogsa,19,28,71,26,21
+7,37,astart - Gecode,18,28,71,26,18
+7,37,astart - Gurobi,22,28,71,26,22
+8,37,astart - ogsa,24,28,71,26,24
+8,37,astart - Gecode,24,28,71,26,24
+8,37,astart - Gurobi,25,28,71,26,25
+9,37,astart - ogsa,27,63,71,26,28
+9,37,astart - Gecode,27,63,71,26,27
+9,37,astart - Gurobi,28,63,71,26,28
+10,37,astart - ogsa,21,63,71,20,21
+10,37,astart - Gecode,21,63,71,20,21
+10,37,astart - Gurobi,22,63,71,20,22
+11,37,astart - ogsa,12,61,71,26,9
+11,37,astart - Gecode,9,61,71,26,9
+11,37,astart - Gurobi,13,61,71,26,13
+12,37,astart - ogsa,18,61,71,26,18
+12,37,astart - Gecode,15,61,71,26,15
+12,37,astart - Gurobi,19,61,71,26,19
+0,38,demands,35,1200,20,5,2400
+0,38,durations,5,5,7,5,4
+0,38,earliest_starts,0,0,0,0,0
+0,38,latest_ends,143,143,143,143,143
+0,38,care_factors,2700,4500,0,4500,1800
+0,38,predecessors,-1,-1,-1,-1,-1
+0,38,successors,-1,-1,-1,-1,-1
+0,38,prec_delays,-1,-1,-1,-1,-1
+0,38,preferred_starts,49,54,88,13,19
+1,38,astart - ogsa,49,54,16,13,19
+1,38,astart - Gecode,49,54,15,13,19
+1,38,astart - Gurobi,49,54,15,13,19
+2,38,astart - ogsa,49,19,6,13,6
+2,38,astart - Gecode,49,19,6,13,6
+2,38,astart - Gurobi,49,19,6,13,6
+3,38,astart - ogsa,49,54,14,13,17
+3,38,astart - Gecode,49,54,14,13,17
+3,38,astart - Gurobi,49,54,14,13,17
+4,38,astart - ogsa,49,25,19,13,20
+4,38,astart - Gecode,49,25,18,13,20
+4,38,astart - Gurobi,49,25,18,13,20
+5,38,astart - ogsa,49,25,20,13,21
+5,38,astart - Gecode,49,25,20,13,21
+5,38,astart - Gurobi,49,25,20,13,21
+6,38,astart - ogsa,49,24,20,13,19
+6,38,astart - Gecode,49,24,20,13,19
+6,38,astart - Gurobi,49,24,20,13,23
+7,38,astart - ogsa,49,25,18,13,19
+7,38,astart - Gecode,49,25,18,13,19
+7,38,astart - Gurobi,49,25,18,13,19
+8,38,astart - ogsa,49,25,22,13,23
+8,38,astart - Gecode,49,25,21,13,23
+8,38,astart - Gurobi,49,25,21,13,23
+9,38,astart - ogsa,49,25,23,13,26
+9,38,astart - Gecode,49,25,23,13,26
+9,38,astart - Gurobi,49,25,23,13,26
+10,38,astart - ogsa,49,19,17,13,20
+10,38,astart - Gecode,49,19,17,13,20
+10,38,astart - Gurobi,49,19,17,13,20
+11,38,astart - ogsa,49,72,9,13,11
+11,38,astart - Gecode,49,72,9,13,11
+11,38,astart - Gurobi,49,72,9,13,11
+12,38,astart - ogsa,49,19,14,13,17
+12,38,astart - Gecode,49,19,14,13,17
+12,38,astart - Gurobi,49,19,14,13,17
+0,39,demands,400,1000,56,75,93
+0,39,durations,1,1,1,1,4
+0,39,earliest_starts,0,0,0,0,0
+0,39,latest_ends,143,143,143,143,143
+0,39,care_factors,1800,4500,7200,6300,7200
+0,39,predecessors,0,0,-1,-1,-1
+0,39,successors,1,3,-1,-1,-1
+0,39,prec_delays,25,107,-1,-1,-1
+0,39,preferred_starts,24,104,92,82,44
+1,39,astart - ogsa,24,50,92,82,44
+1,39,astart - Gecode,54,80,92,82,44
+1,39,astart - Gurobi,54,80,92,82,44
+2,39,astart - ogsa,24,50,92,82,44
+2,39,astart - Gecode,77,103,92,82,44
+2,39,astart - Gurobi,77,103,92,82,44
+3,39,astart - ogsa,23,49,92,82,44
+3,39,astart - Gecode,79,105,92,82,44
+3,39,astart - Gurobi,79,105,92,82,44
+4,39,astart - ogsa,24,50,92,82,44
+4,39,astart - Gecode,78,104,92,82,44
+4,39,astart - Gurobi,78,104,92,82,44
+5,39,astart - ogsa,24,50,92,82,42
+5,39,astart - Gecode,75,101,92,82,42
+5,39,astart - Gurobi,75,101,92,82,42
+6,39,astart - ogsa,24,35,92,82,44
+6,39,astart - Gecode,66,92,92,82,44
+6,39,astart - Gurobi,66,92,92,82,44
+7,39,astart - ogsa,24,50,92,82,44
+7,39,astart - Gecode,75,101,92,82,44
+7,39,astart - Gurobi,75,101,92,82,44
+8,39,astart - ogsa,24,50,92,82,44
+8,39,astart - Gecode,72,98,92,82,44
+8,39,astart - Gurobi,72,98,92,82,44
+9,39,astart - ogsa,24,50,92,82,44
+9,39,astart - Gecode,72,98,92,82,44
+9,39,astart - Gurobi,72,98,92,82,44
+10,39,astart - ogsa,23,47,92,82,44
+10,39,astart - Gecode,78,104,92,82,44
+10,39,astart - Gurobi,78,104,92,82,44
+11,39,astart - ogsa,24,50,92,82,44
+11,39,astart - Gecode,78,104,92,82,44
+11,39,astart - Gurobi,78,104,92,82,44
+12,39,astart - ogsa,23,49,92,82,44
+12,39,astart - Gecode,78,104,92,82,44
+12,39,astart - Gurobi,78,104,92,82,44
+0,40,demands,3600,600,52,75,80
+0,40,durations,3,3,3,6,7
+0,40,earliest_starts,0,0,0,0,0
+0,40,latest_ends,143,143,143,143,143
+0,40,care_factors,6300,3600,7200,6300,5400
+0,40,predecessors,-1,-1,-1,-1,-1
+0,40,successors,-1,-1,-1,-1,-1
+0,40,prec_delays,-1,-1,-1,-1,-1
+0,40,preferred_starts,84,123,10,122,61
+1,40,astart - ogsa,21,123,10,122,61
+1,40,astart - Gecode,21,123,10,122,61
+1,40,astart - Gurobi,21,123,10,122,61
+2,40,astart - ogsa,21,123,10,122,61
+2,40,astart - Gecode,21,123,10,122,61
+2,40,astart - Gurobi,21,123,10,122,61
+3,40,astart - ogsa,84,123,10,122,61
+3,40,astart - Gecode,84,123,10,122,61
+3,40,astart - Gurobi,84,123,10,122,61
+4,40,astart - ogsa,75,123,10,122,61
+4,40,astart - Gecode,75,123,10,122,61
+4,40,astart - Gurobi,75,123,10,122,61
+5,40,astart - ogsa,87,126,10,122,61
+5,40,astart - Gecode,21,123,10,122,61
+5,40,astart - Gurobi,87,126,10,122,61
+6,40,astart - ogsa,84,123,10,122,61
+6,40,astart - Gecode,84,123,10,122,61
+6,40,astart - Gurobi,84,129,10,122,61
+7,40,astart - ogsa,84,129,10,122,61
+7,40,astart - Gecode,84,129,10,122,61
+7,40,astart - Gurobi,84,129,10,122,61
+8,40,astart - ogsa,27,129,10,122,61
+8,40,astart - Gecode,27,129,10,122,61
+8,40,astart - Gurobi,27,129,10,122,61
+9,40,astart - ogsa,87,126,10,122,61
+9,40,astart - Gecode,87,126,10,122,61
+9,40,astart - Gurobi,87,126,10,122,61
+10,40,astart - ogsa,75,129,10,122,61
+10,40,astart - Gecode,75,129,10,122,61
+10,40,astart - Gurobi,75,129,10,122,61
+11,40,astart - ogsa,84,123,10,122,61
+11,40,astart - Gecode,84,123,10,122,61
+11,40,astart - Gurobi,84,123,10,122,61
+12,40,astart - ogsa,21,129,10,122,61
+12,40,astart - Gecode,21,126,10,122,61
+12,40,astart - Gurobi,21,129,10,122,61
+0,41,demands,700,1000,1000,1700,30
+0,41,durations,5,3,3,4,1
+0,41,earliest_starts,0,0,0,0,0
+0,41,latest_ends,143,143,143,143,143
+0,41,care_factors,0,4500,1800,2700,1800
+0,41,predecessors,-1,-1,-1,-1,-1
+0,41,successors,-1,-1,-1,-1,-1
+0,41,prec_delays,-1,-1,-1,-1,-1
+0,41,preferred_starts,110,106,109,74,129
+1,41,astart - ogsa,18,108,129,20,129
+1,41,astart - Gecode,15,108,129,20,129
+1,41,astart - Gurobi,19,108,129,20,129
+2,41,astart - ogsa,6,106,135,6,129
+2,41,astart - Gecode,6,106,135,6,129
+2,41,astart - Gurobi,6,106,135,6,129
+3,41,astart - ogsa,15,106,129,20,129
+3,41,astart - Gecode,15,106,129,20,129
+3,41,astart - Gurobi,16,106,129,20,129
+4,41,astart - ogsa,19,114,129,23,129
+4,41,astart - Gecode,19,114,114,23,129
+4,41,astart - Gurobi,21,114,114,23,129
+5,41,astart - ogsa,21,114,129,21,129
+5,41,astart - Gecode,21,114,129,21,129
+5,41,astart - Gurobi,21,114,129,21,129
+6,41,astart - ogsa,22,87,87,23,129
+6,41,astart - Gecode,22,87,87,23,129
+6,41,astart - Gurobi,22,87,87,23,129
+7,41,astart - ogsa,19,90,84,23,129
+7,41,astart - Gecode,18,90,84,23,129
+7,41,astart - Gurobi,19,90,84,23,129
+8,41,astart - ogsa,24,90,90,26,129
+8,41,astart - Gecode,22,90,90,26,129
+8,41,astart - Gurobi,24,90,90,26,129
+9,41,astart - ogsa,25,87,87,74,129
+9,41,astart - Gecode,25,87,87,74,129
+9,41,astart - Gurobi,25,87,87,74,129
+10,41,astart - ogsa,19,90,129,75,129
+10,41,astart - Gecode,19,90,129,75,129
+10,41,astart - Gurobi,19,90,129,75,129
+11,41,astart - ogsa,9,106,84,72,129
+11,41,astart - Gecode,9,106,84,72,129
+11,41,astart - Gurobi,10,106,84,72,129
+12,41,astart - ogsa,16,102,129,20,129
+12,41,astart - Gecode,15,102,129,20,129
+12,41,astart - Gurobi,16,102,129,20,129
+0,42,demands,900,5,52,50,1000
+0,42,durations,1,4,6,2,6
+0,42,earliest_starts,0,0,0,0,0
+0,42,latest_ends,143,143,143,143,143
+0,42,care_factors,5400,6300,900,4500,6300
+0,42,predecessors,3,-1,-1,-1,-1
+0,42,successors,4,-1,-1,-1,-1
+0,42,prec_delays,66,-1,-1,-1,-1
+0,42,preferred_starts,45,28,11,16,22
+1,42,astart - ogsa,45,28,11,16,22
+1,42,astart - Gecode,45,28,11,16,22
+1,42,astart - Gurobi,45,28,11,16,22
+2,42,astart - ogsa,45,28,11,16,21
+2,42,astart - Gecode,45,28,11,16,21
+2,42,astart - Gurobi,45,28,11,16,21
+3,42,astart - ogsa,45,28,11,16,18
+3,42,astart - Gecode,45,28,11,16,18
+3,42,astart - Gurobi,45,28,11,16,18
+4,42,astart - ogsa,44,28,11,16,22
+4,42,astart - Gecode,44,28,11,16,22
+4,42,astart - Gurobi,44,28,11,16,22
+5,42,astart - ogsa,44,28,11,16,22
+5,42,astart - Gecode,44,28,11,16,22
+5,42,astart - Gurobi,44,28,11,16,22
+6,42,astart - ogsa,44,28,11,16,22
+6,42,astart - Gecode,44,28,11,16,22
+6,42,astart - Gurobi,44,28,11,16,22
+7,42,astart - ogsa,35,28,11,16,22
+7,42,astart - Gecode,35,28,11,16,22
+7,42,astart - Gurobi,35,28,11,16,22
+8,42,astart - ogsa,35,28,11,16,22
+8,42,astart - Gecode,35,28,11,16,22
+8,42,astart - Gurobi,35,28,11,16,22
+9,42,astart - ogsa,44,28,11,16,22
+9,42,astart - Gecode,44,28,11,16,22
+9,42,astart - Gurobi,44,28,11,16,22
+10,42,astart - ogsa,45,28,12,16,18
+10,42,astart - Gecode,45,28,12,16,18
+10,42,astart - Gurobi,45,28,12,16,18
+11,42,astart - ogsa,45,28,11,16,22
+11,42,astart - Gecode,45,28,11,16,22
+11,42,astart - Gurobi,45,28,11,16,22
+12,42,astart - ogsa,45,28,11,16,22
+12,42,astart - Gecode,44,28,11,16,22
+12,42,astart - Gurobi,45,28,11,16,22
+0,43,demands,10,1100,600,50,1200
+0,43,durations,3,1,4,4,6
+0,43,earliest_starts,0,0,0,0,0
+0,43,latest_ends,143,143,143,143,143
+0,43,care_factors,7200,9000,4500,7200,7200
+0,43,predecessors,0,-1,-1,-1,-1
+0,43,successors,2,-1,-1,-1,-1
+0,43,prec_delays,56,-1,-1,-1,-1
+0,43,preferred_starts,49,1,94,75,27
+1,43,astart - ogsa,49,1,108,75,22
+1,43,astart - Gecode,49,1,108,75,21
+1,43,astart - Gurobi,49,1,108,75,24
+2,43,astart - ogsa,49,1,102,75,21
+2,43,astart - Gecode,49,1,102,75,21
+2,43,astart - Gurobi,49,1,102,75,21
+3,43,astart - ogsa,49,1,94,75,18
+3,43,astart - Gecode,49,1,94,75,18
+3,43,astart - Gurobi,49,1,94,75,18
+4,43,astart - ogsa,49,1,94,75,24
+4,43,astart - Gecode,49,1,94,75,24
+4,43,astart - Gurobi,49,1,94,75,24
+5,43,astart - ogsa,49,1,94,75,24
+5,43,astart - Gecode,49,1,94,75,24
+5,43,astart - Gurobi,49,1,94,75,24
+6,43,astart - ogsa,49,1,89,75,24
+6,43,astart - Gecode,49,1,89,75,24
+6,43,astart - Gurobi,49,1,89,75,24
+7,43,astart - ogsa,49,1,92,75,24
+7,43,astart - Gecode,49,1,92,75,24
+7,43,astart - Gurobi,49,1,92,75,24
+8,43,astart - ogsa,49,1,89,75,24
+8,43,astart - Gecode,49,1,89,75,24
+8,43,astart - Gurobi,49,1,89,75,24
+9,43,astart - ogsa,49,1,89,75,24
+9,43,astart - Gecode,49,1,89,75,24
+9,43,astart - Gurobi,49,1,89,75,24
+10,43,astart - ogsa,49,1,89,75,18
+10,43,astart - Gecode,49,1,89,75,18
+10,43,astart - Gurobi,49,1,89,75,18
+11,43,astart - ogsa,49,1,94,75,24
+11,43,astart - Gecode,49,1,94,75,24
+11,43,astart - Gurobi,49,1,94,75,24
+12,43,astart - ogsa,49,1,96,75,19
+12,43,astart - Gecode,49,1,96,75,18
+12,43,astart - Gurobi,49,1,96,75,24
+0,44,demands,2000,5,50,1200,1000
+0,44,durations,3,5,1,5,7
+0,44,earliest_starts,0,0,0,0,0
+0,44,latest_ends,143,143,143,143,143
+0,44,care_factors,1800,8100,5400,0,5400
+0,44,predecessors,0,-1,-1,-1,-1
+0,44,successors,2,-1,-1,-1,-1
+0,44,prec_delays,133,-1,-1,-1,-1
+0,44,preferred_starts,1,109,130,117,110
+1,44,astart - ogsa,9,109,130,19,125
+1,44,astart - Gecode,9,109,130,15,125
+1,44,astart - Gurobi,9,109,130,19,125
+2,44,astart - ogsa,6,109,130,6,110
+2,44,astart - Gecode,6,109,130,6,110
+2,44,astart - Gurobi,6,109,130,6,110
+3,44,astart - ogsa,15,109,130,15,117
+3,44,astart - Gecode,15,109,130,15,117
+3,44,astart - Gurobi,15,109,130,16,117
+4,44,astart - ogsa,21,109,130,20,114
+4,44,astart - Gecode,21,109,130,19,114
+4,44,astart - Gurobi,21,109,130,21,114
+5,44,astart - ogsa,21,109,130,21,125
+5,44,astart - Gecode,21,109,130,21,125
+5,44,astart - Gurobi,21,109,130,21,125
+6,44,astart - ogsa,18,109,130,22,84
+6,44,astart - Gecode,18,109,130,22,84
+6,44,astart - Gurobi,18,109,130,22,84
+7,44,astart - ogsa,18,109,130,18,86
+7,44,astart - Gecode,18,109,130,18,86
+7,44,astart - Gurobi,18,109,130,19,86
+8,44,astart - ogsa,24,109,130,24,86
+8,44,astart - Gecode,24,109,130,22,86
+8,44,astart - Gurobi,24,109,130,24,86
+9,44,astart - ogsa,18,109,130,25,86
+9,44,astart - Gecode,18,109,130,25,86
+9,44,astart - Gurobi,18,109,130,25,86
+10,44,astart - ogsa,21,109,130,19,125
+10,44,astart - Gecode,21,109,130,19,125
+10,44,astart - Gurobi,21,109,130,19,125
+11,44,astart - ogsa,9,109,130,9,125
+11,44,astart - Gecode,9,109,130,9,125
+11,44,astart - Gurobi,9,109,130,10,125
+12,44,astart - ogsa,9,109,130,16,126
+12,44,astart - Gecode,9,109,130,15,126
+12,44,astart - Gurobi,9,109,130,16,126
+0,45,demands,11,8,30,150,300
+0,45,durations,4,6,4,4,2
+0,45,earliest_starts,0,0,0,0,0
+0,45,latest_ends,143,143,143,143,143
+0,45,care_factors,3600,900,8100,900,3600
+0,45,predecessors,1,-1,-1,-1,-1
+0,45,successors,2,-1,-1,-1,-1
+0,45,prec_delays,46,-1,-1,-1,-1
+0,45,preferred_starts,75,74,98,49,78
+1,45,astart - ogsa,75,74,95,49,78
+1,45,astart - Gecode,75,74,95,49,78
+1,45,astart - Gurobi,75,74,95,49,78
+2,45,astart - ogsa,75,74,98,49,76
+2,45,astart - Gecode,75,74,98,49,76
+2,45,astart - Gurobi,75,74,98,49,76
+3,45,astart - ogsa,75,74,98,49,78
+3,45,astart - Gecode,75,74,98,49,78
+3,45,astart - Gurobi,75,74,98,49,78
+4,45,astart - ogsa,75,74,98,49,78
+4,45,astart - Gecode,75,74,98,49,78
+4,45,astart - Gurobi,75,74,98,49,78
+5,45,astart - ogsa,75,74,98,26,78
+5,45,astart - Gecode,75,74,98,26,78
+5,45,astart - Gurobi,75,74,98,26,78
+6,45,astart - ogsa,75,74,98,29,78
+6,45,astart - Gecode,75,74,98,29,78
+6,45,astart - Gurobi,75,74,98,29,78
+7,45,astart - ogsa,75,74,98,26,78
+7,45,astart - Gecode,75,74,98,26,78
+7,45,astart - Gurobi,75,74,98,26,78
+8,45,astart - ogsa,75,74,98,26,78
+8,45,astart - Gecode,75,74,98,26,78
+8,45,astart - Gurobi,75,74,98,26,78
+9,45,astart - ogsa,75,74,98,26,78
+9,45,astart - Gecode,75,74,98,26,78
+9,45,astart - Gurobi,75,74,98,26,78
+10,45,astart - ogsa,75,74,98,44,78
+10,45,astart - Gecode,75,74,98,44,78
+10,45,astart - Gurobi,75,74,98,44,78
+11,45,astart - ogsa,75,74,98,51,78
+11,45,astart - Gecode,75,74,98,51,78
+11,45,astart - Gurobi,75,74,98,51,78
+12,45,astart - ogsa,75,74,98,26,78
+12,45,astart - Gecode,75,74,98,26,78
+12,45,astart - Gurobi,75,74,98,26,78
+0,46,demands,1200,150,50,210,75
+0,46,durations,2,4,2,4,4
+0,46,earliest_starts,0,0,0,0,0
+0,46,latest_ends,143,143,143,143,143
+0,46,care_factors,5400,0,3600,9000,900
+0,46,predecessors,0,0,0,1,-1
+0,46,successors,1,2,3,4,-1
+0,46,prec_delays,12,0,23,16,-1
+0,46,preferred_starts,27,75,39,128,102
+1,46,astart - ogsa,27,29,29,52,49
+1,46,astart - Gecode,43,57,45,68,77
+1,46,astart - Gurobi,43,57,45,68,77
+2,46,astart - ogsa,25,27,27,50,47
+2,46,astart - Gecode,102,104,104,127,108
+2,46,astart - Gurobi,102,104,104,127,108
+3,46,astart - ogsa,22,24,24,47,44
+3,46,astart - Gecode,69,82,71,94,102
+3,46,astart - Gurobi,69,82,71,94,102
+4,46,astart - ogsa,27,29,29,52,49
+4,46,astart - Gecode,43,57,45,68,77
+4,46,astart - Gurobi,43,57,45,68,77
+5,46,astart - ogsa,27,29,29,52,49
+5,46,astart - Gecode,66,78,68,91,98
+5,46,astart - Gurobi,66,78,68,91,98
+6,46,astart - ogsa,27,29,29,52,49
+6,46,astart - Gecode,66,80,68,91,89
+6,46,astart - Gurobi,66,80,68,91,89
+7,46,astart - ogsa,27,29,29,52,33
+7,46,astart - Gecode,69,83,71,94,98
+7,46,astart - Gurobi,69,83,71,94,98
+8,46,astart - ogsa,27,29,29,52,49
+8,46,astart - Gecode,72,75,74,97,95
+8,46,astart - Gurobi,72,75,74,97,95
+9,46,astart - ogsa,27,29,29,52,49
+9,46,astart - Gecode,63,75,65,88,95
+9,46,astart - Gurobi,63,75,65,88,95
+10,46,astart - ogsa,22,24,24,47,44
+10,46,astart - Gecode,75,77,77,100,97
+10,46,astart - Gurobi,75,77,77,100,97
+11,46,astart - ogsa,27,29,29,52,49
+11,46,astart - Gecode,72,84,74,97,102
+11,46,astart - Gurobi,72,84,74,97,102
+12,46,astart - ogsa,27,29,29,52,49
+12,46,astart - Gecode,43,57,45,68,77
+12,46,astart - Gurobi,43,57,45,68,77
+0,47,demands,700,60,8,72,90
+0,47,durations,2,1,7,9,5
+0,47,earliest_starts,0,0,0,0,0
+0,47,latest_ends,143,143,143,143,143
+0,47,care_factors,6300,9000,1800,5400,900
+0,47,predecessors,0,3,-1,-1,-1
+0,47,successors,2,4,-1,-1,-1
+0,47,prec_delays,126,56,-1,-1,-1
+0,47,preferred_starts,80,94,90,16,72
+1,47,astart - ogsa,79,94,89,16,72
+1,47,astart - Gecode,79,94,89,16,72
+1,47,astart - Gurobi,79,94,89,16,72
+2,47,astart - ogsa,79,94,86,16,72
+2,47,astart - Gecode,79,94,86,16,72
+2,47,astart - Gurobi,79,94,86,16,72
+3,47,astart - ogsa,80,94,90,16,72
+3,47,astart - Gecode,80,94,90,16,72
+3,47,astart - Gurobi,80,94,90,16,72
+4,47,astart - ogsa,80,94,90,16,72
+4,47,astart - Gecode,80,94,90,16,72
+4,47,astart - Gurobi,80,94,90,16,72
+5,47,astart - ogsa,80,94,90,16,72
+5,47,astart - Gecode,80,94,90,16,72
+5,47,astart - Gurobi,80,94,90,16,72
+6,47,astart - ogsa,80,94,90,16,72
+6,47,astart - Gecode,80,94,90,16,72
+6,47,astart - Gurobi,80,94,90,16,72
+7,47,astart - ogsa,80,94,90,16,72
+7,47,astart - Gecode,80,94,90,16,72
+7,47,astart - Gurobi,80,94,90,16,72
+8,47,astart - ogsa,80,94,90,16,72
+8,47,astart - Gecode,80,94,90,16,72
+8,47,astart - Gurobi,80,94,90,16,72
+9,47,astart - ogsa,80,94,90,16,72
+9,47,astart - Gecode,80,94,90,16,72
+9,47,astart - Gurobi,80,94,90,16,72
+10,47,astart - ogsa,80,94,90,16,73
+10,47,astart - Gecode,80,94,90,16,73
+10,47,astart - Gurobi,80,94,90,16,73
+11,47,astart - ogsa,80,94,90,16,72
+11,47,astart - Gecode,80,94,90,16,72
+11,47,astart - Gurobi,80,94,90,16,72
+12,47,astart - ogsa,80,94,90,16,70
+12,47,astart - Gecode,79,94,90,16,70
+12,47,astart - Gurobi,79,94,90,16,70
+0,48,demands,2400,100,2400,1000,210
+0,48,durations,2,5,3,5,2
+0,48,earliest_starts,0,0,0,0,0
+0,48,latest_ends,143,143,143,143,143
+0,48,care_factors,5400,3600,2700,4500,900
+0,48,predecessors,1,2,-1,-1,-1
+0,48,successors,3,4,-1,-1,-1
+0,48,prec_delays,6,127,-1,-1,-1
+0,48,preferred_starts,134,74,18,87,54
+1,48,astart - ogsa,135,74,18,79,54
+1,48,astart - Gecode,135,71,18,76,54
+1,48,astart - Gurobi,135,71,18,76,54
+2,48,astart - ogsa,135,74,6,84,54
+2,48,astart - Gecode,135,74,6,84,54
+2,48,astart - Gurobi,135,74,6,84,54
+3,48,astart - ogsa,135,74,18,82,54
+3,48,astart - Gecode,135,74,18,82,54
+3,48,astart - Gurobi,135,74,18,82,54
+4,48,astart - ogsa,130,74,18,85,57
+4,48,astart - Gecode,130,74,18,85,57
+4,48,astart - Gurobi,130,74,18,85,57
+5,48,astart - ogsa,130,74,21,85,57
+5,48,astart - Gecode,130,76,21,87,57
+5,48,astart - Gurobi,130,76,21,87,57
+6,48,astart - ogsa,135,74,18,85,57
+6,48,astart - Gecode,135,74,18,85,57
+6,48,astart - Gurobi,135,74,18,85,57
+7,48,astart - ogsa,135,74,18,85,60
+7,48,astart - Gecode,135,74,18,85,60
+7,48,astart - Gurobi,135,74,18,85,60
+8,48,astart - ogsa,135,74,18,85,28
+8,48,astart - Gecode,135,74,18,85,28
+8,48,astart - Gurobi,135,75,18,86,28
+9,48,astart - ogsa,135,74,18,85,57
+9,48,astart - Gecode,135,74,18,85,57
+9,48,astart - Gurobi,135,74,18,85,57
+10,48,astart - ogsa,130,74,21,85,54
+10,48,astart - Gecode,130,76,21,87,54
+10,48,astart - Gurobi,130,76,21,87,54
+11,48,astart - ogsa,135,74,15,85,54
+11,48,astart - Gecode,135,74,15,85,54
+11,48,astart - Gurobi,135,74,15,85,54
+12,48,astart - ogsa,134,74,18,79,54
+12,48,astart - Gecode,134,65,18,70,54
+12,48,astart - Gurobi,134,65,18,70,54
+0,49,demands,4000,75,6000,5,80
+0,49,durations,3,5,10,3,4
+0,49,earliest_starts,0,0,0,0,0
+0,49,latest_ends,143,143,143,143,143
+0,49,care_factors,7200,2700,0,900,7200
+0,49,predecessors,2,2,-1,-1,-1
+0,49,successors,3,4,-1,-1,-1
+0,49,prec_delays,32,13,-1,-1,-1
+0,49,preferred_starts,111,108,51,117,75
+1,49,astart - ogsa,129,108,14,56,37
+1,49,astart - Gecode,129,108,14,56,37
+1,49,astart - Gurobi,129,108,14,56,37
+2,49,astart - ogsa,135,108,6,48,29
+2,49,astart - Gecode,135,108,6,48,29
+2,49,astart - Gurobi,135,108,6,48,29
+3,49,astart - ogsa,129,108,13,55,36
+3,49,astart - Gecode,129,108,14,56,37
+3,49,astart - Gurobi,129,108,14,56,37
+4,49,astart - ogsa,114,108,17,59,40
+4,49,astart - Gecode,114,108,17,59,40
+4,49,astart - Gurobi,129,108,17,59,40
+5,49,astart - ogsa,129,108,18,60,41
+5,49,astart - Gecode,129,108,18,60,41
+5,49,astart - Gurobi,129,108,18,60,41
+6,49,astart - ogsa,87,111,18,60,41
+6,49,astart - Gecode,87,111,18,60,41
+6,49,astart - Gurobi,87,111,18,60,41
+7,49,astart - ogsa,84,108,18,60,41
+7,49,astart - Gecode,84,108,18,60,41
+7,49,astart - Gurobi,84,108,18,60,41
+8,49,astart - ogsa,90,100,20,62,43
+8,49,astart - Gecode,90,100,20,62,43
+8,49,astart - Gurobi,90,100,20,62,43
+9,49,astart - ogsa,87,103,20,62,43
+9,49,astart - Gecode,87,103,20,62,43
+9,49,astart - Gurobi,87,103,20,62,43
+10,49,astart - ogsa,129,108,14,56,37
+10,49,astart - Gecode,129,108,14,56,37
+10,49,astart - Gurobi,129,108,14,56,37
+11,49,astart - ogsa,84,108,9,51,32
+11,49,astart - Gecode,84,108,9,51,32
+11,49,astart - Gurobi,84,108,9,51,32
+12,49,astart - ogsa,129,108,11,53,34
+12,49,astart - Gecode,129,108,14,56,37
+12,49,astart - Gurobi,129,108,14,56,37
+0,50,demands,2400,35,3600,50,1000
+0,50,durations,4,3,2,1,3
+0,50,earliest_starts,0,0,0,0,0
+0,50,latest_ends,143,143,143,143,143
+0,50,care_factors,7200,1800,1800,4500,8100
+0,50,predecessors,2,-1,-1,-1,-1
+0,50,successors,3,-1,-1,-1,-1
+0,50,prec_delays,30,-1,-1,-1,-1
+0,50,preferred_starts,136,33,31,93,2
+1,50,astart - ogsa,134,33,22,54,2
+1,50,astart - Gecode,134,33,22,54,2
+1,50,astart - Gurobi,134,33,22,54,2
+2,50,astart - ogsa,134,33,7,39,6
+2,50,astart - Gecode,134,33,22,54,6
+2,50,astart - Gurobi,134,33,22,54,6
+3,50,astart - ogsa,134,33,19,51,2
+3,50,astart - Gecode,134,33,22,54,2
+3,50,astart - Gurobi,134,33,22,54,2
+4,50,astart - ogsa,128,33,22,54,3
+4,50,astart - Gecode,128,33,25,57,3
+4,50,astart - Gurobi,128,33,25,57,3
+5,50,astart - ogsa,135,33,22,54,2
+5,50,astart - Gecode,135,33,28,60,2
+5,50,astart - Gurobi,135,33,28,60,2
+6,50,astart - ogsa,135,33,25,57,2
+6,50,astart - Gecode,135,33,25,57,2
+6,50,astart - Gurobi,135,33,25,57,2
+7,50,astart - ogsa,136,33,22,54,2
+7,50,astart - Gecode,136,33,28,60,2
+7,50,astart - Gurobi,136,33,28,60,2
+8,50,astart - ogsa,135,33,25,57,3
+8,50,astart - Gecode,135,33,28,60,3
+8,50,astart - Gurobi,135,33,28,60,3
+9,50,astart - ogsa,135,33,28,60,2
+9,50,astart - Gecode,135,33,28,60,2
+9,50,astart - Gurobi,135,33,28,60,2
+10,50,astart - ogsa,128,33,22,54,2
+10,50,astart - Gecode,128,33,22,54,2
+10,50,astart - Gurobi,128,33,22,54,2
+11,50,astart - ogsa,134,33,13,45,6
+11,50,astart - Gecode,134,33,72,93,6
+11,50,astart - Gurobi,134,33,72,93,6
+12,50,astart - ogsa,134,33,19,51,2
+12,50,astart - Gecode,134,33,22,54,2
+12,50,astart - Gurobi,135,33,22,54,2
+0,51,demands,50,1200,1200,148,38
+0,51,durations,3,4,2,2,1
+0,51,earliest_starts,0,0,0,0,0
+0,51,latest_ends,143,143,143,143,143
+0,51,care_factors,2700,2700,2700,900,7200
+0,51,predecessors,2,-1,-1,-1,-1
+0,51,successors,3,-1,-1,-1,-1
+0,51,prec_delays,65,-1,-1,-1,-1
+0,51,preferred_starts,85,28,63,83,99
+1,51,astart - ogsa,87,20,61,79,98
+1,51,astart - Gecode,87,20,61,79,98
+1,51,astart - Gurobi,87,20,61,79,98
+2,51,astart - ogsa,85,20,66,84,99
+2,51,astart - Gecode,85,20,66,84,99
+2,51,astart - Gurobi,85,20,66,84,99
+3,51,astart - ogsa,85,20,61,83,99
+3,51,astart - Gecode,85,20,61,83,99
+3,51,astart - Gurobi,85,20,61,83,99
+4,51,astart - ogsa,85,23,63,83,99
+4,51,astart - Gecode,85,23,63,83,99
+4,51,astart - Gurobi,85,23,63,83,99
+5,51,astart - ogsa,85,23,63,83,99
+5,51,astart - Gecode,85,23,63,83,99
+5,51,astart - Gurobi,85,23,63,83,99
+6,51,astart - ogsa,85,23,25,83,99
+6,51,astart - Gecode,85,23,25,83,99
+6,51,astart - Gurobi,85,23,25,83,99
+7,51,astart - ogsa,85,23,66,83,99
+7,51,astart - Gecode,85,23,66,83,99
+7,51,astart - Gurobi,85,23,66,83,99
+8,51,astart - ogsa,85,26,28,83,99
+8,51,astart - Gecode,85,26,28,83,99
+8,51,astart - Gurobi,85,26,28,83,99
+9,51,astart - ogsa,85,26,63,83,99
+9,51,astart - Gecode,85,26,63,83,99
+9,51,astart - Gurobi,85,26,63,83,99
+10,51,astart - ogsa,85,20,63,83,99
+10,51,astart - Gecode,85,20,63,83,99
+10,51,astart - Gurobi,85,20,63,83,99
+11,51,astart - ogsa,85,14,72,83,99
+11,51,astart - Gecode,85,14,72,83,99
+11,51,astart - Gurobi,85,14,72,83,99
+12,51,astart - ogsa,85,20,61,83,99
+12,51,astart - Gecode,85,20,61,83,99
+12,51,astart - Gurobi,85,20,61,83,99
+0,52,demands,35,75,1200,90,150
+0,52,durations,7,7,6,5,4
+0,52,earliest_starts,0,0,0,0,0
+0,52,latest_ends,143,143,143,143,143
+0,52,care_factors,3600,0,4500,3600,1800
+0,52,predecessors,1,1,-1,-1,-1
+0,52,successors,3,4,-1,-1,-1
+0,52,prec_delays,116,92,-1,-1,-1
+0,52,preferred_starts,104,53,30,66,65
+1,52,astart - ogsa,108,15,18,66,65
+1,52,astart - Gecode,108,15,18,66,65
+1,52,astart - Gurobi,108,17,18,66,65
+2,52,astart - ogsa,104,6,18,66,65
+2,52,astart - Gecode,104,6,18,66,65
+2,52,astart - Gurobi,104,6,18,66,65
+3,52,astart - ogsa,104,15,18,66,65
+3,52,astart - Gecode,104,14,18,66,65
+3,52,astart - Gurobi,104,15,18,66,65
+4,52,astart - ogsa,104,19,21,66,65
+4,52,astart - Gecode,104,18,21,66,65
+4,52,astart - Gurobi,104,20,21,66,65
+5,52,astart - ogsa,104,20,21,66,65
+5,52,astart - Gecode,104,20,21,66,65
+5,52,astart - Gurobi,104,20,21,66,65
+6,52,astart - ogsa,104,20,24,66,65
+6,52,astart - Gecode,104,20,24,66,65
+6,52,astart - Gurobi,104,20,24,66,66
+7,52,astart - ogsa,104,18,24,66,65
+7,52,astart - Gecode,104,18,24,66,65
+7,52,astart - Gurobi,104,18,24,66,65
+8,52,astart - ogsa,104,21,24,66,65
+8,52,astart - Gecode,104,21,24,66,65
+8,52,astart - Gurobi,104,21,24,66,65
+9,52,astart - ogsa,104,23,24,66,65
+9,52,astart - Gecode,104,23,24,66,65
+9,52,astart - Gurobi,104,23,24,66,65
+10,52,astart - ogsa,104,17,18,66,65
+10,52,astart - Gecode,104,17,18,66,65
+10,52,astart - Gurobi,104,17,18,66,65
+11,52,astart - ogsa,104,9,15,66,65
+11,52,astart - Gecode,104,9,15,66,65
+11,52,astart - Gurobi,104,9,15,66,65
+12,52,astart - ogsa,104,15,18,66,65
+12,52,astart - Gecode,104,14,18,66,65
+12,52,astart - Gurobi,104,15,18,66,65
+0,53,demands,5000,5,2400,1100,52
+0,53,durations,2,2,6,7,4
+0,53,earliest_starts,0,0,0,0,0
+0,53,latest_ends,143,143,143,143,143
+0,53,care_factors,4500,4500,8100,8100,7200
+0,53,predecessors,-1,-1,-1,-1,-1
+0,53,successors,-1,-1,-1,-1,-1
+0,53,prec_delays,-1,-1,-1,-1,-1
+0,53,preferred_starts,43,60,132,86,47
+1,53,astart - ogsa,22,60,132,74,47
+1,53,astart - Gecode,22,60,132,74,47
+1,53,astart - Gurobi,22,60,132,74,47
+2,53,astart - ogsa,7,60,132,71,47
+2,53,astart - Gecode,7,60,132,71,47
+2,53,astart - Gurobi,7,60,132,71,47
+3,53,astart - ogsa,22,60,132,83,47
+3,53,astart - Gecode,22,60,132,83,47
+3,53,astart - Gurobi,22,60,132,83,47
+4,53,astart - ogsa,25,60,126,86,47
+4,53,astart - Gecode,25,60,126,86,47
+4,53,astart - Gurobi,25,60,126,86,47
+5,53,astart - ogsa,22,60,126,86,47
+5,53,astart - Gecode,22,60,126,86,47
+5,53,astart - Gurobi,22,60,126,86,47
+6,53,astart - ogsa,25,60,135,86,47
+6,53,astart - Gecode,25,60,135,86,47
+6,53,astart - Gurobi,25,60,135,86,47
+7,53,astart - ogsa,25,60,135,86,47
+7,53,astart - Gecode,25,60,135,86,47
+7,53,astart - Gurobi,25,60,135,86,47
+8,53,astart - ogsa,28,60,135,86,47
+8,53,astart - Gecode,28,60,135,86,47
+8,53,astart - Gurobi,28,60,135,86,47
+9,53,astart - ogsa,28,60,135,86,47
+9,53,astart - Gecode,28,60,135,86,47
+9,53,astart - Gurobi,28,60,135,86,47
+10,53,astart - ogsa,22,60,126,86,47
+10,53,astart - Gecode,22,60,126,86,47
+10,53,astart - Gurobi,22,60,126,86,47
+11,53,astart - ogsa,16,60,132,84,47
+11,53,astart - Gecode,16,60,132,84,47
+11,53,astart - Gurobi,16,60,132,84,47
+12,53,astart - ogsa,22,60,132,68,47
+12,53,astart - Gecode,22,60,132,68,47
+12,53,astart - Gurobi,22,60,132,68,47
+0,54,demands,600,600,75,400,130
+0,54,durations,5,2,1,6,5
+0,54,earliest_starts,0,0,0,0,0
+0,54,latest_ends,143,143,143,143,143
+0,54,care_factors,7200,4500,4500,7200,8100
+0,54,predecessors,3,-1,-1,-1,-1
+0,54,successors,4,-1,-1,-1,-1
+0,54,prec_delays,42,-1,-1,-1,-1
+0,54,preferred_starts,108,50,63,65,117
+1,54,astart - ogsa,108,50,63,65,113
+1,54,astart - Gecode,108,50,63,69,117
+1,54,astart - Gurobi,108,50,63,69,117
+2,54,astart - ogsa,108,50,63,65,113
+2,54,astart - Gecode,108,50,63,66,114
+2,54,astart - Gurobi,108,50,63,66,114
+3,54,astart - ogsa,108,50,63,65,113
+3,54,astart - Gecode,108,50,63,69,117
+3,54,astart - Gurobi,108,50,63,69,117
+4,54,astart - ogsa,114,50,63,65,113
+4,54,astart - Gecode,114,50,63,69,117
+4,54,astart - Gurobi,114,50,63,69,117
+5,54,astart - ogsa,114,51,63,65,113
+5,54,astart - Gecode,112,51,63,69,117
+5,54,astart - Gurobi,114,51,63,69,117
+6,54,astart - ogsa,112,51,63,65,113
+6,54,astart - Gecode,112,51,63,66,114
+6,54,astart - Gurobi,112,51,63,66,114
+7,54,astart - ogsa,97,51,63,65,113
+7,54,astart - Gecode,97,51,63,66,114
+7,54,astart - Gurobi,97,51,63,66,114
+8,54,astart - ogsa,94,51,63,65,113
+8,54,astart - Gecode,94,51,63,69,117
+8,54,astart - Gurobi,94,51,63,69,117
+9,54,astart - ogsa,97,51,63,65,113
+9,54,astart - Gecode,94,51,63,69,117
+9,54,astart - Gurobi,97,51,63,69,117
+10,54,astart - ogsa,100,50,63,65,113
+10,54,astart - Gecode,100,50,63,69,117
+10,54,astart - Gurobi,100,50,63,69,117
+11,54,astart - ogsa,106,51,63,65,113
+11,54,astart - Gecode,106,51,63,69,117
+11,54,astart - Gurobi,106,51,63,69,117
+12,54,astart - ogsa,103,50,63,65,113
+12,54,astart - Gecode,103,50,63,69,117
+12,54,astart - Gurobi,103,50,63,69,117
+0,55,demands,2400,4000,140,130,72
+0,55,durations,6,1,6,7,2
+0,55,earliest_starts,0,0,0,0,0
+0,55,latest_ends,143,143,143,143,143
+0,55,care_factors,6300,900,9000,4500,4500
+0,55,predecessors,2,-1,-1,-1,-1
+0,55,successors,3,-1,-1,-1,-1
+0,55,prec_delays,29,-1,-1,-1,-1
+0,55,preferred_starts,5,114,14,113,51
+1,55,astart - ogsa,9,129,14,49,51
+1,55,astart - Gecode,9,129,14,49,51
+1,55,astart - Gurobi,9,129,14,49,51
+2,55,astart - ogsa,6,8,14,49,51
+2,55,astart - Gecode,6,8,14,49,51
+2,55,astart - Gurobi,6,8,14,49,51
+3,55,astart - ogsa,12,129,14,49,51
+3,55,astart - Gecode,12,129,14,49,51
+3,55,astart - Gurobi,12,129,14,49,51
+4,55,astart - ogsa,12,23,14,49,51
+4,55,astart - Gecode,12,23,14,49,51
+4,55,astart - Gurobi,12,23,14,49,51
+5,55,astart - ogsa,18,23,14,49,51
+5,55,astart - Gecode,18,23,14,49,51
+5,55,astart - Gurobi,18,23,14,49,51
+6,55,astart - ogsa,18,26,14,49,51
+6,55,astart - Gecode,18,26,16,51,51
+6,55,astart - Gurobi,18,26,16,51,51
+7,55,astart - ogsa,18,23,14,49,51
+7,55,astart - Gecode,18,23,14,49,51
+7,55,astart - Gurobi,18,23,14,49,51
+8,55,astart - ogsa,18,26,14,49,51
+8,55,astart - Gecode,18,26,14,49,51
+8,55,astart - Gurobi,18,26,14,49,51
+9,55,astart - ogsa,15,29,14,49,51
+9,55,astart - Gecode,15,29,16,51,51
+9,55,astart - Gurobi,15,29,16,51,51
+10,55,astart - ogsa,18,23,14,49,51
+10,55,astart - Gecode,18,23,14,49,51
+10,55,astart - Gurobi,18,23,14,49,51
+11,55,astart - ogsa,9,86,14,49,51
+11,55,astart - Gecode,9,86,14,49,51
+11,55,astart - Gurobi,9,86,14,49,51
+12,55,astart - ogsa,9,20,14,49,51
+12,55,astart - Gecode,9,20,14,49,51
+12,55,astart - Gurobi,9,20,14,49,51
+0,56,demands,62,2300,6000,300,900
+0,56,durations,4,4,5,1,5
+0,56,earliest_starts,0,0,0,0,0
+0,56,latest_ends,143,143,143,143,143
+0,56,care_factors,8100,9000,0,0,8100
+0,56,predecessors,2,-1,-1,-1,-1
+0,56,successors,3,-1,-1,-1,-1
+0,56,prec_delays,29,-1,-1,-1,-1
+0,56,preferred_starts,136,99,44,98,42
+1,56,astart - ogsa,136,108,15,23,42
+1,56,astart - Gecode,136,108,15,20,42
+1,56,astart - Gurobi,136,108,18,23,42
+2,56,astart - ogsa,136,102,6,16,42
+2,56,astart - Gecode,136,102,6,15,42
+2,56,astart - Gurobi,136,102,6,17,42
+3,56,astart - ogsa,136,98,16,21,42
+3,56,astart - Gecode,136,98,15,20,42
+3,56,astart - Gurobi,136,98,15,20,42
+4,56,astart - ogsa,136,114,21,26,42
+4,56,astart - Gecode,136,114,19,24,42
+4,56,astart - Gurobi,136,114,19,26,42
+5,56,astart - ogsa,136,89,21,26,31
+5,56,astart - Gecode,136,89,21,26,31
+5,56,astart - Gurobi,136,89,21,26,31
+6,56,astart - ogsa,136,86,22,28,28
+6,56,astart - Gecode,136,86,22,27,28
+6,56,astart - Gurobi,136,86,22,29,28
+7,56,astart - ogsa,136,89,18,23,25
+7,56,astart - Gecode,136,89,18,23,25
+7,56,astart - Gurobi,136,89,18,23,25
+8,56,astart - ogsa,136,89,22,28,25
+8,56,astart - Gecode,136,89,22,27,25
+8,56,astart - Gurobi,136,89,22,29,25
+9,56,astart - ogsa,136,87,25,31,25
+9,56,astart - Gecode,136,87,25,30,25
+9,56,astart - Gurobi,136,87,25,32,25
+10,56,astart - ogsa,136,89,19,24,42
+10,56,astart - Gecode,136,89,19,24,42
+10,56,astart - Gurobi,136,89,19,26,42
+11,56,astart - ogsa,136,84,10,15,42
+11,56,astart - Gecode,136,84,9,14,42
+11,56,astart - Gurobi,136,84,9,14,42
+12,56,astart - ogsa,136,101,16,21,42
+12,56,astart - Gecode,136,101,15,20,42
+12,56,astart - Gurobi,136,101,15,20,42
+0,57,demands,5,35,1200,900,1200
+0,57,durations,6,4,4,2,6
+0,57,earliest_starts,0,0,0,0,0
+0,57,latest_ends,143,143,143,143,143
+0,57,care_factors,5400,900,0,0,7200
+0,57,predecessors,-1,-1,-1,-1,-1
+0,57,successors,-1,-1,-1,-1,-1
+0,57,prec_delays,-1,-1,-1,-1,-1
+0,57,preferred_starts,101,123,70,70,66
+1,57,astart - ogsa,101,123,19,19,57
+1,57,astart - Gecode,101,123,15,15,57
+1,57,astart - Gurobi,101,123,15,22,57
+2,57,astart - ogsa,101,123,6,7,66
+2,57,astart - Gecode,101,123,6,6,66
+2,57,astart - Gurobi,101,123,6,7,66
+3,57,astart - ogsa,101,123,15,19,69
+3,57,astart - Gecode,101,123,15,15,69
+3,57,astart - Gurobi,101,123,15,19,69
+4,57,astart - ogsa,101,123,20,21,66
+4,57,astart - Gecode,101,123,20,21,66
+4,57,astart - Gurobi,101,123,20,22,66
+5,57,astart - ogsa,101,123,21,21,66
+5,57,astart - Gecode,101,123,21,21,66
+5,57,astart - Gurobi,101,123,21,22,66
+6,57,astart - ogsa,101,123,23,24,66
+6,57,astart - Gecode,101,123,23,24,66
+6,57,astart - Gurobi,101,123,23,25,66
+7,57,astart - ogsa,101,123,19,22,66
+7,57,astart - Gecode,101,123,18,18,66
+7,57,astart - Gurobi,101,123,18,22,66
+8,57,astart - ogsa,101,123,23,25,69
+8,57,astart - Gecode,101,123,23,24,69
+8,57,astart - Gurobi,101,123,23,25,69
+9,57,astart - ogsa,101,123,26,28,66
+9,57,astart - Gecode,101,123,26,27,66
+9,57,astart - Gurobi,101,123,26,28,66
+10,57,astart - ogsa,101,123,20,22,75
+10,57,astart - Gecode,101,123,20,21,75
+10,57,astart - Gurobi,101,123,20,22,75
+11,57,astart - ogsa,101,123,11,11,72
+11,57,astart - Gecode,101,123,9,9,72
+11,57,astart - Gurobi,101,123,9,13,72
+12,57,astart - ogsa,101,123,15,18,66
+12,57,astart - Gecode,101,123,15,15,66
+12,57,astart - Gurobi,101,123,15,19,66
+0,58,demands,300,300,210,30,11
+0,58,durations,5,3,1,6,7
+0,58,earliest_starts,0,0,0,0,0
+0,58,latest_ends,143,143,143,143,143
+0,58,care_factors,0,0,9000,0,2700
+0,58,predecessors,-1,-1,-1,-1,-1
+0,58,successors,-1,-1,-1,-1,-1
+0,58,prec_delays,-1,-1,-1,-1,-1
+0,58,preferred_starts,57,19,42,79,67
+1,58,astart - ogsa,16,18,42,16,67
+1,58,astart - Gecode,15,15,42,15,67
+1,58,astart - Gurobi,19,21,42,18,67
+2,58,astart - ogsa,6,6,42,6,67
+2,58,astart - Gecode,6,6,42,6,67
+2,58,astart - Gurobi,6,6,42,6,67
+3,58,astart - ogsa,16,15,42,15,67
+3,58,astart - Gecode,15,15,42,15,67
+3,58,astart - Gurobi,16,18,42,15,67
+4,58,astart - ogsa,21,21,42,19,67
+4,58,astart - Gecode,19,21,42,18,67
+4,58,astart - Gurobi,21,21,42,21,67
+5,58,astart - ogsa,21,21,42,21,67
+5,58,astart - Gecode,21,21,42,21,67
+5,58,astart - Gurobi,21,21,42,21,67
+6,58,astart - ogsa,22,24,42,21,67
+6,58,astart - Gecode,22,24,42,21,67
+6,58,astart - Gurobi,22,24,42,21,67
+7,58,astart - ogsa,19,19,42,18,67
+7,58,astart - Gecode,18,18,42,18,67
+7,58,astart - Gurobi,19,21,42,18,67
+8,58,astart - ogsa,23,24,42,21,67
+8,58,astart - Gecode,22,24,42,21,67
+8,58,astart - Gurobi,24,24,42,24,67
+9,58,astart - ogsa,25,27,42,24,67
+9,58,astart - Gecode,25,27,42,24,67
+9,58,astart - Gurobi,25,27,42,24,67
+10,58,astart - ogsa,19,21,42,18,67
+10,58,astart - Gecode,19,21,42,18,67
+10,58,astart - Gurobi,19,21,42,18,67
+11,58,astart - ogsa,9,10,42,9,67
+11,58,astart - Gecode,9,9,42,9,67
+11,58,astart - Gurobi,10,12,42,9,67
+12,58,astart - ogsa,16,15,42,15,67
+12,58,astart - Gecode,15,15,42,15,67
+12,58,astart - Gurobi,16,18,42,15,67
+0,59,demands,11,2100,2000,1700,1200
+0,59,durations,7,1,7,1,2
+0,59,earliest_starts,0,0,0,0,0
+0,59,latest_ends,143,143,143,143,143
+0,59,care_factors,6300,6300,900,1800,900
+0,59,predecessors,-1,-1,-1,-1,-1
+0,59,successors,-1,-1,-1,-1,-1
+0,59,prec_delays,-1,-1,-1,-1,-1
+0,59,preferred_starts,77,74,41,56,72
+1,59,astart - ogsa,77,75,17,56,22
+1,59,astart - Gecode,77,74,17,56,22
+1,59,astart - Gurobi,77,75,17,56,22
+2,59,astart - ogsa,77,74,6,56,7
+2,59,astart - Gecode,77,74,6,56,7
+2,59,astart - Gurobi,77,74,6,56,7
+3,59,astart - ogsa,77,74,15,56,22
+3,59,astart - Gecode,77,74,15,56,22
+3,59,astart - Gurobi,77,74,15,56,22
+4,59,astart - ogsa,77,74,20,57,25
+4,59,astart - Gecode,77,74,20,57,25
+4,59,astart - Gurobi,77,74,20,57,25
+5,59,astart - ogsa,77,74,20,29,22
+5,59,astart - Gecode,77,74,20,29,22
+5,59,astart - Gurobi,77,74,20,29,22
+6,59,astart - ogsa,77,75,20,26,25
+6,59,astart - Gecode,77,75,20,26,25
+6,59,astart - Gurobi,77,75,20,26,25
+7,59,astart - ogsa,77,74,18,29,25
+7,59,astart - Gecode,77,74,18,29,25
+7,59,astart - Gurobi,77,74,18,29,25
+8,59,astart - ogsa,77,74,23,29,28
+8,59,astart - Gecode,77,74,23,29,28
+8,59,astart - Gurobi,77,74,23,29,28
+9,59,astart - ogsa,77,74,23,63,75
+9,59,astart - Gecode,77,74,23,63,75
+9,59,astart - Gurobi,77,74,23,63,75
+10,59,astart - ogsa,77,75,17,23,22
+10,59,astart - Gecode,77,75,17,23,22
+10,59,astart - Gurobi,77,75,17,23,22
+11,59,astart - ogsa,77,74,9,60,72
+11,59,astart - Gecode,77,74,9,60,72
+11,59,astart - Gurobi,77,74,9,60,72
+12,59,astart - ogsa,77,74,15,29,22
+12,59,astart - Gecode,77,74,15,29,22
+12,59,astart - Gurobi,77,74,15,29,22
+0,60,demands,55,300,75,30,148
+0,60,durations,5,5,2,2,2
+0,60,earliest_starts,0,0,0,0,0
+0,60,latest_ends,143,143,143,143,143
+0,60,care_factors,0,4500,2700,1800,1800
+0,60,predecessors,0,-1,-1,-1,-1
+0,60,successors,4,-1,-1,-1,-1
+0,60,prec_delays,10,-1,-1,-1,-1
+0,60,preferred_starts,25,39,90,34,39
+1,60,astart - ogsa,19,39,90,34,34
+1,60,astart - Gecode,24,39,90,34,39
+1,60,astart - Gurobi,24,39,90,34,39
+2,60,astart - ogsa,6,39,88,34,21
+2,60,astart - Gecode,24,39,88,34,39
+2,60,astart - Gurobi,24,39,88,34,39
+3,60,astart - ogsa,16,42,90,34,31
+3,60,astart - Gecode,22,42,90,34,37
+3,60,astart - Gurobi,22,42,90,34,37
+4,60,astart - ogsa,19,34,90,34,34
+4,60,astart - Gecode,22,34,90,34,37
+4,60,astart - Gurobi,22,34,90,34,37
+5,60,astart - ogsa,21,31,90,34,34
+5,60,astart - Gecode,21,31,90,34,34
+5,60,astart - Gurobi,21,31,90,34,34
+6,60,astart - ogsa,22,31,90,34,34
+6,60,astart - Gecode,22,31,90,34,34
+6,60,astart - Gurobi,22,31,90,34,34
+7,60,astart - ogsa,19,31,90,34,34
+7,60,astart - Gecode,19,31,90,34,34
+7,60,astart - Gurobi,19,31,90,34,34
+8,60,astart - ogsa,24,28,90,34,34
+8,60,astart - Gecode,22,28,90,34,34
+8,60,astart - Gurobi,22,28,90,34,34
+9,60,astart - ogsa,25,28,90,34,34
+9,60,astart - Gecode,25,28,90,34,34
+9,60,astart - Gurobi,25,28,90,34,34
+10,60,astart - ogsa,19,42,90,34,34
+10,60,astart - Gecode,22,42,90,34,37
+10,60,astart - Gurobi,22,42,90,34,37
+11,60,astart - ogsa,9,42,90,34,24
+11,60,astart - Gecode,24,42,90,34,39
+11,60,astart - Gurobi,25,42,90,34,39
+12,60,astart - ogsa,15,39,88,34,30
+12,60,astart - Gecode,24,39,88,34,39
+12,60,astart - Gurobi,24,39,88,34,39
+0,61,demands,1200,100,68,2400,1500
+0,61,durations,3,3,8,1,4
+0,61,earliest_starts,0,0,0,0,0
+0,61,latest_ends,143,143,143,143,143
+0,61,care_factors,9000,8100,3600,8100,4500
+0,61,predecessors,1,-1,-1,-1,-1
+0,61,successors,4,-1,-1,-1,-1
+0,61,prec_delays,18,-1,-1,-1,-1
+0,61,preferred_starts,62,50,67,129,65
+1,61,astart - ogsa,60,50,67,129,59
+1,61,astart - Gecode,60,50,67,129,59
+1,61,astart - Gurobi,60,50,67,129,59
+2,61,astart - ogsa,62,50,67,129,65
+2,61,astart - Gecode,62,50,67,129,65
+2,61,astart - Gurobi,62,50,67,129,65
+3,61,astart - ogsa,62,50,67,129,69
+3,61,astart - Gecode,62,50,67,129,69
+3,61,astart - Gurobi,62,50,67,129,69
+4,61,astart - ogsa,62,50,67,129,65
+4,61,astart - Gecode,62,50,67,129,65
+4,61,astart - Gurobi,62,50,67,129,65
+5,61,astart - ogsa,62,50,67,129,65
+5,61,astart - Gecode,62,50,67,129,65
+5,61,astart - Gurobi,62,50,67,129,66
+6,61,astart - ogsa,66,50,67,129,66
+6,61,astart - Gecode,66,50,67,129,66
+6,61,astart - Gurobi,66,50,67,129,66
+7,61,astart - ogsa,62,50,67,129,68
+7,61,astart - Gecode,62,50,67,129,66
+7,61,astart - Gurobi,62,50,67,129,68
+8,61,astart - ogsa,63,50,67,129,70
+8,61,astart - Gecode,63,50,67,129,69
+8,61,astart - Gurobi,63,50,67,129,71
+9,61,astart - ogsa,62,50,67,129,65
+9,61,astart - Gecode,62,50,67,129,65
+9,61,astart - Gurobi,62,50,67,129,65
+10,61,astart - ogsa,62,50,67,129,65
+10,61,astart - Gecode,62,50,67,129,65
+10,61,astart - Gurobi,62,50,67,129,65
+11,61,astart - ogsa,60,50,67,129,71
+11,61,astart - Gecode,60,51,67,129,72
+11,61,astart - Gurobi,60,51,67,129,72
+12,61,astart - ogsa,62,50,67,129,59
+12,61,astart - Gecode,62,50,67,129,59
+12,61,astart - Gurobi,62,50,67,129,59
+0,62,demands,72,100,2,1700,400
+0,62,durations,3,3,5,3,3
+0,62,earliest_starts,0,0,0,0,0
+0,62,latest_ends,143,143,143,143,143
+0,62,care_factors,8100,1800,9000,0,1800
+0,62,predecessors,0,1,-1,-1,-1
+0,62,successors,1,2,-1,-1,-1
+0,62,prec_delays,89,124,-1,-1,-1
+0,62,preferred_starts,75,90,122,82,73
+1,62,astart - ogsa,75,90,122,16,73
+1,62,astart - Gecode,75,90,122,15,73
+1,62,astart - Gurobi,75,90,122,21,73
+2,62,astart - ogsa,75,86,122,6,73
+2,62,astart - Gecode,75,84,122,6,73
+2,62,astart - Gurobi,75,84,122,6,73
+3,62,astart - ogsa,75,90,122,16,73
+3,62,astart - Gecode,75,90,122,15,73
+3,62,astart - Gurobi,75,90,122,18,73
+4,62,astart - ogsa,75,90,122,21,73
+4,62,astart - Gecode,75,90,122,21,73
+4,62,astart - Gurobi,75,90,122,21,73
+5,62,astart - ogsa,75,90,122,21,73
+5,62,astart - Gecode,75,90,122,21,73
+5,62,astart - Gurobi,75,90,122,21,73
+6,62,astart - ogsa,75,90,122,24,75
+6,62,astart - Gecode,75,90,122,24,75
+6,62,astart - Gurobi,75,90,122,24,75
+7,62,astart - ogsa,75,90,122,21,69
+7,62,astart - Gecode,75,90,122,18,69
+7,62,astart - Gurobi,75,90,122,21,69
+8,62,astart - ogsa,75,90,122,24,73
+8,62,astart - Gecode,75,90,122,24,73
+8,62,astart - Gurobi,75,90,122,24,73
+9,62,astart - ogsa,75,90,122,27,73
+9,62,astart - Gecode,75,90,122,27,73
+9,62,astart - Gurobi,75,90,122,27,73
+10,62,astart - ogsa,75,90,122,21,75
+10,62,astart - Gecode,75,90,122,21,75
+10,62,astart - Gurobi,75,90,122,21,75
+11,62,astart - ogsa,75,90,122,12,73
+11,62,astart - Gecode,75,90,122,9,73
+11,62,astart - Gurobi,75,90,122,12,73
+12,62,astart - ogsa,75,96,122,16,72
+12,62,astart - Gecode,75,96,122,15,72
+12,62,astart - Gurobi,75,96,122,18,72
+0,63,demands,20,15,80,55,50
+0,63,durations,3,4,3,6,1
+0,63,earliest_starts,0,0,0,0,0
+0,63,latest_ends,143,143,143,143,143
+0,63,care_factors,1800,5400,2700,1800,0
+0,63,predecessors,0,0,-1,-1,-1
+0,63,successors,1,3,-1,-1,-1
+0,63,prec_delays,109,108,-1,-1,-1
+0,63,preferred_starts,18,50,40,48,5
+1,63,astart - ogsa,18,50,40,48,15
+1,63,astart - Gecode,18,50,40,48,15
+1,63,astart - Gurobi,18,50,40,48,23
+2,63,astart - ogsa,18,50,40,48,6
+2,63,astart - Gecode,18,50,40,48,6
+2,63,astart - Gurobi,18,50,40,48,8
+3,63,astart - ogsa,18,50,40,48,20
+3,63,astart - Gecode,18,50,40,48,15
+3,63,astart - Gurobi,18,50,40,48,20
+4,63,astart - ogsa,18,50,40,48,23
+4,63,astart - Gecode,18,50,40,48,21
+4,63,astart - Gurobi,18,50,40,48,23
+5,63,astart - ogsa,18,50,42,48,21
+5,63,astart - Gecode,18,50,42,48,21
+5,63,astart - Gurobi,18,50,42,48,23
+6,63,astart - ogsa,18,50,42,48,26
+6,63,astart - Gecode,18,50,42,48,24
+6,63,astart - Gurobi,18,50,42,48,26
+7,63,astart - ogsa,18,50,40,48,18
+7,63,astart - Gecode,18,50,40,48,18
+7,63,astart - Gurobi,18,50,40,48,23
+8,63,astart - ogsa,18,50,36,48,25
+8,63,astart - Gecode,18,50,36,48,24
+8,63,astart - Gurobi,18,50,36,48,26
+9,63,astart - ogsa,18,50,40,51,29
+9,63,astart - Gecode,18,50,40,51,27
+9,63,astart - Gurobi,18,50,40,51,29
+10,63,astart - ogsa,18,50,40,48,23
+10,63,astart - Gecode,18,50,40,48,21
+10,63,astart - Gurobi,18,50,40,48,23
+11,63,astart - ogsa,18,50,40,48,12
+11,63,astart - Gecode,18,50,40,48,9
+11,63,astart - Gurobi,18,50,40,48,14
+12,63,astart - ogsa,18,50,40,48,20
+12,63,astart - Gecode,18,50,40,48,15
+12,63,astart - Gurobi,18,50,40,48,20
+0,64,demands,1,6000,45,2400,2
+0,64,durations,3,1,7,1,4
+0,64,earliest_starts,0,0,0,0,0
+0,64,latest_ends,143,143,143,143,143
+0,64,care_factors,8100,7200,2700,8100,6300
+0,64,predecessors,0,-1,-1,-1,-1
+0,64,successors,1,-1,-1,-1,-1
+0,64,prec_delays,99,-1,-1,-1,-1
+0,64,preferred_starts,90,134,40,140,37
+1,64,astart - ogsa,90,135,40,137,37
+1,64,astart - Gecode,90,135,40,137,37
+1,64,astart - Gurobi,90,135,40,137,37
+2,64,astart - ogsa,90,135,40,140,37
+2,64,astart - Gecode,90,135,40,140,37
+2,64,astart - Gurobi,90,135,40,140,37
+3,64,astart - ogsa,90,135,40,137,37
+3,64,astart - Gecode,90,135,40,137,37
+3,64,astart - Gurobi,90,135,40,137,37
+4,64,astart - ogsa,90,131,40,140,37
+4,64,astart - Gecode,90,131,40,140,37
+4,64,astart - Gurobi,90,131,40,140,37
+5,64,astart - ogsa,90,131,38,140,37
+5,64,astart - Gecode,90,131,38,140,37
+5,64,astart - Gurobi,90,131,38,140,37
+6,64,astart - ogsa,90,135,40,140,37
+6,64,astart - Gecode,90,135,40,140,37
+6,64,astart - Gurobi,90,135,40,140,37
+7,64,astart - ogsa,90,135,40,140,37
+7,64,astart - Gecode,90,135,40,140,37
+7,64,astart - Gurobi,90,135,40,140,37
+8,64,astart - ogsa,90,135,32,140,37
+8,64,astart - Gecode,90,135,32,140,37
+8,64,astart - Gurobi,90,135,32,140,37
+9,64,astart - ogsa,90,135,40,140,37
+9,64,astart - Gecode,90,135,40,140,37
+9,64,astart - Gurobi,90,135,40,140,37
+10,64,astart - ogsa,90,131,40,137,37
+10,64,astart - Gecode,90,131,40,137,37
+10,64,astart - Gurobi,90,131,40,137,37
+11,64,astart - ogsa,90,135,40,137,37
+11,64,astart - Gecode,90,135,40,137,37
+11,64,astart - Gurobi,90,135,40,137,37
+12,64,astart - ogsa,90,134,40,140,37
+12,64,astart - Gecode,90,134,40,140,37
+12,64,astart - Gurobi,90,134,40,140,37
+0,65,demands,5000,1000,2400,5,2100
+0,65,durations,6,1,2,1,1
+0,65,earliest_starts,0,0,0,0,0
+0,65,latest_ends,143,143,143,143,143
+0,65,care_factors,0,900,3600,3600,5400
+0,65,predecessors,0,0,1,-1,-1
+0,65,successors,1,2,4,-1,-1
+0,65,prec_delays,92,19,99,-1,-1
+0,65,preferred_starts,35,122,56,36,138
+1,65,astart - ogsa,16,114,22,36,137
+1,65,astart - Gecode,16,114,22,36,137
+1,65,astart - Gurobi,16,114,22,36,137
+2,65,astart - ogsa,6,104,22,36,137
+2,65,astart - Gecode,6,104,22,36,137
+2,65,astart - Gurobi,6,104,22,36,137
+3,65,astart - ogsa,15,110,22,36,137
+3,65,astart - Gecode,15,110,22,36,137
+3,65,astart - Gurobi,15,110,22,36,137
+4,65,astart - ogsa,18,116,25,36,137
+4,65,astart - Gecode,18,116,25,36,137
+4,65,astart - Gurobi,18,116,25,36,137
+5,65,astart - ogsa,21,116,28,36,137
+5,65,astart - Gecode,21,116,28,36,137
+5,65,astart - Gurobi,21,116,28,36,137
+6,65,astart - ogsa,21,89,28,36,137
+6,65,astart - Gecode,21,89,28,36,137
+6,65,astart - Gurobi,21,89,28,36,137
+7,65,astart - ogsa,18,92,28,36,138
+7,65,astart - Gecode,18,92,28,36,138
+7,65,astart - Gurobi,18,92,28,36,138
+8,65,astart - ogsa,23,92,29,36,137
+8,65,astart - Gecode,21,92,28,36,137
+8,65,astart - Gurobi,21,92,28,36,137
+9,65,astart - ogsa,24,89,31,36,137
+9,65,astart - Gecode,15,89,28,36,137
+9,65,astart - Gurobi,15,89,28,36,137
+10,65,astart - ogsa,18,92,25,36,137
+10,65,astart - Gecode,16,92,22,36,137
+10,65,astart - Gurobi,16,92,22,36,137
+11,65,astart - ogsa,9,86,28,36,137
+11,65,astart - Gecode,9,86,28,36,137
+11,65,astart - Gurobi,9,86,28,36,137
+12,65,astart - ogsa,15,104,22,36,137
+12,65,astart - Gecode,15,104,22,36,137
+12,65,astart - Gurobi,15,104,22,36,137
+0,66,demands,2400,350,2100,1500,150
+0,66,durations,10,2,1,8,10
+0,66,earliest_starts,0,0,0,0,0
+0,66,latest_ends,143,143,143,143,143
+0,66,care_factors,5400,5400,2700,7200,1800
+0,66,predecessors,1,1,-1,-1,-1
+0,66,successors,3,4,-1,-1,-1
+0,66,prec_delays,88,101,-1,-1,-1
+0,66,preferred_starts,86,52,140,98,75
+1,66,astart - ogsa,14,52,137,124,71
+1,66,astart - Gecode,14,52,137,124,71
+1,66,astart - Gurobi,14,52,137,124,71
+2,66,astart - ogsa,15,52,137,102,68
+2,66,astart - Gecode,15,52,137,102,68
+2,66,astart - Gurobi,15,52,137,102,68
+3,66,astart - ogsa,14,52,137,124,75
+3,66,astart - Gecode,14,52,137,124,75
+3,66,astart - Gurobi,14,52,137,124,75
+4,66,astart - ogsa,18,52,137,124,75
+4,66,astart - Gecode,18,52,137,124,75
+4,66,astart - Gurobi,18,52,137,124,75
+5,66,astart - ogsa,20,52,137,85,75
+5,66,astart - Gecode,20,52,137,85,75
+5,66,astart - Gurobi,20,52,137,85,75
+6,66,astart - ogsa,18,52,137,82,75
+6,66,astart - Gecode,18,52,137,82,75
+6,66,astart - Gurobi,18,52,137,82,75
+7,66,astart - ogsa,18,52,140,85,75
+7,66,astart - Gecode,18,52,140,85,75
+7,66,astart - Gurobi,18,52,140,85,75
+8,66,astart - ogsa,20,52,137,85,75
+8,66,astart - Gecode,20,52,137,85,75
+8,66,astart - Gurobi,20,52,137,85,75
+9,66,astart - ogsa,20,52,137,85,75
+9,66,astart - Gecode,20,52,137,85,75
+9,66,astart - Gurobi,20,52,137,85,75
+10,66,astart - ogsa,14,52,131,75,75
+10,66,astart - Gecode,14,52,131,75,75
+10,66,astart - Gurobi,14,52,131,75,75
+11,66,astart - ogsa,80,52,137,82,75
+11,66,astart - Gecode,80,52,137,82,75
+11,66,astart - Gurobi,80,52,137,82,75
+12,66,astart - ogsa,14,52,137,126,71
+12,66,astart - Gecode,14,52,137,126,71
+12,66,astart - Gurobi,14,52,137,126,71
+0,67,demands,2400,35,75,80,1200
+0,67,durations,7,2,5,4,3
+0,67,earliest_starts,0,0,0,0,0
+0,67,latest_ends,143,143,143,143,143
+0,67,care_factors,5400,0,9000,8100,9000
+0,67,predecessors,0,-1,-1,-1,-1
+0,67,successors,3,-1,-1,-1,-1
+0,67,prec_delays,82,-1,-1,-1,-1
+0,67,preferred_starts,1,0,69,87,89
+1,67,astart - ogsa,9,20,69,87,78
+1,67,astart - Gecode,9,15,69,87,78
+1,67,astart - Gurobi,9,22,69,87,78
+2,67,astart - ogsa,6,6,69,87,84
+2,67,astart - Gecode,6,6,69,87,84
+2,67,astart - Gurobi,6,7,69,87,84
+3,67,astart - ogsa,12,15,69,87,89
+3,67,astart - Gecode,12,15,69,87,89
+3,67,astart - Gurobi,12,19,69,87,89
+4,67,astart - ogsa,15,22,69,87,89
+4,67,astart - Gecode,15,21,69,87,89
+4,67,astart - Gurobi,15,22,69,87,89
+5,67,astart - ogsa,18,22,69,87,89
+5,67,astart - Gecode,18,21,69,87,89
+5,67,astart - Gurobi,18,22,69,87,89
+6,67,astart - ogsa,18,24,69,87,89
+6,67,astart - Gecode,18,24,69,87,89
+6,67,astart - Gurobi,18,25,69,87,89
+7,67,astart - ogsa,17,21,69,87,89
+7,67,astart - Gecode,17,18,69,87,89
+7,67,astart - Gurobi,17,22,69,87,89
+8,67,astart - ogsa,18,25,69,87,89
+8,67,astart - Gecode,18,24,69,87,89
+8,67,astart - Gurobi,18,25,69,87,89
+9,67,astart - ogsa,15,28,69,87,89
+9,67,astart - Gecode,15,27,69,87,89
+9,67,astart - Gurobi,15,28,69,87,89
+10,67,astart - ogsa,17,22,69,87,89
+10,67,astart - Gecode,17,21,69,87,89
+10,67,astart - Gurobi,17,22,69,87,89
+11,67,astart - ogsa,9,11,69,87,87
+11,67,astart - Gecode,9,9,69,87,87
+11,67,astart - Gurobi,9,13,69,87,87
+12,67,astart - ogsa,9,18,69,86,96
+12,67,astart - Gecode,9,15,69,86,96
+12,67,astart - Gurobi,9,19,69,86,96
+0,68,demands,100,15,1200,140,2000
+0,68,durations,7,1,3,2,10
+0,68,earliest_starts,0,0,0,0,0
+0,68,latest_ends,143,143,143,143,143
+0,68,care_factors,1800,5400,5400,6300,6300
+0,68,predecessors,0,-1,-1,-1,-1
+0,68,successors,3,-1,-1,-1,-1
+0,68,prec_delays,62,-1,-1,-1,-1
+0,68,preferred_starts,53,57,107,87,72
+1,68,astart - ogsa,53,57,108,87,15
+1,68,astart - Gecode,53,57,108,87,15
+1,68,astart - Gurobi,53,57,108,87,15
+2,68,astart - ogsa,53,57,107,87,15
+2,68,astart - Gecode,53,57,107,87,15
+2,68,astart - Gurobi,53,57,107,87,15
+3,68,astart - ogsa,53,57,107,87,14
+3,68,astart - Gecode,53,57,107,87,14
+3,68,astart - Gurobi,53,57,107,87,14
+4,68,astart - ogsa,53,57,114,87,20
+4,68,astart - Gecode,53,57,114,87,20
+4,68,astart - Gurobi,53,57,114,87,20
+5,68,astart - ogsa,53,57,114,87,20
+5,68,astart - Gecode,53,57,114,87,20
+5,68,astart - Gurobi,53,57,114,87,20
+6,68,astart - ogsa,53,57,87,87,20
+6,68,astart - Gecode,53,57,87,87,20
+6,68,astart - Gurobi,53,57,87,87,20
+7,68,astart - ogsa,54,57,90,87,20
+7,68,astart - Gecode,54,57,90,87,20
+7,68,astart - Gurobi,54,57,90,87,20
+8,68,astart - ogsa,53,57,90,87,20
+8,68,astart - Gecode,53,57,90,87,20
+8,68,astart - Gurobi,53,57,90,87,20
+9,68,astart - ogsa,54,57,87,87,72
+9,68,astart - Gecode,54,57,87,87,72
+9,68,astart - Gurobi,54,57,87,87,72
+10,68,astart - ogsa,53,57,90,87,15
+10,68,astart - Gecode,53,57,90,87,15
+10,68,astart - Gurobi,53,57,90,87,15
+11,68,astart - ogsa,53,57,107,87,72
+11,68,astart - Gecode,53,57,107,87,72
+11,68,astart - Gurobi,53,57,107,87,72
+12,68,astart - ogsa,53,57,102,87,14
+12,68,astart - Gecode,53,57,102,87,14
+12,68,astart - Gurobi,53,57,102,87,14
+0,69,demands,120,1200,30,300,1200
+0,69,durations,6,3,4,4,6
+0,69,earliest_starts,0,0,0,0,0
+0,69,latest_ends,143,143,143,143,143
+0,69,care_factors,5400,3600,0,1800,2700
+0,69,predecessors,1,0,-1,-1,-1
+0,69,successors,3,4,-1,-1,-1
+0,69,prec_delays,40,41,-1,-1,-1
+0,69,preferred_starts,30,30,61,46,69
+1,69,astart - ogsa,30,21,19,46,57
+1,69,astart - Gecode,18,21,15,46,24
+1,69,astart - Gurobi,18,27,20,46,24
+2,69,astart - ogsa,30,21,6,46,66
+2,69,astart - Gecode,15,21,6,46,21
+2,69,astart - Gurobi,15,21,6,46,21
+3,69,astart - ogsa,30,21,15,46,69
+3,69,astart - Gecode,30,21,15,46,69
+3,69,astart - Gurobi,30,21,17,46,69
+4,69,astart - ogsa,30,27,20,42,69
+4,69,astart - Gecode,18,24,20,42,24
+4,69,astart - Gurobi,18,27,21,42,24
+5,69,astart - ogsa,30,27,21,32,69
+5,69,astart - Gecode,18,27,21,32,24
+5,69,astart - Gurobi,18,27,21,32,24
+6,69,astart - ogsa,30,24,23,29,77
+6,69,astart - Gecode,18,24,23,29,24
+6,69,astart - Gurobi,18,24,23,29,24
+7,69,astart - ogsa,30,27,20,32,66
+7,69,astart - Gecode,18,24,18,27,24
+7,69,astart - Gurobi,18,24,20,27,24
+8,69,astart - ogsa,30,27,23,30,72
+8,69,astart - Gecode,18,26,23,29,24
+8,69,astart - Gurobi,18,26,24,29,24
+9,69,astart - ogsa,30,27,26,30,72
+9,69,astart - Gecode,30,27,26,30,72
+9,69,astart - Gurobi,30,27,26,30,72
+10,69,astart - ogsa,30,21,20,44,75
+10,69,astart - Gecode,30,21,20,44,75
+10,69,astart - Gurobi,30,21,20,44,75
+11,69,astart - ogsa,30,27,11,44,72
+11,69,astart - Gecode,30,27,9,44,72
+11,69,astart - Gurobi,30,27,11,44,72
+12,69,astart - ogsa,30,27,17,44,69
+12,69,astart - Gecode,18,21,15,26,24
+12,69,astart - Gurobi,18,21,17,26,24
+0,70,demands,6000,6000,2400,2,4
+0,70,durations,1,1,3,4,1
+0,70,earliest_starts,0,0,0,0,0
+0,70,latest_ends,143,143,143,143,143
+0,70,care_factors,900,6300,9000,4500,1800
+0,70,predecessors,-1,-1,-1,-1,-1
+0,70,successors,-1,-1,-1,-1,-1
+0,70,prec_delays,-1,-1,-1,-1,-1
+0,70,preferred_starts,23,51,122,60,11
+1,70,astart - ogsa,23,44,129,60,11
+1,70,astart - Gecode,23,44,129,60,11
+1,70,astart - Gurobi,23,44,129,60,11
+2,70,astart - ogsa,8,23,129,60,11
+2,70,astart - Gecode,8,23,129,60,11
+2,70,astart - Gurobi,8,23,129,60,11
+3,70,astart - ogsa,20,51,122,60,11
+3,70,astart - Gecode,20,51,122,60,11
+3,70,astart - Gurobi,20,51,122,60,11
+4,70,astart - ogsa,23,29,123,60,11
+4,70,astart - Gecode,23,29,123,60,11
+4,70,astart - Gurobi,23,29,123,60,11
+5,70,astart - ogsa,23,29,129,60,11
+5,70,astart - Gecode,23,29,129,60,11
+5,70,astart - Gurobi,23,29,129,60,11
+6,70,astart - ogsa,24,26,129,60,11
+6,70,astart - Gecode,24,26,129,60,11
+6,70,astart - Gurobi,24,26,129,60,11
+7,70,astart - ogsa,23,29,129,60,11
+7,70,astart - Gecode,23,29,129,60,11
+7,70,astart - Gurobi,23,29,129,60,11
+8,70,astart - ogsa,24,29,129,60,11
+8,70,astart - Gecode,24,29,129,60,11
+8,70,astart - Gurobi,24,29,129,60,11
+9,70,astart - ogsa,27,29,135,60,11
+9,70,astart - Gecode,27,29,135,60,11
+9,70,astart - Gurobi,27,29,135,60,11
+10,70,astart - ogsa,23,23,129,60,11
+10,70,astart - Gecode,23,23,129,60,11
+10,70,astart - Gurobi,23,23,129,60,11
+11,70,astart - ogsa,14,29,129,60,11
+11,70,astart - Gecode,14,29,129,60,11
+11,70,astart - Gurobi,14,29,129,60,11
+12,70,astart - ogsa,20,29,129,60,11
+12,70,astart - Gecode,20,29,129,60,11
+12,70,astart - Gurobi,20,29,129,60,11
+0,71,demands,68,400,4000,2,50
+0,71,durations,5,1,1,2,1
+0,71,earliest_starts,0,0,0,0,0
+0,71,latest_ends,143,143,143,143,143
+0,71,care_factors,3600,6300,7200,3600,4500
+0,71,predecessors,-1,-1,-1,-1,-1
+0,71,successors,-1,-1,-1,-1,-1
+0,71,prec_delays,-1,-1,-1,-1,-1
+0,71,preferred_starts,129,140,58,21,3
+1,71,astart - ogsa,129,140,58,21,3
+1,71,astart - Gecode,129,140,58,21,3
+1,71,astart - Gurobi,129,140,58,21,3
+2,71,astart - ogsa,129,140,58,21,3
+2,71,astart - Gecode,129,140,58,21,3
+2,71,astart - Gurobi,129,140,58,21,3
+3,71,astart - ogsa,129,140,58,21,3
+3,71,astart - Gecode,129,140,58,21,3
+3,71,astart - Gurobi,129,140,58,21,3
+4,71,astart - ogsa,129,140,58,21,3
+4,71,astart - Gecode,129,140,58,21,3
+4,71,astart - Gurobi,129,140,58,21,3
+5,71,astart - ogsa,129,140,58,21,3
+5,71,astart - Gecode,129,140,58,21,3
+5,71,astart - Gurobi,129,140,58,21,3
+6,71,astart - ogsa,129,140,58,21,3
+6,71,astart - Gecode,129,140,58,21,3
+6,71,astart - Gurobi,129,140,58,21,3
+7,71,astart - ogsa,129,140,60,21,3
+7,71,astart - Gecode,129,140,60,21,3
+7,71,astart - Gurobi,129,140,60,21,3
+8,71,astart - ogsa,129,140,29,21,3
+8,71,astart - Gecode,129,140,29,21,3
+8,71,astart - Gurobi,129,140,29,21,3
+9,71,astart - ogsa,129,140,60,21,3
+9,71,astart - Gecode,129,140,60,21,3
+9,71,astart - Gurobi,129,140,60,21,3
+10,71,astart - ogsa,129,140,60,21,3
+10,71,astart - Gecode,129,140,60,21,3
+10,71,astart - Gurobi,129,140,60,21,3
+11,71,astart - ogsa,129,140,60,21,3
+11,71,astart - Gecode,129,140,60,21,3
+11,71,astart - Gurobi,129,140,60,21,3
+12,71,astart - ogsa,129,140,58,21,3
+12,71,astart - Gecode,129,140,58,21,3
+12,71,astart - Gurobi,129,140,58,21,3
+0,72,demands,62,500,15,2,2400
+0,72,durations,3,2,2,2,1
+0,72,earliest_starts,0,0,0,0,0
+0,72,latest_ends,143,143,143,143,143
+0,72,care_factors,7200,7200,5400,3600,5400
+0,72,predecessors,-1,-1,-1,-1,-1
+0,72,successors,-1,-1,-1,-1,-1
+0,72,prec_delays,-1,-1,-1,-1,-1
+0,72,preferred_starts,120,120,90,7,115
+1,72,astart - ogsa,120,120,90,7,115
+1,72,astart - Gecode,120,120,90,7,115
+1,72,astart - Gurobi,120,120,90,7,115
+2,72,astart - ogsa,120,120,90,7,115
+2,72,astart - Gecode,120,120,90,7,115
+2,72,astart - Gurobi,120,120,90,7,115
+3,72,astart - ogsa,120,120,90,7,117
+3,72,astart - Gecode,120,120,90,7,117
+3,72,astart - Gurobi,120,120,90,7,117
+4,72,astart - ogsa,120,120,90,7,115
+4,72,astart - Gecode,120,120,90,7,115
+4,72,astart - Gurobi,120,120,90,7,115
+5,72,astart - ogsa,120,120,90,7,115
+5,72,astart - Gecode,120,120,90,7,115
+5,72,astart - Gurobi,120,120,90,7,115
+6,72,astart - ogsa,120,123,90,7,115
+6,72,astart - Gecode,120,123,90,7,115
+6,72,astart - Gurobi,120,123,90,7,115
+7,72,astart - ogsa,120,120,90,7,115
+7,72,astart - Gecode,120,120,90,7,115
+7,72,astart - Gurobi,120,120,90,7,115
+8,72,astart - ogsa,120,123,90,7,98
+8,72,astart - Gecode,120,123,90,7,98
+8,72,astart - Gurobi,120,123,90,7,98
+9,72,astart - ogsa,120,120,90,7,98
+9,72,astart - Gecode,120,120,90,7,98
+9,72,astart - Gurobi,120,120,90,7,98
+10,72,astart - ogsa,120,120,90,7,129
+10,72,astart - Gecode,120,120,90,7,129
+10,72,astart - Gurobi,120,120,90,7,129
+11,72,astart - ogsa,120,120,90,7,123
+11,72,astart - Gecode,120,120,90,7,123
+11,72,astart - Gurobi,120,120,90,7,123
+12,72,astart - ogsa,120,120,90,7,120
+12,72,astart - Gecode,120,120,90,7,120
+12,72,astart - Gurobi,120,120,90,7,120
+0,73,demands,140,15,100,1100,2000
+0,73,durations,2,2,3,5,1
+0,73,earliest_starts,0,0,0,0,0
+0,73,latest_ends,143,143,143,143,143
+0,73,care_factors,4500,6300,9000,7200,2700
+0,73,predecessors,1,-1,-1,-1,-1
+0,73,successors,4,-1,-1,-1,-1
+0,73,prec_delays,99,-1,-1,-1,-1
+0,73,preferred_starts,86,52,109,30,102
+1,73,astart - ogsa,87,52,109,25,108
+1,73,astart - Gecode,87,52,109,25,108
+1,73,astart - Gurobi,87,52,109,25,108
+2,73,astart - ogsa,86,52,109,22,102
+2,73,astart - Gecode,86,52,109,22,102
+2,73,astart - Gurobi,86,52,109,22,102
+3,73,astart - ogsa,86,52,109,19,105
+3,73,astart - Gecode,86,52,109,19,105
+3,73,astart - Gurobi,86,52,109,19,105
+4,73,astart - ogsa,86,52,109,25,114
+4,73,astart - Gecode,86,52,109,25,114
+4,73,astart - Gurobi,86,52,109,25,114
+5,73,astart - ogsa,86,52,109,25,92
+5,73,astart - Gecode,86,52,109,25,92
+5,73,astart - Gurobi,86,52,109,25,92
+6,73,astart - ogsa,86,52,109,25,89
+6,73,astart - Gecode,86,52,109,25,89
+6,73,astart - Gurobi,86,52,109,25,89
+7,73,astart - ogsa,86,52,109,25,92
+7,73,astart - Gecode,86,52,109,25,92
+7,73,astart - Gurobi,86,52,109,25,92
+8,73,astart - ogsa,86,52,109,25,92
+8,73,astart - Gecode,86,52,109,25,92
+8,73,astart - Gurobi,86,52,109,25,92
+9,73,astart - ogsa,86,52,109,25,89
+9,73,astart - Gecode,86,52,109,25,89
+9,73,astart - Gurobi,86,52,109,25,89
+10,73,astart - ogsa,86,52,109,19,92
+10,73,astart - Gecode,86,52,109,19,92
+10,73,astart - Gurobi,86,52,109,19,92
+11,73,astart - ogsa,86,52,109,25,102
+11,73,astart - Gecode,86,52,109,25,102
+11,73,astart - Gurobi,86,52,109,25,102
+12,73,astart - ogsa,86,52,109,25,102
+12,73,astart - Gecode,86,52,109,25,102
+12,73,astart - Gurobi,86,52,109,25,102
+0,74,demands,2,52,80,600,6000
+0,74,durations,4,4,2,4,3
+0,74,earliest_starts,0,0,0,0,0
+0,74,latest_ends,143,143,143,143,143
+0,74,care_factors,2700,9000,6300,1800,4500
+0,74,predecessors,1,-1,-1,-1,-1
+0,74,successors,4,-1,-1,-1,-1
+0,74,prec_delays,92,-1,-1,-1,-1
+0,74,preferred_starts,108,35,15,114,63
+1,74,astart - ogsa,108,35,15,128,42
+1,74,astart - Gecode,108,17,15,128,21
+1,74,astart - Gurobi,108,17,15,128,21
+2,74,astart - ogsa,108,35,15,129,66
+2,74,astart - Gecode,108,17,15,128,21
+2,74,astart - Gurobi,108,17,15,129,21
+3,74,astart - ogsa,108,35,15,120,69
+3,74,astart - Gecode,108,17,15,120,21
+3,74,astart - Gurobi,108,17,15,120,21
+4,74,astart - ogsa,108,35,15,114,66
+4,74,astart - Gecode,108,20,15,114,24
+4,74,astart - Gurobi,108,20,15,114,24
+5,74,astart - ogsa,108,35,15,128,72
+5,74,astart - Gecode,108,23,15,128,27
+5,74,astart - Gurobi,108,23,15,128,27
+6,74,astart - ogsa,108,35,15,128,84
+6,74,astart - Gecode,108,20,15,128,24
+6,74,astart - Gurobi,108,20,15,128,24
+7,74,astart - ogsa,108,35,15,89,69
+7,74,astart - Gecode,108,23,15,89,27
+7,74,astart - Gurobi,108,23,15,89,27
+8,74,astart - ogsa,108,35,15,89,75
+8,74,astart - Gecode,108,23,15,89,27
+8,74,astart - Gurobi,108,23,15,89,27
+9,74,astart - ogsa,108,35,15,87,75
+9,74,astart - Gecode,108,23,15,87,27
+9,74,astart - Gurobi,108,23,15,87,27
+10,74,astart - ogsa,108,35,15,128,75
+10,74,astart - Gecode,108,17,15,128,21
+10,74,astart - Gurobi,108,17,15,128,21
+11,74,astart - ogsa,108,35,15,129,72
+11,74,astart - Gecode,108,35,15,128,72
+11,74,astart - Gurobi,108,35,15,129,72
+12,74,astart - ogsa,108,35,15,128,42
+12,74,astart - Gecode,108,17,15,128,21
+12,74,astart - Gurobi,108,17,15,129,21
+0,75,demands,700,2400,1000,5000,1200
+0,75,durations,2,4,2,4,7
+0,75,earliest_starts,0,0,0,0,0
+0,75,latest_ends,143,143,143,143,143
+0,75,care_factors,1800,6300,1800,2700,1800
+0,75,predecessors,0,-1,-1,-1,-1
+0,75,successors,4,-1,-1,-1,-1
+0,75,prec_delays,118,-1,-1,-1,-1
+0,75,preferred_starts,92,95,105,66,106
+1,75,astart - ogsa,76,128,129,20,129
+1,75,astart - Gecode,76,128,129,20,129
+1,75,astart - Gurobi,76,128,129,20,129
+2,75,astart - ogsa,102,102,105,6,131
+2,75,astart - Gecode,102,102,105,6,131
+2,75,astart - Gurobi,102,102,105,6,131
+3,75,astart - ogsa,92,83,105,17,126
+3,75,astart - Gecode,92,83,105,17,126
+3,75,astart - Gurobi,92,83,105,17,126
+4,75,astart - ogsa,91,114,114,21,125
+4,75,astart - Gecode,91,114,114,21,125
+4,75,astart - Gurobi,91,114,114,21,125
+5,75,astart - ogsa,91,89,91,21,125
+5,75,astart - Gecode,21,89,91,21,23
+5,75,astart - Gurobi,21,89,91,21,23
+6,75,astart - ogsa,88,86,88,23,135
+6,75,astart - Gecode,18,86,88,23,20
+6,75,astart - Gurobi,18,86,88,23,20
+7,75,astart - ogsa,91,89,91,20,135
+7,75,astart - Gecode,18,89,91,20,20
+7,75,astart - Gurobi,18,89,91,20,20
+8,75,astart - ogsa,91,89,91,24,93
+8,75,astart - Gecode,21,89,91,24,23
+8,75,astart - Gurobi,21,89,91,24,23
+9,75,astart - ogsa,88,87,88,26,90
+9,75,astart - Gecode,84,87,88,26,86
+9,75,astart - Gurobi,84,87,88,26,86
+10,75,astart - ogsa,91,75,91,20,125
+10,75,astart - Gecode,91,75,91,20,125
+10,75,astart - Gurobi,91,75,91,20,125
+11,75,astart - ogsa,85,84,85,11,129
+11,75,astart - Gecode,79,84,85,11,83
+11,75,astart - Gurobi,79,84,85,11,83
+12,75,astart - ogsa,102,20,129,17,129
+12,75,astart - Gecode,15,20,129,17,17
+12,75,astart - Gurobi,15,20,129,17,17
+0,76,demands,10,1,1100,100,1200
+0,76,durations,1,5,4,4,10
+0,76,earliest_starts,0,0,0,0,0
+0,76,latest_ends,143,143,143,143,143
+0,76,care_factors,1800,0,1800,900,7200
+0,76,predecessors,-1,-1,-1,-1,-1
+0,76,successors,-1,-1,-1,-1,-1
+0,76,prec_delays,-1,-1,-1,-1,-1
+0,76,preferred_starts,70,86,95,38,89
+1,76,astart - ogsa,70,16,129,32,123
+1,76,astart - Gecode,70,15,129,32,123
+1,76,astart - Gurobi,70,19,129,32,123
+2,76,astart - ogsa,70,6,6,26,102
+2,76,astart - Gecode,70,6,6,26,102
+2,76,astart - Gurobi,70,6,6,26,102
+3,76,astart - ogsa,70,16,83,42,80
+3,76,astart - Gecode,70,15,83,42,80
+3,76,astart - Gurobi,70,16,83,42,80
+4,76,astart - ogsa,70,21,23,32,72
+4,76,astart - Gecode,70,19,23,32,72
+4,76,astart - Gurobi,70,21,23,32,72
+5,76,astart - ogsa,70,21,21,32,83
+5,76,astart - Gecode,70,21,21,32,83
+5,76,astart - Gurobi,70,21,21,32,83
+6,76,astart - ogsa,70,22,23,29,83
+6,76,astart - Gecode,70,22,23,29,83
+6,76,astart - Gurobi,70,22,23,29,83
+7,76,astart - ogsa,70,19,23,26,83
+7,76,astart - Gecode,70,18,23,26,83
+7,76,astart - Gurobi,70,19,23,26,83
+8,76,astart - ogsa,70,24,26,26,83
+8,76,astart - Gecode,70,22,26,26,83
+8,76,astart - Gurobi,70,24,26,26,83
+9,76,astart - ogsa,70,25,87,26,83
+9,76,astart - Gecode,70,25,87,26,83
+9,76,astart - Gurobi,70,25,87,26,83
+10,76,astart - ogsa,70,19,75,42,75
+10,76,astart - Gecode,70,19,75,42,75
+10,76,astart - Gurobi,70,19,75,42,75
+11,76,astart - ogsa,70,9,84,26,80
+11,76,astart - Gecode,70,9,84,26,80
+11,76,astart - Gurobi,70,10,84,26,80
+12,76,astart - ogsa,70,15,20,26,17
+12,76,astart - Gecode,70,15,20,26,15
+12,76,astart - Gurobi,70,16,20,26,17
+0,77,demands,650,2300,50,38,5
+0,77,durations,2,4,4,1,5
+0,77,earliest_starts,0,0,0,0,0
+0,77,latest_ends,143,143,143,143,143
+0,77,care_factors,1800,2700,3600,0,8100
+0,77,predecessors,1,-1,-1,-1,-1
+0,77,successors,2,-1,-1,-1,-1
+0,77,prec_delays,28,-1,-1,-1,-1
+0,77,preferred_starts,36,47,59,119,59
+1,77,astart - ogsa,28,20,52,23,59
+1,77,astart - Gecode,28,20,52,15,59
+1,77,astart - Gurobi,28,20,52,23,59
+2,77,astart - ogsa,25,6,38,6,59
+2,77,astart - Gecode,25,20,52,6,59
+2,77,astart - Gurobi,25,20,52,8,59
+3,77,astart - ogsa,22,20,52,16,59
+3,77,astart - Gecode,22,20,52,15,59
+3,77,astart - Gurobi,22,20,52,20,59
+4,77,astart - ogsa,28,23,55,23,59
+4,77,astart - Gecode,28,23,55,21,59
+4,77,astart - Gurobi,28,23,55,23,59
+5,77,astart - ogsa,28,21,53,23,59
+5,77,astart - Gecode,28,26,58,21,59
+5,77,astart - Gurobi,28,26,58,23,59
+6,77,astart - ogsa,31,23,55,24,59
+6,77,astart - Gecode,31,24,56,24,59
+6,77,astart - Gurobi,31,24,56,26,59
+7,77,astart - ogsa,28,23,55,22,59
+7,77,astart - Gecode,28,26,58,18,59
+7,77,astart - Gurobi,28,26,58,23,59
+8,77,astart - ogsa,28,26,58,26,59
+8,77,astart - Gecode,28,26,58,24,59
+8,77,astart - Gurobi,28,26,58,26,59
+9,77,astart - ogsa,28,26,58,29,59
+9,77,astart - Gecode,28,26,58,27,59
+9,77,astart - Gurobi,28,26,58,29,59
+10,77,astart - ogsa,22,20,52,22,59
+10,77,astart - Gecode,22,20,52,21,59
+10,77,astart - Gurobi,22,20,52,23,59
+11,77,astart - ogsa,28,14,46,11,59
+11,77,astart - Gecode,28,17,49,9,59
+11,77,astart - Gurobi,28,17,49,14,59
+12,77,astart - ogsa,28,20,52,15,59
+12,77,astart - Gecode,28,20,52,15,59
+12,77,astart - Gurobi,28,20,52,20,59
+0,78,demands,5,2400,1000,4,100
+0,78,durations,1,1,6,4,1
+0,78,earliest_starts,0,0,0,0,0
+0,78,latest_ends,143,143,143,143,143
+0,78,care_factors,5400,4500,9000,4500,7200
+0,78,predecessors,-1,-1,-1,-1,-1
+0,78,successors,-1,-1,-1,-1,-1
+0,78,prec_delays,-1,-1,-1,-1,-1
+0,78,preferred_starts,76,124,132,83,47
+1,78,astart - ogsa,76,124,132,83,47
+1,78,astart - Gecode,76,124,132,83,47
+1,78,astart - Gurobi,76,124,132,83,47
+2,78,astart - ogsa,76,126,132,83,47
+2,78,astart - Gecode,76,126,132,83,47
+2,78,astart - Gurobi,76,126,132,83,47
+3,78,astart - ogsa,76,124,132,83,47
+3,78,astart - Gecode,76,124,132,83,47
+3,78,astart - Gurobi,76,124,132,83,47
+4,78,astart - ogsa,76,124,126,83,47
+4,78,astart - Gecode,76,124,126,83,47
+4,78,astart - Gurobi,76,124,126,83,47
+5,78,astart - ogsa,76,126,135,83,48
+5,78,astart - Gecode,76,126,135,83,48
+5,78,astart - Gurobi,76,126,135,83,48
+6,78,astart - ogsa,76,129,135,83,47
+6,78,astart - Gecode,76,129,135,83,47
+6,78,astart - Gurobi,76,129,135,83,47
+7,78,astart - ogsa,76,129,135,83,47
+7,78,astart - Gecode,76,129,135,83,47
+7,78,astart - Gurobi,76,129,135,83,47
+8,78,astart - ogsa,76,129,132,83,47
+8,78,astart - Gecode,76,129,132,83,47
+8,78,astart - Gurobi,76,129,132,83,47
+9,78,astart - ogsa,76,126,135,83,47
+9,78,astart - Gecode,76,126,135,83,47
+9,78,astart - Gurobi,76,126,135,83,47
+10,78,astart - ogsa,76,129,129,83,47
+10,78,astart - Gecode,76,129,129,83,47
+10,78,astart - Gurobi,76,129,129,83,47
+11,78,astart - ogsa,76,124,132,83,47
+11,78,astart - Gecode,76,124,132,83,47
+11,78,astart - Gurobi,76,124,132,83,47
+12,78,astart - ogsa,76,129,132,83,47
+12,78,astart - Gecode,76,129,132,83,47
+12,78,astart - Gurobi,76,129,132,83,47
+0,79,demands,210,650,120,38,1000
+0,79,durations,4,2,1,2,2
+0,79,earliest_starts,0,0,0,0,0
+0,79,latest_ends,143,143,143,143,143
+0,79,care_factors,3600,0,900,6300,7200
+0,79,predecessors,0,1,1,-1,-1
+0,79,successors,1,3,4,-1,-1
+0,79,prec_delays,138,75,47,-1,-1
+0,79,preferred_starts,60,66,59,103,79
+1,79,astart - ogsa,60,135,59,137,137
+1,79,astart - Gecode,60,75,59,105,79
+1,79,astart - Gurobi,60,75,59,105,79
+2,79,astart - ogsa,60,136,59,138,138
+2,79,astart - Gecode,60,66,59,103,76
+2,79,astart - Gurobi,60,66,59,103,76
+3,79,astart - ogsa,60,135,59,137,137
+3,79,astart - Gecode,60,69,59,103,79
+3,79,astart - Gurobi,60,69,59,103,79
+4,79,astart - ogsa,60,130,59,132,135
+4,79,astart - Gecode,60,66,59,103,79
+4,79,astart - Gurobi,60,67,59,103,79
+5,79,astart - ogsa,60,129,59,131,131
+5,79,astart - Gecode,60,72,59,103,79
+5,79,astart - Gurobi,60,72,59,103,79
+6,79,astart - ogsa,63,85,59,103,87
+6,79,astart - Gecode,63,75,59,103,79
+6,79,astart - Gurobi,63,75,59,103,79
+7,79,astart - ogsa,60,85,59,103,87
+7,79,astart - Gecode,60,69,59,103,79
+7,79,astart - Gurobi,60,69,59,103,79
+8,79,astart - ogsa,60,75,59,103,79
+8,79,astart - Gecode,60,75,59,103,79
+8,79,astart - Gurobi,60,75,59,103,79
+9,79,astart - ogsa,60,75,59,103,79
+9,79,astart - Gecode,60,75,59,103,79
+9,79,astart - Gurobi,60,75,59,103,79
+10,79,astart - ogsa,60,75,59,103,79
+10,79,astart - Gecode,60,75,59,103,79
+10,79,astart - Gurobi,60,75,59,103,79
+11,79,astart - ogsa,60,84,60,103,86
+11,79,astart - Gecode,60,72,60,103,79
+11,79,astart - Gurobi,60,72,60,103,79
+12,79,astart - ogsa,60,129,59,131,131
+12,79,astart - Gecode,60,69,59,103,79
+12,79,astart - Gurobi,60,69,59,103,79
+0,80,demands,50,2400,1200,2400,75
+0,80,durations,1,5,5,5,5
+0,80,earliest_starts,0,0,0,0,0
+0,80,latest_ends,143,143,143,143,143
+0,80,care_factors,1800,1800,4500,1800,8100
+0,80,predecessors,-1,-1,-1,-1,-1
+0,80,successors,-1,-1,-1,-1,-1
+0,80,prec_delays,-1,-1,-1,-1,-1
+0,80,preferred_starts,104,132,113,118,126
+1,80,astart - ogsa,108,133,127,19,126
+1,80,astart - Gecode,108,133,127,19,126
+1,80,astart - Gurobi,108,133,127,19,126
+2,80,astart - ogsa,104,6,127,6,126
+2,80,astart - Gecode,104,6,127,6,126
+2,80,astart - Gurobi,104,6,127,6,126
+3,80,astart - ogsa,104,133,117,16,126
+3,80,astart - Gecode,104,133,117,16,126
+3,80,astart - Gurobi,104,133,117,16,126
+4,80,astart - ogsa,104,21,114,21,126
+4,80,astart - Gecode,104,21,114,21,126
+4,80,astart - Gurobi,104,21,114,21,126
+5,80,astart - ogsa,104,21,127,21,126
+5,80,astart - Gecode,104,21,127,21,126
+5,80,astart - Gurobi,104,21,127,21,126
+6,80,astart - ogsa,104,22,127,22,126
+6,80,astart - Gecode,104,22,127,22,126
+6,80,astart - Gurobi,104,22,127,22,126
+7,80,astart - ogsa,104,19,88,19,126
+7,80,astart - Gecode,104,19,88,19,126
+7,80,astart - Gurobi,104,19,88,19,126
+8,80,astart - ogsa,104,24,88,24,126
+8,80,astart - Gecode,104,24,88,24,126
+8,80,astart - Gurobi,104,24,88,24,126
+9,80,astart - ogsa,104,25,87,25,126
+9,80,astart - Gecode,104,25,87,25,126
+9,80,astart - Gurobi,104,25,87,25,126
+10,80,astart - ogsa,104,19,127,19,126
+10,80,astart - Gecode,104,19,127,19,126
+10,80,astart - Gurobi,104,19,127,19,126
+11,80,astart - ogsa,104,10,127,10,126
+11,80,astart - Gecode,104,10,127,10,126
+11,80,astart - Gurobi,104,10,127,10,126
+12,80,astart - ogsa,104,16,127,16,126
+12,80,astart - Gecode,104,16,127,16,126
+12,80,astart - Gurobi,104,16,127,16,126
+0,81,demands,500,1000,2400,5,2400
+0,81,durations,4,3,4,3,2
+0,81,earliest_starts,0,0,0,0,0
+0,81,latest_ends,143,143,143,143,143
+0,81,care_factors,6300,4500,9000,8100,2700
+0,81,predecessors,0,-1,-1,-1,-1
+0,81,successors,1,-1,-1,-1,-1
+0,81,prec_delays,86,-1,-1,-1,-1
+0,81,preferred_starts,27,63,29,30,85
+1,81,astart - ogsa,27,60,26,30,22
+1,81,astart - Gecode,27,60,26,30,22
+1,81,astart - Gurobi,27,60,26,30,22
+2,81,astart - ogsa,26,66,20,30,22
+2,81,astart - Gecode,26,66,20,30,22
+2,81,astart - Gurobi,26,66,20,30,22
+3,81,astart - ogsa,23,63,20,30,85
+3,81,astart - Gecode,23,63,20,30,85
+3,81,astart - Gurobi,23,63,20,30,85
+4,81,astart - ogsa,27,63,26,30,76
+4,81,astart - Gecode,27,63,26,30,76
+4,81,astart - Gurobi,27,63,26,30,76
+5,81,astart - ogsa,27,63,26,30,22
+5,81,astart - Gecode,27,63,26,30,22
+5,81,astart - Gurobi,27,63,26,30,22
+6,81,astart - ogsa,27,66,24,30,85
+6,81,astart - Gecode,27,66,24,30,85
+6,81,astart - Gurobi,27,66,24,30,85
+7,81,astart - ogsa,27,66,26,30,85
+7,81,astart - Gecode,27,66,26,30,85
+7,81,astart - Gurobi,27,66,26,30,85
+8,81,astart - ogsa,27,69,26,30,28
+8,81,astart - Gecode,27,69,26,30,28
+8,81,astart - Gurobi,27,69,26,30,28
+9,81,astart - ogsa,27,63,26,30,87
+9,81,astart - Gecode,27,63,26,30,87
+9,81,astart - Gurobi,27,63,26,30,87
+10,81,astart - ogsa,26,63,20,30,76
+10,81,astart - Gecode,26,63,20,30,76
+10,81,astart - Gurobi,26,63,20,30,76
+11,81,astart - ogsa,26,66,26,30,85
+11,81,astart - Gecode,26,66,26,30,85
+11,81,astart - Gurobi,26,72,26,30,85
+12,81,astart - ogsa,26,60,20,30,22
+12,81,astart - Gecode,26,60,20,30,22
+12,81,astart - Gurobi,26,60,20,30,22
+0,82,demands,1200,1200,5000,2400,75
+0,82,durations,3,2,1,1,4
+0,82,earliest_starts,0,0,0,0,0
+0,82,latest_ends,143,143,143,143,143
+0,82,care_factors,8100,4500,8100,8100,9000
+0,82,predecessors,1,1,-1,-1,-1
+0,82,successors,2,3,-1,-1,-1
+0,82,prec_delays,95,123,-1,-1,-1
+0,82,preferred_starts,103,38,100,103,24
+1,82,astart - ogsa,108,34,108,108,24
+1,82,astart - Gecode,108,34,108,108,24
+1,82,astart - Gurobi,108,34,108,108,24
+2,82,astart - ogsa,103,28,102,103,24
+2,82,astart - Gecode,103,28,102,103,24
+2,82,astart - Gurobi,103,28,102,103,24
+3,82,astart - ogsa,105,37,100,105,24
+3,82,astart - Gecode,105,37,100,105,24
+3,82,astart - Gurobi,105,37,100,105,24
+4,82,astart - ogsa,102,28,98,103,24
+4,82,astart - Gecode,102,28,98,103,24
+4,82,astart - Gurobi,102,28,98,103,24
+5,82,astart - ogsa,96,34,98,101,24
+5,82,astart - Gecode,96,34,98,101,24
+5,82,astart - Gurobi,96,34,98,101,24
+6,82,astart - ogsa,90,31,89,92,24
+6,82,astart - Gecode,90,31,89,92,24
+6,82,astart - Gurobi,90,31,89,92,24
+7,82,astart - ogsa,99,28,92,101,24
+7,82,astart - Gecode,99,28,92,101,24
+7,82,astart - Gurobi,99,28,92,101,24
+8,82,astart - ogsa,96,28,92,98,24
+8,82,astart - Gecode,96,28,92,98,24
+8,82,astart - Gurobi,96,28,92,98,24
+9,82,astart - ogsa,96,28,89,101,24
+9,82,astart - Gecode,96,28,89,101,24
+9,82,astart - Gurobi,96,28,89,101,24
+10,82,astart - ogsa,102,22,92,103,24
+10,82,astart - Gecode,102,22,92,103,24
+10,82,astart - Gurobi,102,22,92,103,24
+11,82,astart - ogsa,103,28,95,103,24
+11,82,astart - Gecode,103,28,95,103,24
+11,82,astart - Gurobi,103,28,95,103,24
+12,82,astart - ogsa,102,28,102,103,24
+12,82,astart - Gecode,102,28,102,103,24
+12,82,astart - Gurobi,102,28,102,103,24
+0,83,demands,700,1100,45,1200,10
+0,83,durations,6,2,1,4,6
+0,83,earliest_starts,0,0,0,0,0
+0,83,latest_ends,143,143,143,143,143
+0,83,care_factors,6300,0,6300,2700,3600
+0,83,predecessors,0,0,2,-1,-1
+0,83,successors,1,2,4,-1,-1
+0,83,prec_delays,90,122,91,-1,-1
+0,83,preferred_starts,19,117,52,2,80
+1,83,astart - ogsa,19,25,52,9,78
+1,83,astart - Gecode,19,25,52,9,78
+1,83,astart - Gurobi,19,25,52,9,78
+2,83,astart - ogsa,19,25,52,6,80
+2,83,astart - Gecode,19,25,52,6,80
+2,83,astart - Gurobi,19,25,52,6,80
+3,83,astart - ogsa,19,25,52,12,80
+3,83,astart - Gecode,16,22,52,12,80
+3,83,astart - Gurobi,16,22,52,12,80
+4,83,astart - ogsa,19,25,52,12,80
+4,83,astart - Gecode,19,25,52,12,80
+4,83,astart - Gurobi,19,25,52,12,80
+5,83,astart - ogsa,19,25,52,20,80
+5,83,astart - Gecode,19,25,52,20,80
+5,83,astart - Gurobi,19,25,52,20,80
+6,83,astart - ogsa,19,25,52,18,80
+6,83,astart - Gecode,19,25,52,18,80
+6,83,astart - Gurobi,19,25,52,18,80
+7,83,astart - ogsa,19,25,52,18,80
+7,83,astart - Gecode,19,25,52,18,80
+7,83,astart - Gurobi,19,25,52,18,80
+8,83,astart - ogsa,19,25,52,18,80
+8,83,astart - Gecode,19,25,52,18,80
+8,83,astart - Gurobi,19,25,52,18,80
+9,83,astart - ogsa,19,28,52,15,80
+9,83,astart - Gecode,19,27,52,15,80
+9,83,astart - Gurobi,19,28,52,15,80
+10,83,astart - ogsa,19,25,52,20,80
+10,83,astart - Gecode,16,22,52,20,80
+10,83,astart - Gurobi,16,22,52,20,80
+11,83,astart - ogsa,19,27,52,9,80
+11,83,astart - Gecode,13,19,52,9,80
+11,83,astart - Gurobi,13,19,52,9,80
+12,83,astart - ogsa,19,25,52,9,80
+12,83,astart - Gecode,19,25,52,9,80
+12,83,astart - Gurobi,19,25,52,9,80
+0,84,demands,35,15,700,4,4000
+0,84,durations,1,3,5,1,1
+0,84,earliest_starts,0,0,0,0,0
+0,84,latest_ends,143,143,143,143,143
+0,84,care_factors,4500,7200,2700,6300,8100
+0,84,predecessors,0,2,3,-1,-1
+0,84,successors,2,3,4,-1,-1
+0,84,prec_delays,4,89,44,-1,-1
+0,84,preferred_starts,32,23,67,99,136
+1,84,astart - ogsa,32,23,33,99,136
+1,84,astart - Gecode,30,23,31,99,136
+1,84,astart - Gurobi,30,23,31,99,136
+2,84,astart - ogsa,32,23,33,99,136
+2,84,astart - Gecode,24,23,25,99,136
+2,84,astart - Gurobi,24,23,25,99,136
+3,84,astart - ogsa,32,23,36,99,136
+3,84,astart - Gecode,37,23,42,99,136
+3,84,astart - Gurobi,37,23,42,99,136
+4,84,astart - ogsa,32,23,33,99,136
+4,84,astart - Gecode,30,23,31,99,136
+4,84,astart - Gurobi,30,23,31,99,136
+5,84,astart - ogsa,32,23,33,99,136
+5,84,astart - Gecode,30,23,31,99,136
+5,84,astart - Gurobi,30,23,31,99,136
+6,84,astart - ogsa,32,23,33,99,136
+6,84,astart - Gecode,27,23,28,99,136
+6,84,astart - Gurobi,27,23,28,99,136
+7,84,astart - ogsa,32,23,33,99,136
+7,84,astart - Gecode,24,23,25,99,136
+7,84,astart - Gurobi,24,23,25,99,136
+8,84,astart - ogsa,32,23,33,99,136
+8,84,astart - Gecode,24,23,25,99,136
+8,84,astart - Gurobi,24,23,25,99,136
+9,84,astart - ogsa,32,23,33,99,136
+9,84,astart - Gecode,26,23,27,99,136
+9,84,astart - Gurobi,26,23,27,99,136
+10,84,astart - ogsa,32,23,33,99,131
+10,84,astart - Gecode,20,23,21,99,131
+10,84,astart - Gurobi,20,23,21,99,131
+11,84,astart - ogsa,32,23,33,99,136
+11,84,astart - Gecode,24,23,25,99,136
+11,84,astart - Gurobi,24,23,25,99,136
+12,84,astart - ogsa,32,23,33,99,136
+12,84,astart - Gecode,24,23,25,99,136
+12,84,astart - Gurobi,24,23,25,99,136
+0,85,demands,2,900,5000,2200,3500
+0,85,durations,2,6,1,7,6
+0,85,earliest_starts,0,0,0,0,0
+0,85,latest_ends,143,143,143,143,143
+0,85,care_factors,9000,900,0,4500,4500
+0,85,predecessors,0,0,-1,-1,-1
+0,85,successors,2,3,-1,-1,-1
+0,85,prec_delays,110,47,-1,-1,-1
+0,85,preferred_starts,78,121,136,125,55
+1,85,astart - ogsa,78,18,136,126,18
+1,85,astart - Gecode,78,18,129,126,18
+1,85,astart - Gurobi,78,18,129,126,18
+2,85,astart - ogsa,78,6,137,127,6
+2,85,astart - Gecode,78,6,135,127,6
+2,85,astart - Gurobi,78,6,135,127,6
+3,85,astart - ogsa,78,16,136,125,18
+3,85,astart - Gecode,78,15,135,125,18
+3,85,astart - Gurobi,78,18,135,125,18
+4,85,astart - ogsa,78,21,130,125,21
+4,85,astart - Gecode,78,21,129,125,21
+4,85,astart - Gurobi,78,21,129,125,21
+5,85,astart - ogsa,78,21,129,125,21
+5,85,astart - Gecode,78,21,129,125,21
+5,85,astart - Gurobi,78,21,129,125,21
+6,85,astart - ogsa,78,21,86,125,21
+6,85,astart - Gecode,78,21,84,125,21
+6,85,astart - Gurobi,78,21,86,125,21
+7,85,astart - ogsa,78,18,86,84,21
+7,85,astart - Gecode,78,18,84,84,21
+7,85,astart - Gurobi,78,21,86,84,21
+8,85,astart - ogsa,78,24,80,86,24
+8,85,astart - Gecode,78,24,80,86,24
+8,85,astart - Gurobi,78,24,80,86,24
+9,85,astart - ogsa,78,24,87,86,24
+9,85,astart - Gecode,78,24,87,86,24
+9,85,astart - Gurobi,78,24,89,86,24
+10,85,astart - ogsa,78,18,131,125,18
+10,85,astart - Gecode,78,18,80,125,18
+10,85,astart - Gurobi,78,18,80,125,18
+11,85,astart - ogsa,78,11,84,127,12
+11,85,astart - Gecode,78,9,84,127,12
+11,85,astart - Gurobi,78,12,86,127,12
+12,85,astart - ogsa,78,16,129,127,18
+12,85,astart - Gecode,78,15,129,127,18
+12,85,astart - Gurobi,78,18,129,127,18
+0,86,demands,80,90,140,50,1100
+0,86,durations,3,3,2,1,3
+0,86,earliest_starts,0,0,0,0,0
+0,86,latest_ends,143,143,143,143,143
+0,86,care_factors,3600,1800,900,3600,3600
+0,86,predecessors,-1,-1,-1,-1,-1
+0,86,successors,-1,-1,-1,-1,-1
+0,86,prec_delays,-1,-1,-1,-1,-1
+0,86,preferred_starts,84,92,69,37,91
+1,86,astart - ogsa,78,90,69,37,75
+1,86,astart - Gecode,78,90,69,37,75
+1,86,astart - Gurobi,78,90,69,37,75
+2,86,astart - ogsa,84,87,69,37,102
+2,86,astart - Gecode,84,87,69,37,102
+2,86,astart - Gurobi,84,87,69,37,102
+3,86,astart - ogsa,84,92,69,37,84
+3,86,astart - Gecode,84,92,69,37,84
+3,86,astart - Gurobi,84,92,69,37,84
+4,86,astart - ogsa,84,92,69,37,90
+4,86,astart - Gecode,84,92,69,37,90
+4,86,astart - Gurobi,84,92,69,37,90
+5,86,astart - ogsa,84,92,69,37,90
+5,86,astart - Gecode,84,92,69,37,90
+5,86,astart - Gurobi,84,92,69,37,90
+6,86,astart - ogsa,84,92,69,37,87
+6,86,astart - Gecode,84,92,69,37,87
+6,86,astart - Gurobi,84,92,69,37,87
+7,86,astart - ogsa,84,92,69,37,90
+7,86,astart - Gecode,84,92,69,37,90
+7,86,astart - Gurobi,84,92,69,37,90
+8,86,astart - ogsa,84,92,69,37,90
+8,86,astart - Gecode,84,92,69,37,90
+8,86,astart - Gurobi,84,92,69,37,90
+9,86,astart - ogsa,84,92,69,37,87
+9,86,astart - Gecode,84,92,69,37,87
+9,86,astart - Gurobi,84,92,69,37,87
+10,86,astart - ogsa,84,92,67,37,90
+10,86,astart - Gecode,84,92,67,37,90
+10,86,astart - Gurobi,84,92,67,37,90
+11,86,astart - ogsa,84,92,72,37,84
+11,86,astart - Gecode,84,92,72,37,84
+11,86,astart - Gurobi,84,92,72,37,84
+12,86,astart - ogsa,84,96,69,37,102
+12,86,astart - Gecode,84,96,69,37,102
+12,86,astart - Gurobi,84,96,69,37,102
+0,87,demands,68,120,4,2400,2400
+0,87,durations,5,1,1,2,2
+0,87,earliest_starts,0,0,0,0,0
+0,87,latest_ends,143,143,143,143,143
+0,87,care_factors,2700,0,0,7200,7200
+0,87,predecessors,1,2,-1,-1,-1
+0,87,successors,2,4,-1,-1,-1
+0,87,prec_delays,89,90,-1,-1,-1
+0,87,preferred_starts,109,61,82,54,100
+1,87,astart - ogsa,109,17,18,54,108
+1,87,astart - Gecode,109,15,17,54,108
+1,87,astart - Gurobi,109,22,23,54,108
+2,87,astart - ogsa,109,8,17,54,102
+2,87,astart - Gecode,109,6,15,54,102
+2,87,astart - Gurobi,109,7,17,54,102
+3,87,astart - ogsa,109,19,20,54,100
+3,87,astart - Gecode,109,15,16,54,100
+3,87,astart - Gurobi,109,19,20,54,100
+4,87,astart - ogsa,109,21,22,57,97
+4,87,astart - Gecode,109,21,23,57,114
+4,87,astart - Gurobi,109,22,23,57,114
+5,87,astart - ogsa,111,22,23,28,91
+5,87,astart - Gecode,111,21,22,28,91
+5,87,astart - Gurobi,111,22,23,28,97
+6,87,astart - ogsa,111,26,28,31,88
+6,87,astart - Gecode,111,24,25,31,88
+6,87,astart - Gurobi,111,24,26,31,88
+7,87,astart - ogsa,109,21,23,28,91
+7,87,astart - Gecode,109,18,19,28,91
+7,87,astart - Gurobi,109,18,23,28,91
+8,87,astart - ogsa,100,25,26,28,91
+8,87,astart - Gecode,100,24,25,28,91
+8,87,astart - Gurobi,100,24,26,28,91
+9,87,astart - ogsa,103,29,31,57,88
+9,87,astart - Gecode,103,27,28,57,88
+9,87,astart - Gurobi,103,27,29,57,88
+10,87,astart - ogsa,109,23,26,54,91
+10,87,astart - Gecode,109,21,22,54,91
+10,87,astart - Gurobi,109,21,23,54,91
+11,87,astart - ogsa,109,11,12,54,94
+11,87,astart - Gecode,109,9,10,54,94
+11,87,astart - Gurobi,109,9,14,54,94
+12,87,astart - ogsa,109,15,16,54,102
+12,87,astart - Gecode,109,15,16,54,102
+12,87,astart - Gurobi,109,19,20,54,102
+0,88,demands,120,50,5,1700,50
+0,88,durations,7,9,3,5,1
+0,88,earliest_starts,0,0,0,0,0
+0,88,latest_ends,143,143,143,143,143
+0,88,care_factors,4500,2700,3600,5400,5400
+0,88,predecessors,-1,-1,-1,-1,-1
+0,88,successors,-1,-1,-1,-1,-1
+0,88,prec_delays,-1,-1,-1,-1,-1
+0,88,preferred_starts,76,78,77,104,41
+1,88,astart - ogsa,74,72,77,127,41
+1,88,astart - Gecode,74,72,77,127,41
+1,88,astart - Gurobi,74,72,77,127,41
+2,88,astart - ogsa,74,72,77,104,41
+2,88,astart - Gecode,74,72,77,104,41
+2,88,astart - Gurobi,74,72,77,104,41
+3,88,astart - ogsa,76,78,77,105,41
+3,88,astart - Gecode,76,78,77,105,41
+3,88,astart - Gurobi,76,78,77,105,41
+4,88,astart - ogsa,76,78,77,127,41
+4,88,astart - Gecode,76,78,77,127,41
+4,88,astart - Gurobi,76,78,77,127,41
+5,88,astart - ogsa,76,78,77,88,41
+5,88,astart - Gecode,76,78,77,88,41
+5,88,astart - Gurobi,76,78,77,88,41
+6,88,astart - ogsa,76,78,77,85,41
+6,88,astart - Gecode,76,78,77,85,41
+6,88,astart - Gurobi,76,78,77,85,41
+7,88,astart - ogsa,76,78,77,88,41
+7,88,astart - Gecode,76,78,77,88,41
+7,88,astart - Gurobi,76,78,77,88,41
+8,88,astart - ogsa,76,78,77,88,41
+8,88,astart - Gecode,76,78,77,88,41
+8,88,astart - Gurobi,76,78,77,88,41
+9,88,astart - ogsa,76,78,77,87,41
+9,88,astart - Gecode,76,78,77,87,41
+9,88,astart - Gurobi,76,78,77,87,41
+10,88,astart - ogsa,76,78,77,76,41
+10,88,astart - Gecode,76,78,77,76,41
+10,88,astart - Gurobi,76,78,77,76,41
+11,88,astart - ogsa,76,78,77,84,41
+11,88,astart - Gecode,76,78,77,84,41
+11,88,astart - Gurobi,76,78,77,84,41
+12,88,astart - ogsa,76,78,77,127,41
+12,88,astart - Gecode,76,78,77,127,41
+12,88,astart - Gurobi,76,78,77,127,41
+0,89,demands,150,20,4,2200,2000
+0,89,durations,2,4,2,3,5
+0,89,earliest_starts,0,0,0,0,0
+0,89,latest_ends,143,143,143,143,143
+0,89,care_factors,9000,3600,6300,0,900
+0,89,predecessors,0,0,-1,-1,-1
+0,89,successors,1,2,-1,-1,-1
+0,89,prec_delays,12,55,-1,-1,-1
+0,89,preferred_starts,32,42,45,106,6
+1,89,astart - ogsa,32,42,45,17,15
+1,89,astart - Gecode,32,42,45,15,15
+1,89,astart - Gurobi,32,42,45,21,15
+2,89,astart - ogsa,32,42,45,6,6
+2,89,astart - Gecode,32,42,45,6,6
+2,89,astart - Gurobi,32,42,45,6,6
+3,89,astart - ogsa,32,42,45,16,15
+3,89,astart - Gecode,32,42,45,15,15
+3,89,astart - Gurobi,32,42,45,18,15
+4,89,astart - ogsa,32,42,45,21,19
+4,89,astart - Gecode,32,42,45,21,19
+4,89,astart - Gurobi,32,42,45,21,19
+5,89,astart - ogsa,32,42,45,21,21
+5,89,astart - Gecode,32,42,45,21,21
+5,89,astart - Gurobi,32,42,45,21,21
+6,89,astart - ogsa,32,42,45,24,22
+6,89,astart - Gecode,32,42,45,24,22
+6,89,astart - Gurobi,32,42,45,24,22
+7,89,astart - ogsa,32,42,45,20,18
+7,89,astart - Gecode,32,42,45,18,18
+7,89,astart - Gurobi,32,42,45,21,18
+8,89,astart - ogsa,32,42,45,24,22
+8,89,astart - Gecode,32,42,45,24,22
+8,89,astart - Gurobi,32,42,45,24,22
+9,89,astart - ogsa,32,42,45,27,25
+9,89,astart - Gecode,32,42,45,27,25
+9,89,astart - Gurobi,32,42,45,27,25
+10,89,astart - ogsa,32,42,45,21,19
+10,89,astart - Gecode,32,42,45,21,19
+10,89,astart - Gurobi,32,42,45,21,19
+11,89,astart - ogsa,32,42,45,10,9
+11,89,astart - Gecode,32,42,45,9,9
+11,89,astart - Gurobi,32,42,45,12,9
+12,89,astart - ogsa,32,42,45,17,15
+12,89,astart - Gecode,32,42,45,15,15
+12,89,astart - Gurobi,32,42,45,18,15
+0,90,demands,900,150,300,11,2
+0,90,durations,4,5,6,3,4
+0,90,earliest_starts,0,0,0,0,0
+0,90,latest_ends,143,143,143,143,143
+0,90,care_factors,7200,8100,1800,6300,4500
+0,90,predecessors,1,1,-1,-1,-1
+0,90,successors,2,4,-1,-1,-1
+0,90,prec_delays,17,30,-1,-1,-1
+0,90,preferred_starts,128,94,111,63,99
+1,90,astart - ogsa,128,88,110,63,99
+1,90,astart - Gecode,128,88,110,63,99
+1,90,astart - Gurobi,128,88,110,63,99
+2,90,astart - ogsa,128,102,111,63,107
+2,90,astart - Gecode,128,85,107,63,99
+2,90,astart - Gurobi,128,85,107,63,99
+3,90,astart - ogsa,128,94,116,63,99
+3,90,astart - Gecode,128,94,116,63,99
+3,90,astart - Gurobi,128,94,116,63,99
+4,90,astart - ogsa,128,94,114,63,99
+4,90,astart - Gecode,128,94,114,63,99
+4,90,astart - Gurobi,128,94,114,63,99
+5,90,astart - ogsa,128,94,114,63,99
+5,90,astart - Gecode,128,94,114,63,99
+5,90,astart - Gurobi,128,94,114,63,99
+6,90,astart - ogsa,128,94,114,63,99
+6,90,astart - Gecode,128,94,114,63,99
+6,90,astart - Gurobi,128,94,114,63,99
+7,90,astart - ogsa,128,94,114,63,99
+7,90,astart - Gecode,128,94,114,63,99
+7,90,astart - Gurobi,128,94,114,63,99
+8,90,astart - ogsa,129,94,99,63,99
+8,90,astart - Gecode,128,94,99,63,99
+8,90,astart - Gurobi,128,94,99,63,99
+9,90,astart - ogsa,128,94,99,63,99
+9,90,astart - Gecode,128,94,99,63,99
+9,90,astart - Gurobi,128,94,99,63,99
+10,90,astart - ogsa,128,94,116,63,99
+10,90,astart - Gecode,128,94,116,63,99
+10,90,astart - Gurobi,128,94,116,63,99
+11,90,astart - ogsa,128,94,102,63,99
+11,90,astart - Gecode,128,94,102,63,99
+11,90,astart - Gurobi,128,94,102,63,99
+12,90,astart - ogsa,128,96,117,63,101
+12,90,astart - Gecode,128,96,117,63,101
+12,90,astart - Gurobi,128,96,117,63,101
+0,91,demands,100,100,600,2400,2
+0,91,durations,6,2,1,2,4
+0,91,earliest_starts,0,0,0,0,0
+0,91,latest_ends,143,143,143,143,143
+0,91,care_factors,9000,8100,6300,900,5400
+0,91,predecessors,0,0,-1,-1,-1
+0,91,successors,1,3,-1,-1,-1
+0,91,prec_delays,3,128,-1,-1,-1
+0,91,preferred_starts,48,70,85,64,128
+1,91,astart - ogsa,48,57,80,129,128
+1,91,astart - Gecode,48,57,80,129,128
+1,91,astart - Gurobi,48,57,80,129,128
+2,91,astart - ogsa,48,57,85,66,128
+2,91,astart - Gecode,48,57,85,66,128
+2,91,astart - Gurobi,48,57,85,66,128
+3,91,astart - ogsa,48,57,85,69,128
+3,91,astart - Gecode,48,57,85,69,128
+3,91,astart - Gurobi,48,57,85,69,128
+4,91,astart - ogsa,48,57,85,66,128
+4,91,astart - Gecode,48,57,85,66,128
+4,91,astart - Gurobi,48,57,85,66,128
+5,91,astart - ogsa,48,57,85,72,128
+5,91,astart - Gecode,57,66,85,72,128
+5,91,astart - Gurobi,57,66,85,72,128
+6,91,astart - ogsa,48,57,85,84,128
+6,91,astart - Gecode,54,63,85,84,128
+6,91,astart - Gurobi,54,63,85,84,128
+7,91,astart - ogsa,48,57,85,69,128
+7,91,astart - Gecode,57,66,85,69,128
+7,91,astart - Gurobi,57,66,85,69,128
+8,91,astart - ogsa,48,57,85,75,128
+8,91,astart - Gecode,61,70,85,75,128
+8,91,astart - Gurobi,61,70,85,75,128
+9,91,astart - ogsa,48,57,85,75,128
+9,91,astart - Gecode,57,66,85,75,128
+9,91,astart - Gurobi,57,66,85,75,128
+10,91,astart - ogsa,48,57,85,75,128
+10,91,astart - Gecode,51,60,85,75,128
+10,91,astart - Gurobi,51,60,85,75,128
+11,91,astart - ogsa,48,57,85,72,128
+11,91,astart - Gecode,51,60,85,72,128
+11,91,astart - Gurobi,51,60,85,72,128
+12,91,astart - ogsa,48,57,85,61,128
+12,91,astart - Gecode,48,57,85,61,128
+12,91,astart - Gurobi,48,57,85,61,128
+0,92,demands,5,15,6000,500,5000
+0,92,durations,4,6,2,1,2
+0,92,earliest_starts,0,0,0,0,0
+0,92,latest_ends,143,143,143,143,143
+0,92,care_factors,7200,0,9000,6300,0
+0,92,predecessors,1,-1,-1,-1,-1
+0,92,successors,3,-1,-1,-1,-1
+0,92,prec_delays,77,-1,-1,-1,-1
+0,92,preferred_starts,93,63,26,82,64
+1,92,astart - ogsa,93,17,22,80,18
+1,92,astart - Gecode,93,15,22,80,15
+1,92,astart - Gurobi,93,18,22,80,22
+2,92,astart - ogsa,93,6,22,84,7
+2,92,astart - Gecode,93,6,22,84,6
+2,92,astart - Gurobi,93,6,22,84,7
+3,92,astart - ogsa,93,15,22,82,18
+3,92,astart - Gecode,93,15,22,82,15
+3,92,astart - Gurobi,93,15,22,82,19
+4,92,astart - ogsa,93,20,25,82,22
+4,92,astart - Gecode,93,18,25,82,21
+4,92,astart - Gurobi,93,21,25,82,22
+5,92,astart - ogsa,93,21,25,82,21
+5,92,astart - Gecode,93,21,25,82,21
+5,92,astart - Gurobi,93,21,25,82,22
+6,92,astart - ogsa,93,21,25,82,25
+6,92,astart - Gecode,93,21,25,82,24
+6,92,astart - Gurobi,93,21,25,82,25
+7,92,astart - ogsa,93,18,25,82,21
+7,92,astart - Gecode,93,18,25,82,18
+7,92,astart - Gurobi,93,18,25,82,22
+8,92,astart - ogsa,93,21,26,82,25
+8,92,astart - Gecode,93,21,26,82,24
+8,92,astart - Gurobi,93,21,26,82,25
+9,92,astart - ogsa,93,24,26,82,27
+9,92,astart - Gecode,93,24,26,82,27
+9,92,astart - Gurobi,93,24,26,82,28
+10,92,astart - ogsa,93,18,22,82,22
+10,92,astart - Gecode,93,18,22,82,21
+10,92,astart - Gurobi,93,18,22,82,22
+11,92,astart - ogsa,93,9,19,82,11
+11,92,astart - Gecode,93,9,19,82,9
+11,92,astart - Gurobi,93,9,19,82,13
+12,92,astart - ogsa,93,15,22,82,18
+12,92,astart - Gecode,93,15,22,82,15
+12,92,astart - Gurobi,93,15,22,82,19
+0,93,demands,10,1200,2,1200,2400
+0,93,durations,6,8,4,6,7
+0,93,earliest_starts,0,0,0,0,0
+0,93,latest_ends,143,143,143,143,143
+0,93,care_factors,5400,4500,7200,5400,2700
+0,93,predecessors,-1,-1,-1,-1,-1
+0,93,successors,-1,-1,-1,-1,-1
+0,93,prec_delays,-1,-1,-1,-1,-1
+0,93,preferred_starts,133,22,21,8,124
+1,93,astart - ogsa,133,16,21,9,129
+1,93,astart - Gecode,133,16,21,9,129
+1,93,astart - Gurobi,133,16,21,9,129
+2,93,astart - ogsa,133,16,21,6,6
+2,93,astart - Gecode,133,16,21,6,6
+2,93,astart - Gurobi,133,16,21,6,6
+3,93,astart - ogsa,133,16,21,9,126
+3,93,astart - Gecode,133,16,21,9,126
+3,93,astart - Gurobi,133,16,21,9,126
+4,93,astart - ogsa,133,21,21,9,20
+4,93,astart - Gecode,133,21,21,9,20
+4,93,astart - Gurobi,133,21,21,9,20
+5,93,astart - ogsa,133,21,21,18,21
+5,93,astart - Gecode,133,21,21,18,21
+5,93,astart - Gurobi,133,21,21,18,21
+6,93,astart - ogsa,133,22,21,15,20
+6,93,astart - Gecode,133,22,21,15,20
+6,93,astart - Gurobi,133,22,21,15,20
+7,93,astart - ogsa,133,22,21,15,20
+7,93,astart - Gecode,133,22,21,15,20
+7,93,astart - Gurobi,133,22,21,15,20
+8,93,astart - ogsa,133,22,21,18,23
+8,93,astart - Gecode,133,22,21,18,23
+8,93,astart - Gurobi,133,22,21,18,23
+9,93,astart - ogsa,133,22,21,15,23
+9,93,astart - Gecode,133,22,21,15,23
+9,93,astart - Gurobi,133,22,21,15,23
+10,93,astart - ogsa,133,16,21,15,17
+10,93,astart - Gecode,133,16,21,15,17
+10,93,astart - Gurobi,133,16,21,15,17
+11,93,astart - ogsa,133,13,21,9,11
+11,93,astart - Gecode,133,13,21,9,11
+11,93,astart - Gurobi,133,13,21,9,11
+12,93,astart - ogsa,133,16,21,9,17
+12,93,astart - Gecode,133,16,21,9,17
+12,93,astart - Gurobi,133,16,21,9,17
+0,94,demands,60,100,1200,600,700
+0,94,durations,1,2,6,4,3
+0,94,earliest_starts,0,0,0,0,0
+0,94,latest_ends,143,143,143,143,143
+0,94,care_factors,9000,6300,2700,0,1800
+0,94,predecessors,0,0,0,-1,-1
+0,94,successors,2,3,4,-1,-1
+0,94,prec_delays,12,5,19,-1,-1
+0,94,preferred_starts,68,39,102,92,87
+1,94,astart - ogsa,68,39,75,74,75
+1,94,astart - Gecode,68,39,75,74,75
+1,94,astart - Gurobi,68,39,75,74,75
+2,94,astart - ogsa,68,39,72,69,84
+2,94,astart - Gecode,68,39,72,69,84
+2,94,astart - Gurobi,68,39,72,69,84
+3,94,astart - ogsa,68,39,81,69,84
+3,94,astart - Gecode,68,39,81,69,84
+3,94,astart - Gurobi,68,39,81,69,84
+4,94,astart - ogsa,68,39,72,74,75
+4,94,astart - Gecode,68,39,72,72,75
+4,94,astart - Gurobi,68,39,72,74,75
+5,94,astart - ogsa,68,37,78,74,87
+5,94,astart - Gecode,68,37,78,72,87
+5,94,astart - Gurobi,68,37,78,74,87
+6,94,astart - ogsa,68,37,81,74,87
+6,94,astart - Gecode,68,37,81,74,87
+6,94,astart - Gurobi,68,37,81,74,87
+7,94,astart - ogsa,68,39,81,69,84
+7,94,astart - Gecode,68,39,81,69,84
+7,94,astart - Gurobi,68,39,81,69,84
+8,94,astart - ogsa,68,39,81,74,87
+8,94,astart - Gecode,68,39,81,74,87
+8,94,astart - Gurobi,68,39,81,74,87
+9,94,astart - ogsa,68,39,75,74,87
+9,94,astart - Gecode,68,39,75,74,87
+9,94,astart - Gurobi,68,39,75,74,87
+10,94,astart - ogsa,68,39,75,74,75
+10,94,astart - Gecode,68,39,75,74,75
+10,94,astart - Gurobi,68,39,75,74,75
+11,94,astart - ogsa,68,39,81,72,84
+11,94,astart - Gecode,68,39,81,72,84
+11,94,astart - Gurobi,68,39,81,72,84
+12,94,astart - ogsa,68,39,69,69,72
+12,94,astart - Gecode,68,39,69,69,72
+12,94,astart - Gurobi,68,39,69,69,72
+0,95,demands,1200,1000,120,1000,700
+0,95,durations,2,2,2,2,2
+0,95,earliest_starts,0,0,0,0,0
+0,95,latest_ends,143,143,143,143,143
+0,95,care_factors,7200,7200,2700,0,5400
+0,95,predecessors,0,-1,-1,-1,-1
+0,95,successors,4,-1,-1,-1,-1
+0,95,prec_delays,132,-1,-1,-1,-1
+0,95,preferred_starts,91,99,85,49,115
+1,95,astart - ogsa,79,108,79,19,115
+1,95,astart - Gecode,79,108,79,15,115
+1,95,astart - Gurobi,79,108,79,22,115
+2,95,astart - ogsa,85,102,85,7,115
+2,95,astart - Gecode,85,102,85,6,115
+2,95,astart - Gurobi,85,102,85,7,115
+3,95,astart - ogsa,91,99,85,17,115
+3,95,astart - Gecode,91,99,85,15,115
+3,95,astart - Gurobi,91,99,85,19,115
+4,95,astart - ogsa,91,97,85,22,115
+4,95,astart - Gecode,91,97,85,21,115
+4,95,astart - Gurobi,91,97,85,22,115
+5,95,astart - ogsa,91,99,85,21,115
+5,95,astart - Gecode,91,99,85,21,115
+5,95,astart - Gurobi,91,99,85,22,115
+6,95,astart - ogsa,91,91,85,25,115
+6,95,astart - Gecode,91,91,85,24,115
+6,95,astart - Gurobi,91,91,85,25,115
+7,95,astart - ogsa,91,99,85,19,115
+7,95,astart - Gecode,91,99,85,18,115
+7,95,astart - Gurobi,91,99,85,22,115
+8,95,astart - ogsa,91,97,85,25,115
+8,95,astart - Gecode,91,97,85,24,115
+8,95,astart - Gurobi,91,97,85,25,115
+9,95,astart - ogsa,91,97,85,28,117
+9,95,astart - Gecode,91,97,85,27,117
+9,95,astart - Gurobi,91,97,85,28,117
+10,95,astart - ogsa,91,99,85,21,115
+10,95,astart - Gecode,91,99,85,21,115
+10,95,astart - Gurobi,91,99,85,22,115
+11,95,astart - ogsa,91,99,85,12,117
+11,95,astart - Gecode,91,99,85,9,117
+11,95,astart - Gurobi,91,99,85,13,117
+12,95,astart - ogsa,96,102,85,16,117
+12,95,astart - Gecode,96,102,85,15,117
+12,95,astart - Gurobi,96,102,85,19,117
+0,96,demands,6000,75,90,4,100
+0,96,durations,4,9,4,1,1
+0,96,earliest_starts,0,0,0,0,0
+0,96,latest_ends,143,143,143,143,143
+0,96,care_factors,900,3600,8100,3600,5400
+0,96,predecessors,0,2,-1,-1,-1
+0,96,successors,1,4,-1,-1,-1
+0,96,prec_delays,5,111,-1,-1,-1
+0,96,preferred_starts,98,111,8,64,85
+1,96,astart - ogsa,20,29,8,64,87
+1,96,astart - Gecode,20,29,8,64,87
+1,96,astart - Gurobi,20,29,8,64,87
+2,96,astart - ogsa,6,15,8,64,85
+2,96,astart - Gecode,6,15,8,64,85
+2,96,astart - Gurobi,6,15,8,64,85
+3,96,astart - ogsa,17,26,8,64,85
+3,96,astart - Gecode,17,26,8,64,85
+3,96,astart - Gurobi,17,26,8,64,85
+4,96,astart - ogsa,21,30,8,64,85
+4,96,astart - Gecode,21,30,8,64,85
+4,96,astart - Gurobi,21,30,8,64,85
+5,96,astart - ogsa,21,30,8,64,85
+5,96,astart - Gecode,21,30,8,64,85
+5,96,astart - Gurobi,21,30,8,64,85
+6,96,astart - ogsa,23,30,8,64,85
+6,96,astart - Gecode,23,30,8,64,85
+6,96,astart - Gurobi,23,30,8,64,85
+7,96,astart - ogsa,20,29,8,64,85
+7,96,astart - Gecode,20,29,8,64,85
+7,96,astart - Gurobi,20,29,8,64,85
+8,96,astart - ogsa,24,28,8,64,85
+8,96,astart - Gecode,24,28,8,64,85
+8,96,astart - Gurobi,24,28,8,64,85
+9,96,astart - ogsa,26,30,8,64,85
+9,96,astart - Gecode,26,30,8,64,85
+9,96,astart - Gurobi,26,30,8,64,85
+10,96,astart - ogsa,20,29,8,64,85
+10,96,astart - Gecode,20,29,8,64,85
+10,96,astart - Gurobi,20,29,8,64,85
+11,96,astart - ogsa,11,20,8,64,85
+11,96,astart - Gecode,11,20,8,64,85
+11,96,astart - Gurobi,11,20,8,64,85
+12,96,astart - ogsa,17,26,8,64,85
+12,96,astart - Gecode,17,26,8,64,85
+12,96,astart - Gurobi,17,26,8,64,85
+0,97,demands,600,4000,15,2200,130
+0,97,durations,2,7,1,3,1
+0,97,earliest_starts,0,0,0,0,0
+0,97,latest_ends,143,143,143,143,143
+0,97,care_factors,3600,6300,8100,7200,5400
+0,97,predecessors,0,0,3,-1,-1
+0,97,successors,1,3,4,-1,-1
+0,97,prec_delays,47,115,119,-1,-1
+0,97,preferred_starts,29,103,64,45,109
+1,97,astart - ogsa,28,30,64,42,109
+1,97,astart - Gecode,15,17,64,42,109
+1,97,astart - Gurobi,15,17,64,42,109
+2,97,astart - ogsa,28,66,64,42,109
+2,97,astart - Gecode,15,17,64,21,109
+2,97,astart - Gurobi,15,17,64,21,109
+3,97,astart - ogsa,25,69,64,45,109
+3,97,astart - Gecode,15,17,64,45,109
+3,97,astart - Gurobi,15,17,64,45,109
+4,97,astart - ogsa,29,31,64,31,109
+4,97,astart - Gecode,18,20,64,27,109
+4,97,astart - Gurobi,18,20,64,27,109
+5,97,astart - ogsa,28,30,64,30,109
+5,97,astart - Gecode,19,21,64,27,109
+5,97,astart - Gurobi,19,21,64,27,109
+6,97,astart - ogsa,29,31,64,31,109
+6,97,astart - Gecode,18,20,64,24,109
+6,97,astart - Gurobi,18,20,64,24,109
+7,97,astart - ogsa,28,30,64,30,109
+7,97,astart - Gecode,18,20,64,27,109
+7,97,astart - Gurobi,18,20,64,27,109
+8,97,astart - ogsa,28,30,64,30,109
+8,97,astart - Gecode,21,23,64,27,109
+8,97,astart - Gurobi,21,23,64,27,109
+9,97,astart - ogsa,28,74,64,30,109
+9,97,astart - Gecode,21,23,64,27,109
+9,97,astart - Gurobi,21,23,64,27,109
+10,97,astart - ogsa,22,71,64,45,109
+10,97,astart - Gecode,15,17,64,21,109
+10,97,astart - Gurobi,15,17,64,21,109
+11,97,astart - ogsa,28,77,64,45,109
+11,97,astart - Gecode,9,11,64,27,109
+11,97,astart - Gurobi,9,11,64,27,109
+12,97,astart - ogsa,28,30,64,42,109
+12,97,astart - Gecode,15,17,64,27,109
+12,97,astart - Gurobi,15,17,64,27,109
+0,98,demands,2,93,8,600,1200
+0,98,durations,2,8,1,5,1
+0,98,earliest_starts,0,0,0,0,0
+0,98,latest_ends,143,143,143,143,143
+0,98,care_factors,5400,8100,2700,0,9000
+0,98,predecessors,2,-1,-1,-1,-1
+0,98,successors,4,-1,-1,-1,-1
+0,98,prec_delays,43,-1,-1,-1,-1
+0,98,preferred_starts,103,74,52,45,102
+1,98,astart - ogsa,103,74,52,16,92
+1,98,astart - Gecode,103,74,64,15,108
+1,98,astart - Gurobi,103,74,64,19,108
+2,98,astart - ogsa,103,73,52,6,89
+2,98,astart - Gecode,103,73,58,6,102
+2,98,astart - Gurobi,103,73,58,6,102
+3,98,astart - ogsa,103,74,52,16,96
+3,98,astart - Gecode,103,74,58,15,102
+3,98,astart - Gurobi,103,74,58,16,102
+4,98,astart - ogsa,103,74,52,21,96
+4,98,astart - Gecode,103,74,58,19,102
+4,98,astart - Gurobi,103,74,58,21,102
+5,98,astart - ogsa,103,74,52,21,96
+5,98,astart - Gecode,103,74,57,21,101
+5,98,astart - Gurobi,103,74,57,21,101
+6,98,astart - ogsa,103,74,52,22,95
+6,98,astart - Gecode,103,74,58,22,102
+6,98,astart - Gurobi,103,74,58,22,102
+7,98,astart - ogsa,103,74,52,19,96
+7,98,astart - Gecode,103,74,57,18,101
+7,98,astart - Gurobi,103,74,57,19,101
+8,98,astart - ogsa,103,74,52,24,96
+8,98,astart - Gecode,103,74,57,22,101
+8,98,astart - Gurobi,103,74,57,24,101
+9,98,astart - ogsa,103,74,52,25,96
+9,98,astart - Gecode,103,74,57,25,101
+9,98,astart - Gurobi,103,74,57,25,101
+10,98,astart - ogsa,103,74,52,19,96
+10,98,astart - Gecode,103,74,58,19,102
+10,98,astart - Gurobi,103,74,58,19,102
+11,98,astart - ogsa,103,74,52,10,96
+11,98,astart - Gecode,103,74,58,9,102
+11,98,astart - Gurobi,103,74,58,10,102
+12,98,astart - ogsa,103,74,52,15,96
+12,98,astart - Gecode,103,74,58,15,102
+12,98,astart - Gurobi,103,74,58,16,102
+0,99,demands,5000,11,900,20,2400
+0,99,durations,6,2,8,9,5
+0,99,earliest_starts,0,0,0,0,0
+0,99,latest_ends,143,143,143,143,143
+0,99,care_factors,5400,4500,3600,5400,6300
+0,99,predecessors,-1,-1,-1,-1,-1
+0,99,successors,-1,-1,-1,-1,-1
+0,99,prec_delays,-1,-1,-1,-1,-1
+0,99,preferred_starts,76,42,10,22,42
+1,99,astart - ogsa,18,42,10,22,19
+1,99,astart - Gecode,18,42,10,22,19
+1,99,astart - Gurobi,18,42,10,22,19
+2,99,astart - ogsa,6,42,6,22,19
+2,99,astart - Gecode,6,42,6,22,19
+2,99,astart - Gurobi,6,42,6,22,19
+3,99,astart - ogsa,18,42,11,22,19
+3,99,astart - Gecode,18,42,10,22,19
+3,99,astart - Gurobi,18,42,10,22,19
+4,99,astart - ogsa,21,42,11,22,22
+4,99,astart - Gecode,21,42,10,22,22
+4,99,astart - Gurobi,21,42,10,22,22
+5,99,astart - ogsa,21,42,18,22,22
+5,99,astart - Gecode,21,42,16,22,22
+5,99,astart - Gurobi,21,42,16,22,22
+6,99,astart - ogsa,21,42,18,22,22
+6,99,astart - Gecode,21,42,18,22,22
+6,99,astart - Gurobi,21,42,18,22,22
+7,99,astart - ogsa,21,42,15,22,22
+7,99,astart - Gecode,21,42,15,22,22
+7,99,astart - Gurobi,21,42,15,22,22
+8,99,astart - ogsa,24,42,18,22,25
+8,99,astart - Gecode,24,42,18,22,25
+8,99,astart - Gurobi,24,42,18,22,25
+9,99,astart - ogsa,24,42,13,22,25
+9,99,astart - Gecode,24,42,13,22,25
+9,99,astart - Gurobi,24,42,13,22,25
+10,99,astart - ogsa,18,42,16,22,19
+10,99,astart - Gecode,18,42,15,22,19
+10,99,astart - Gurobi,18,42,15,22,19
+11,99,astart - ogsa,12,42,10,22,13
+11,99,astart - Gecode,12,42,10,22,13
+11,99,astart - Gurobi,12,42,10,22,13
+12,99,astart - ogsa,18,42,10,22,19
+12,99,astart - Gecode,18,42,10,22,19
+12,99,astart - Gurobi,18,42,10,22,19
+0,100,demands,50,2000,6000,1200,600
+0,100,durations,1,3,1,2,1
+0,100,earliest_starts,0,0,0,0,0
+0,100,latest_ends,143,143,143,143,143
+0,100,care_factors,4500,5400,0,0,0
+0,100,predecessors,0,2,-1,-1,-1
+0,100,successors,1,3,-1,-1,-1
+0,100,prec_delays,110,53,-1,-1,-1
+0,100,preferred_starts,47,106,19,135,141
+1,100,astart - ogsa,47,129,22,23,23
+1,100,astart - Gecode,47,129,15,16,15
+1,100,astart - Gurobi,47,129,21,22,23
+2,100,astart - ogsa,47,106,8,16,7
+2,100,astart - Gecode,47,106,6,7,6
+2,100,astart - Gurobi,47,106,6,7,8
+3,100,astart - ogsa,47,106,19,20,15
+3,100,astart - Gecode,47,106,15,16,15
+3,100,astart - Gurobi,47,106,18,19,20
+4,100,astart - ogsa,47,114,21,22,21
+4,100,astart - Gecode,47,114,21,22,21
+4,100,astart - Gurobi,47,114,21,22,23
+5,100,astart - ogsa,48,90,21,22,22
+5,100,astart - Gecode,47,90,21,22,21
+5,100,astart - Gurobi,47,90,21,22,23
+6,100,astart - ogsa,47,87,25,26,24
+6,100,astart - Gecode,47,87,24,25,24
+6,100,astart - Gurobi,47,87,24,25,26
+7,100,astart - ogsa,47,90,20,21,21
+7,100,astart - Gecode,47,90,18,19,18
+7,100,astart - Gurobi,47,90,21,22,23
+8,100,astart - ogsa,47,90,25,26,26
+8,100,astart - Gecode,47,90,24,25,24
+8,100,astart - Gurobi,47,90,24,25,26
+9,100,astart - ogsa,47,87,29,31,27
+9,100,astart - Gecode,47,87,27,28,27
+9,100,astart - Gurobi,47,87,27,28,29
+10,100,astart - ogsa,47,129,22,23,23
+10,100,astart - Gecode,47,129,21,22,21
+10,100,astart - Gurobi,47,129,21,22,23
+11,100,astart - ogsa,47,84,13,14,10
+11,100,astart - Gecode,47,84,9,10,9
+11,100,astart - Gurobi,47,84,12,13,14
+12,100,astart - ogsa,47,129,16,18,16
+12,100,astart - Gecode,47,129,15,16,15
+12,100,astart - Gurobi,47,129,18,19,20

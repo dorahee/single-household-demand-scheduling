@@ -1,0 +1,4 @@
+care factor weight = 9000
+num of tasks = 5
+max demand mutiplier = 5
+search = int_search(actual_starts, input_order, indomain_min, complete)

@@ -1,0 +1,12 @@
+Variable choice,Model,,Time (ms),,,,,,
+,,count,Mean,Std.,Min,25%,50%,75%,Max
+anti_first_fail,Initial,4800,72.18,5.75,70,70,70,70,260
+anti_first_fail,Modified,4800,70.31,6,60,70,70,70,190
+first_fail,Initial,4800,73.8,7.7,70,70,70,80,160
+first_fail,Modified,4800,70.78,6.95,60,70,70,70,160
+input_order,Initial,4800,73.5,6.61,60,70,70,80,150
+input_order,Modified,4800,71.47,8.38,60,70,70,70,190
+largest,Initial,4800,72.39,4.92,70,70,70,70,150
+largest,Modified,4800,70.21,5.03,60,70,70,70,130
+smallest,Initial,4800,72.33,6.02,70,70,70,70,210
+smallest,Modified,4800,70.43,7.07,60,70,70,70,210

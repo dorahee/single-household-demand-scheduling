@@ -1,0 +1,4 @@
+care factor weight = 9000
+num of tasks = 5
+max demand mutiplier = 5
+search = :: int_search(actual_starts, dom_w_deg, most_constrained, complete)

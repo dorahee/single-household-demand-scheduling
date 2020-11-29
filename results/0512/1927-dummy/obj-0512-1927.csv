@@ -1,0 +1,7 @@
+,,,,,Gecode,Gecode,OGSA,Preferred,Objective Ratio
+,,,,,Initial,Modified,Modified,Modified,Modified
+Month,House,Variable choices,Constraint variables,Weight,,,,,
+1,1,input_order,indomain_max,800,330780,330780,330780,341692,1.0
+1,2,input_order,indomain_max,800,820437,820437,862925,891937,1.0517870354457441
+2,1,input_order,indomain_max,800,305492,305492,305492,319992,1.0
+2,2,input_order,indomain_max,800,753966,753966,795637,592889,1.0552690704885896

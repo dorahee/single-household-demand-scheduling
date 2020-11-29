@@ -1,0 +1,46 @@
+Month,House,Attribute,0,1,2,3,4
+0,1,demands,1500,5,2400,2400,4
+0,1,durations,2,6,5,1,8
+0,1,earliest_starts,0,0,0,0,0
+0,1,latest_ends,143,143,143,143,143
+0,1,care_factors,10000,8000,9000,2000,4000
+0,1,predecessors,0,3,-1,-1,-1
+0,1,successors,1,4,-1,-1,-1
+0,1,prec_delays,104,35,-1,-1,-1
+0,1,preferred_starts,77,111,8,10,28
+1,1,astart - ogsa,77,111,9,10,28
+1,1,astart - Gecode,77,111,9,10,28
+1,1,astart - Gurobi,77,111,9,10,28
+2,1,astart - ogsa,76,111,6,8,28
+2,1,astart - Gecode,76,111,6,8,28
+2,1,astart - Gurobi,76,111,6,8,28
+0,2,demands,100,38,2400,2000,100
+0,2,durations,6,4,7,2,3
+0,2,earliest_starts,0,0,0,0,0
+0,2,latest_ends,143,143,143,143,143
+0,2,care_factors,4000,8000,7000,1000,0
+0,2,predecessors,0,0,-1,-1,-1
+0,2,successors,2,4,-1,-1,-1
+0,2,prec_delays,32,40,-1,-1,-1
+0,2,preferred_starts,13,116,35,117,84
+1,2,astart - ogsa,13,116,19,129,20
+1,2,astart - Gecode,13,116,19,129,19
+1,2,astart - Gurobi,13,116,19,129,21
+2,2,astart - ogsa,13,116,19,7,21
+2,2,astart - Gecode,13,116,19,7,19
+2,2,astart - Gurobi,13,116,19,7,21
+0,3,demands,62,2400,1000,1200,6000
+0,3,durations,3,3,3,2,4
+0,3,earliest_starts,0,0,0,0,0
+0,3,latest_ends,143,143,143,143,143
+0,3,care_factors,0,6000,3000,3000,0
+0,3,predecessors,-1,-1,-1,-1,-1
+0,3,successors,-1,-1,-1,-1,-1
+0,3,prec_delays,-1,-1,-1,-1,-1
+0,3,preferred_starts,45,41,114,69,96
+1,3,astart - ogsa,15,21,129,69,19
+1,3,astart - Gecode,15,21,129,61,15
+1,3,astart - Gurobi,21,21,129,69,20
+2,3,astart - ogsa,6,21,114,67,6
+2,3,astart - Gecode,6,21,114,67,6
+2,3,astart - Gurobi,6,21,114,67,6

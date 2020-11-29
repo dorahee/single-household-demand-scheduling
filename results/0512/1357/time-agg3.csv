@@ -1,0 +1,22 @@
+Variable selection,Model,Time (ms),,,,,,
+,,Mean,Std.,Min,25%,50%,75%,Max
+indomain_max,Initial,75.1,7.8,70,70,70,80,190
+,Modified,74.91,9.01,60,70,70,80,200
+indomain_median,Initial,70.51,4.22,70,70,70,70,260
+indomain_median,Modified,68.05,5.2,60,70,70,70,210
+indomain_min,Initial,75.29,7.02,70,70,70,80,160
+indomain_min,Modified,71.22,5.19,60,70,70,70,130
+indomain_random,Initial,70.46,2.97,60,70,70,70,200
+indomain_random,Modified,68.38,4.39,60,70,70,70,190
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

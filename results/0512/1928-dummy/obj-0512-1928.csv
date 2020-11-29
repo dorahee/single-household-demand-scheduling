@@ -1,0 +1,35 @@
+,,,,,Gecode,Gecode,OGSA,Preferred,Objective Ratio
+,,,,,Initial,Modified,Modified,Modified,Modified
+Month,House,Variable choices,Constraint variables,Weight,,,,,
+1,1,first_fail,indomain_max,800,1643219,1643219,,,
+1,1,first_fail,indomain_median,800,1643219,1643219,,,
+1,1,first_fail,indomain_min,800,1643219,1643219,,,
+1,1,first_fail,indomain_random,800,1643219,1643219,1643219.0,8283219.0,1.0
+1,1,input_order,indomain_max,800,1643219,1643219,,,
+1,1,input_order,indomain_median,800,1643219,1643219,,,
+1,1,input_order,indomain_min,800,1643219,1643219,,,
+1,1,input_order,indomain_random,800,1643219,1643219,,,
+1,2,first_fail,indomain_max,800,349448,349448,,,
+1,2,first_fail,indomain_median,800,349448,349448,,,
+1,2,first_fail,indomain_min,800,349448,349448,,,
+1,2,first_fail,indomain_random,800,349448,349448,349448.0,601448.0,1.0
+1,2,input_order,indomain_max,800,349448,349448,,,
+1,2,input_order,indomain_median,800,349448,349448,,,
+1,2,input_order,indomain_min,800,349448,349448,,,
+1,2,input_order,indomain_random,800,349448,349448,,,
+2,1,first_fail,indomain_max,800,1619313,1619313,,,
+2,1,first_fail,indomain_median,800,1619313,1619313,,,
+2,1,first_fail,indomain_min,800,1619313,1619313,,,
+2,1,first_fail,indomain_random,800,1619313,1619313,1619313.0,5485313.0,1.0
+2,1,input_order,indomain_max,800,1619313,1619313,,,
+2,1,input_order,indomain_median,800,1619313,1619313,,,
+2,1,input_order,indomain_min,800,1619313,1619313,,,
+2,1,input_order,indomain_random,800,1619313,1619313,,,
+2,2,first_fail,indomain_max,800,290798,290798,,,
+2,2,first_fail,indomain_median,800,290798,290798,,,
+2,2,first_fail,indomain_min,800,290798,290798,,,
+2,2,first_fail,indomain_random,800,290798,290798,290798.0,305918.0,1.0
+2,2,input_order,indomain_max,800,290798,290798,,,
+2,2,input_order,indomain_median,800,290798,290798,,,
+2,2,input_order,indomain_min,800,290798,290798,,,
+2,2,input_order,indomain_random,800,290798,290798,,,

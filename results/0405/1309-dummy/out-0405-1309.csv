@@ -1,0 +1,13 @@
+,,,Gecode,Gurobi
+,,,Preprocessing,Preprocessing
+Month,House,Result,,
+1,1,time,50.0,90.0
+1,2,time,60.0,100.0
+1,3,time,60.0,90.0
+1,4,time,60.0,80.0
+1,5,time,50.0,70.0
+2,1,time,50.0,80.0
+2,2,time,50.0,100.0
+2,3,time,50.0,90.0
+2,4,time,50.0,70.0
+2,5,time,50.0,70.0

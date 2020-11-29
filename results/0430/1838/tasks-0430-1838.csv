@@ -1,0 +1,651 @@
+Month,House,Attribute,0,1,2,3,4
+0,1,demands,300,1100,75,100,38
+0,1,durations,6,1,3,5,1
+0,1,preferred_starts,108,138,132,135,76
+0,1,earliest_starts,0,0,0,0,0
+0,1,latest_ends,143,143,143,143,143
+0,1,care_factors,7200,1800,3600,3600,2700
+0,1,predecessors,0,0,-1,-1,-1
+0,1,successors,1,3,-1,-1,-1
+0,1,prec_delays,1,104,-1,-1,-1
+1,1,astart - ogsa,108,137,132,135,76
+1,1,astart - optimised,108,115,132,135,76
+2,1,astart - ogsa,108,137,132,135,76
+2,1,astart - optimised,108,115,132,135,76
+0,2,demands,2300,1000,72,120,8
+0,2,durations,1,3,2,1,1
+0,2,preferred_starts,82,134,92,79,71
+0,2,earliest_starts,0,0,0,0,0
+0,2,latest_ends,143,143,143,143,143
+0,2,care_factors,6300,3600,1800,0,4500
+0,2,predecessors,-1,-1,-1,-1,-1
+0,2,successors,-1,-1,-1,-1,-1
+0,2,prec_delays,-1,-1,-1,-1,-1
+1,2,astart - ogsa,80,135,91,19,71
+1,2,astart - optimised,80,135,91,15,71
+2,2,astart - ogsa,84,135,88,7,71
+2,2,astart - optimised,84,135,88,6,71
+0,3,demands,3600,55,1200,1200,1200
+0,3,durations,8,4,1,5,2
+0,3,preferred_starts,13,95,32,65,66
+0,3,earliest_starts,0,0,0,0,0
+0,3,latest_ends,143,143,143,143,143
+0,3,care_factors,6300,3600,1800,4500,1800
+0,3,predecessors,0,0,-1,-1,-1
+0,3,successors,2,4,-1,-1,-1
+0,3,prec_delays,19,39,-1,-1,-1
+1,3,astart - ogsa,13,89,29,58,60
+1,3,astart - optimised,13,89,29,58,60
+2,3,astart - ogsa,6,102,26,65,67
+2,3,astart - optimised,6,102,26,65,22
+0,4,demands,35,11,2400,1200,2200
+0,4,durations,8,4,1,5,3
+0,4,preferred_starts,0,54,78,63,136
+0,4,earliest_starts,0,0,0,0,0
+0,4,latest_ends,143,143,143,143,143
+0,4,care_factors,3600,0,900,2700,3600
+0,4,predecessors,0,0,1,-1,-1
+0,4,successors,1,2,3,-1,-1
+0,4,prec_delays,40,125,120,-1,-1
+1,4,astart - ogsa,0,17,23,19,135
+1,4,astart - optimised,0,15,23,19,135
+2,4,astart - ogsa,0,5,8,19,135
+2,4,astart - optimised,0,8,8,19,135
+0,5,demands,1200,600,100,3600,1700
+0,5,durations,7,5,2,3,4
+0,5,preferred_starts,121,101,45,5,103
+0,5,earliest_starts,0,0,0,0,0
+0,5,latest_ends,143,143,143,143,143
+0,5,care_factors,7200,1800,4500,6300,9000
+0,5,predecessors,3,-1,-1,-1,-1
+0,5,successors,4,-1,-1,-1,-1
+0,5,prec_delays,35,-1,-1,-1,-1
+1,5,astart - ogsa,125,127,45,9,109
+1,5,astart - optimised,125,127,45,21,59
+2,5,astart - ogsa,126,102,45,6,102
+2,5,astart - optimised,126,102,45,6,44
+0,6,demands,6000,6000,2200,8,1100
+0,6,durations,4,8,6,4,6
+0,6,preferred_starts,96,17,109,77,109
+0,6,earliest_starts,0,0,0,0,0
+0,6,latest_ends,143,143,143,143,143
+0,6,care_factors,6300,3600,0,7200,5400
+0,6,predecessors,1,1,-1,-1,-1
+0,6,successors,3,4,-1,-1,-1
+0,6,prec_delays,79,116,-1,-1,-1
+1,6,astart - ogsa,20,16,15,77,126
+1,6,astart - optimised,20,16,15,77,126
+2,6,astart - ogsa,6,6,6,77,109
+2,6,astart - optimised,6,6,6,77,109
+0,7,demands,140,2400,6000,8,2000
+0,7,durations,3,6,5,4,2
+0,7,preferred_starts,120,69,87,68,72
+0,7,earliest_starts,0,0,0,0,0
+0,7,latest_ends,143,143,143,143,143
+0,7,care_factors,4500,9000,6300,1800,8100
+0,7,predecessors,3,-1,-1,-1,-1
+0,7,successors,4,-1,-1,-1,-1
+0,7,prec_delays,15,-1,-1,-1,-1
+1,7,astart - ogsa,120,18,19,68,72
+1,7,astart - optimised,120,18,19,68,72
+2,7,astart - ogsa,120,66,6,68,72
+2,7,astart - optimised,120,66,6,68,72
+0,8,demands,55,1100,35,1200,1200
+0,8,durations,4,2,2,1,1
+0,8,preferred_starts,15,51,81,41,60
+0,8,earliest_starts,0,0,0,0,0
+0,8,latest_ends,143,143,143,143,143
+0,8,care_factors,4500,3600,8100,7200,4500
+0,8,predecessors,1,-1,-1,-1,-1
+0,8,successors,2,-1,-1,-1,-1
+0,8,prec_delays,119,-1,-1,-1,-1
+1,8,astart - ogsa,15,51,81,42,60
+1,8,astart - optimised,15,51,81,42,60
+2,8,astart - ogsa,15,51,81,42,60
+2,8,astart - optimised,15,51,81,42,60
+0,9,demands,1000,100,62,1700,1200
+0,9,durations,6,2,1,2,3
+0,9,preferred_starts,136,65,128,104,123
+0,9,earliest_starts,0,0,0,0,0
+0,9,latest_ends,143,143,143,143,143
+0,9,care_factors,6300,1800,9000,6300,8100
+0,9,predecessors,1,3,-1,-1,-1
+0,9,successors,2,4,-1,-1,-1
+0,9,prec_delays,48,126,-1,-1,-1
+1,9,astart - ogsa,132,65,129,108,123
+1,9,astart - optimised,132,78,128,108,123
+2,9,astart - ogsa,135,65,129,104,123
+2,9,astart - optimised,135,78,128,104,123
+0,10,demands,210,140,1000,600,600
+0,10,durations,1,1,4,2,2
+0,10,preferred_starts,97,136,36,40,83
+0,10,earliest_starts,0,0,0,0,0
+0,10,latest_ends,143,143,143,143,143
+0,10,care_factors,5400,5400,900,7200,2700
+0,10,predecessors,2,-1,-1,-1,-1
+0,10,successors,3,-1,-1,-1,-1
+0,10,prec_delays,128,-1,-1,-1,-1
+1,10,astart - ogsa,92,136,20,40,79
+1,10,astart - optimised,92,136,20,40,79
+2,10,astart - ogsa,102,136,6,42,84
+2,10,astart - optimised,102,136,6,42,84
+0,11,demands,1200,6000,1700,130,1100
+0,11,durations,5,3,6,5,2
+0,11,preferred_starts,65,51,89,16,55
+0,11,earliest_starts,0,0,0,0,0
+0,11,latest_ends,143,143,143,143,143
+0,11,care_factors,2700,3600,2700,0,0
+0,11,predecessors,1,-1,-1,-1,-1
+0,11,successors,4,-1,-1,-1,-1
+0,11,prec_delays,28,-1,-1,-1,-1
+1,11,astart - ogsa,19,21,18,19,16
+1,11,astart - optimised,19,19,18,15,22
+2,11,astart - ogsa,19,6,6,6,7
+2,11,astart - optimised,19,6,6,6,15
+0,12,demands,150,72,1200,15,500
+0,12,durations,2,1,2,6,6
+0,12,preferred_starts,107,98,80,35,106
+0,12,earliest_starts,0,0,0,0,0
+0,12,latest_ends,143,143,143,143,143
+0,12,care_factors,4500,7200,7200,9000,9000
+0,12,predecessors,2,-1,-1,-1,-1
+0,12,successors,4,-1,-1,-1,-1
+0,12,prec_delays,41,-1,-1,-1,-1
+1,12,astart - ogsa,108,98,79,35,108
+1,12,astart - optimised,108,98,79,35,108
+2,12,astart - ogsa,107,98,76,35,106
+2,12,astart - optimised,107,98,76,35,106
+0,13,demands,100,100,100,650,75
+0,13,durations,1,2,5,1,8
+0,13,preferred_starts,77,126,32,55,91
+0,13,earliest_starts,0,0,0,0,0
+0,13,latest_ends,143,143,143,143,143
+0,13,care_factors,3600,5400,900,1800,6300
+0,13,predecessors,2,-1,-1,-1,-1
+0,13,successors,4,-1,-1,-1,-1
+0,13,prec_delays,29,-1,-1,-1,-1
+1,13,astart - ogsa,77,126,31,55,87
+1,13,astart - optimised,77,126,53,55,87
+2,13,astart - ogsa,77,126,25,55,85
+2,13,astart - optimised,77,126,50,55,84
+0,14,demands,60,1000,1200,900,210
+0,14,durations,6,1,3,1,7
+0,14,preferred_starts,32,86,94,42,62
+0,14,earliest_starts,0,0,0,0,0
+0,14,latest_ends,143,143,143,143,143
+0,14,care_factors,4500,2700,2700,1800,900
+0,14,predecessors,1,0,0,-1,-1
+0,14,successors,2,3,4,-1,-1
+0,14,prec_delays,116,31,42,-1,-1
+1,14,astart - ogsa,32,80,129,42,19
+1,14,astart - optimised,32,80,129,42,56
+2,14,astart - ogsa,32,86,102,42,17
+2,14,astart - optimised,32,86,102,42,62
+0,15,demands,1100,62,1000,62,15
+0,15,durations,5,5,5,3,4
+0,15,preferred_starts,129,105,82,20,39
+0,15,earliest_starts,0,0,0,0,0
+0,15,latest_ends,143,143,143,143,143
+0,15,care_factors,5400,7200,9000,1800,4500
+0,15,predecessors,-1,-1,-1,-1,-1
+0,15,successors,-1,-1,-1,-1,-1
+0,15,prec_delays,-1,-1,-1,-1,-1
+1,15,astart - ogsa,129,108,76,20,39
+1,15,astart - optimised,129,108,76,20,39
+2,15,astart - ogsa,129,105,73,20,39
+2,15,astart - optimised,129,105,73,20,39
+0,16,demands,4000,62,2100,35,4
+0,16,durations,3,1,2,1,6
+0,16,preferred_starts,46,2,22,34,81
+0,16,earliest_starts,0,0,0,0,0
+0,16,latest_ends,143,143,143,143,143
+0,16,care_factors,1800,4500,3600,900,4500
+0,16,predecessors,1,-1,-1,-1,-1
+0,16,successors,4,-1,-1,-1,-1
+0,16,prec_delays,35,-1,-1,-1,-1
+1,16,astart - ogsa,21,2,22,34,80
+1,16,astart - optimised,21,18,22,34,54
+2,16,astart - ogsa,6,2,22,34,82
+2,16,astart - optimised,6,6,22,34,42
+0,17,demands,400,38,1200,3500,1200
+0,17,durations,1,3,3,5,5
+0,17,preferred_starts,35,137,135,93,11
+0,17,earliest_starts,0,0,0,0,0
+0,17,latest_ends,143,143,143,143,143
+0,17,care_factors,2700,8100,4500,8100,3600
+0,17,predecessors,0,-1,-1,-1,-1
+0,17,successors,2,-1,-1,-1,-1
+0,17,prec_delays,39,-1,-1,-1,-1
+1,17,astart - ogsa,35,137,135,127,11
+1,17,astart - optimised,108,137,135,127,11
+2,17,astart - ogsa,35,137,135,19,6
+2,17,astart - optimised,102,137,135,19,6
+0,18,demands,100,2400,20,350,1200
+0,18,durations,5,8,2,4,8
+0,18,preferred_starts,41,131,57,57,100
+0,18,earliest_starts,0,0,0,0,0
+0,18,latest_ends,143,143,143,143,143
+0,18,care_factors,5400,2700,4500,2700,2700
+0,18,predecessors,0,0,3,-1,-1
+0,18,successors,1,3,4,-1,-1
+0,18,prec_delays,63,65,51,-1,-1
+1,18,astart - ogsa,41,129,57,57,17
+1,18,astart - optimised,61,129,57,74,129
+2,18,astart - ogsa,41,15,57,57,15
+2,18,astart - optimised,10,16,57,15,19
+0,19,demands,700,500,120,1200,2000
+0,19,durations,3,8,5,7,1
+0,19,preferred_starts,58,94,119,64,92
+0,19,earliest_starts,0,0,0,0,0
+0,19,latest_ends,143,143,143,143,143
+0,19,care_factors,1800,7200,7200,900,900
+0,19,predecessors,0,3,-1,-1,-1
+0,19,successors,1,4,-1,-1,-1
+0,19,prec_delays,0,60,-1,-1,-1
+1,19,astart - ogsa,58,109,119,17,129
+1,19,astart - optimised,70,73,119,16,23
+2,19,astart - ogsa,58,103,119,6,7
+2,19,astart - optimised,102,105,119,6,23
+0,20,demands,4000,1200,1100,1,550
+0,20,durations,5,4,6,4,8
+0,20,preferred_starts,4,28,29,66,91
+0,20,earliest_starts,0,0,0,0,0
+0,20,latest_ends,143,143,143,143,143
+0,20,care_factors,8100,0,4500,3600,6300
+0,20,predecessors,0,0,-1,-1,-1
+0,20,successors,1,4,-1,-1,-1
+0,20,prec_delays,123,66,-1,-1,-1
+1,20,astart - ogsa,9,18,21,66,108
+1,20,astart - optimised,9,15,21,66,73
+2,20,astart - ogsa,6,5,21,66,103
+2,20,astart - optimised,6,15,21,66,70
+0,21,demands,15,100,2400,1200,210
+0,21,durations,3,3,3,1,5
+0,21,preferred_starts,103,107,61,76,136
+0,21,earliest_starts,0,0,0,0,0
+0,21,latest_ends,143,143,143,143,143
+0,21,care_factors,8100,1800,1800,2700,3600
+0,21,predecessors,2,2,-1,-1,-1
+0,21,successors,3,4,-1,-1,-1
+0,21,prec_delays,95,54,-1,-1,-1
+1,21,astart - ogsa,103,108,21,76,136
+1,21,astart - optimised,103,108,60,76,117
+2,21,astart - ogsa,103,107,6,76,135
+2,21,astart - optimised,103,107,66,76,123
+0,22,demands,1000,93,1200,2200,35
+0,22,durations,4,2,9,3,4
+0,22,preferred_starts,119,46,62,63,131
+0,22,earliest_starts,0,0,0,0,0
+0,22,latest_ends,143,143,143,143,143
+0,22,care_factors,0,2700,3600,0,900
+0,22,predecessors,-1,-1,-1,-1,-1
+0,22,successors,-1,-1,-1,-1,-1
+0,22,prec_delays,-1,-1,-1,-1,-1
+1,22,astart - ogsa,16,46,15,20,131
+1,22,astart - optimised,15,46,15,15,131
+2,22,astart - ogsa,6,46,15,6,131
+2,22,astart - optimised,6,46,15,6,131
+0,23,demands,900,93,2400,100,2100
+0,23,durations,1,4,5,1,4
+0,23,preferred_starts,10,27,11,140,94
+0,23,earliest_starts,0,0,0,0,0
+0,23,latest_ends,143,143,143,143,143
+0,23,care_factors,6300,3600,900,0,9000
+0,23,predecessors,0,-1,-1,-1,-1
+0,23,successors,3,-1,-1,-1,-1
+0,23,prec_delays,102,-1,-1,-1,-1
+1,23,astart - ogsa,10,27,15,16,108
+1,23,astart - optimised,10,27,15,15,108
+2,23,astart - ogsa,10,27,6,8,102
+2,23,astart - optimised,10,27,6,15,102
+0,24,demands,2200,6000,75,62,60
+0,24,durations,2,5,3,1,6
+0,24,preferred_starts,54,80,24,50,80
+0,24,earliest_starts,0,0,0,0,0
+0,24,latest_ends,143,143,143,143,143
+0,24,care_factors,6300,6300,900,9000,8100
+0,24,predecessors,2,-1,-1,-1,-1
+0,24,successors,3,-1,-1,-1,-1
+0,24,prec_delays,45,-1,-1,-1,-1
+1,24,astart - ogsa,54,19,24,50,78
+1,24,astart - optimised,54,19,24,50,78
+2,24,astart - ogsa,54,6,24,50,80
+2,24,astart - optimised,54,6,24,50,80
+0,25,demands,1000,1700,60,75,11
+0,25,durations,4,6,3,4,2
+0,25,preferred_starts,99,38,82,119,81
+0,25,earliest_starts,0,0,0,0,0
+0,25,latest_ends,143,143,143,143,143
+0,25,care_factors,0,9000,5400,6300,3600
+0,25,predecessors,1,0,1,-1,-1
+0,25,successors,2,3,4,-1,-1
+0,25,prec_delays,110,100,72,-1,-1
+1,25,astart - ogsa,16,21,81,119,81
+1,25,astart - optimised,15,21,81,119,81
+2,25,astart - ogsa,6,21,84,120,81
+2,25,astart - optimised,15,21,84,119,81
+0,26,demands,60,93,1000,1200,93
+0,26,durations,3,7,5,6,2
+0,26,preferred_starts,130,128,101,103,30
+0,26,earliest_starts,0,0,0,0,0
+0,26,latest_ends,143,143,143,143,143
+0,26,care_factors,6300,0,0,7200,900
+0,26,predecessors,-1,-1,-1,-1,-1
+0,26,successors,-1,-1,-1,-1,-1
+0,26,prec_delays,-1,-1,-1,-1,-1
+1,26,astart - ogsa,130,17,16,108,30
+1,26,astart - optimised,130,15,15,108,30
+2,26,astart - ogsa,130,6,6,103,28
+2,26,astart - optimised,130,6,6,103,28
+0,27,demands,72,100,30,2400,10
+0,27,durations,3,2,1,2,1
+0,27,preferred_starts,10,84,104,137,93
+0,27,earliest_starts,0,0,0,0,0
+0,27,latest_ends,143,143,143,143,143
+0,27,care_factors,0,8100,7200,7200,7200
+0,27,predecessors,0,1,-1,-1,-1
+0,27,successors,2,4,-1,-1,-1
+0,27,prec_delays,91,46,-1,-1,-1
+1,27,astart - ogsa,18,82,105,136,93
+1,27,astart - optimised,15,82,105,136,93
+2,27,astart - ogsa,6,84,104,136,93
+2,27,astart - optimised,15,84,104,136,93
+0,28,demands,2400,700,15,8,50
+0,28,durations,5,5,3,1,6
+0,28,preferred_starts,27,35,87,55,83
+0,28,earliest_starts,0,0,0,0,0
+0,28,latest_ends,143,143,143,143,143
+0,28,care_factors,6300,3600,8100,0,9000
+0,28,predecessors,0,0,-1,-1,-1
+0,28,successors,1,3,-1,-1,-1
+0,28,prec_delays,132,103,-1,-1,-1
+1,28,astart - ogsa,19,25,87,20,78
+1,28,astart - optimised,19,25,87,24,78
+2,28,astart - ogsa,19,21,87,8,83
+2,28,astart - optimised,19,25,87,24,83
+0,29,demands,15,2400,1200,72,148
+0,29,durations,1,3,1,2,4
+0,29,preferred_starts,132,139,40,57,64
+0,29,earliest_starts,0,0,0,0,0
+0,29,latest_ends,143,143,143,143,143
+0,29,care_factors,3600,4500,4500,1800,0
+0,29,predecessors,2,2,-1,-1,-1
+0,29,successors,3,4,-1,-1,-1
+0,29,prec_delays,32,122,-1,-1,-1
+1,29,astart - ogsa,132,135,42,57,18
+1,29,astart - optimised,132,135,42,57,129
+2,29,astart - ogsa,132,135,42,57,5
+2,29,astart - optimised,132,135,42,57,134
+0,30,demands,900,1100,3600,300,120
+0,30,durations,1,1,2,3,6
+0,30,preferred_starts,61,125,71,38,86
+0,30,earliest_starts,0,0,0,0,0
+0,30,latest_ends,143,143,143,143,143
+0,30,care_factors,7200,6300,7200,7200,9000
+0,30,predecessors,2,-1,-1,-1,-1
+0,30,successors,4,-1,-1,-1,-1
+0,30,prec_delays,136,-1,-1,-1,-1
+1,30,astart - ogsa,61,125,71,38,87
+1,30,astart - optimised,61,125,71,38,87
+2,30,astart - ogsa,61,125,71,38,84
+2,30,astart - optimised,61,125,71,38,84
+0,31,demands,72,72,300,650,900
+0,31,durations,3,1,4,2,2
+0,31,preferred_starts,45,58,105,55,31
+0,31,earliest_starts,0,0,0,0,0
+0,31,latest_ends,143,143,143,143,143
+0,31,care_factors,1800,7200,6300,8100,3600
+0,31,predecessors,-1,-1,-1,-1,-1
+0,31,successors,-1,-1,-1,-1,-1
+0,31,prec_delays,-1,-1,-1,-1,-1
+1,31,astart - ogsa,45,58,108,55,28
+1,31,astart - optimised,45,58,108,55,28
+2,31,astart - ogsa,45,58,105,55,28
+2,31,astart - optimised,45,58,105,55,28
+0,32,demands,600,400,60,350,3600
+0,32,durations,2,2,5,1,2
+0,32,preferred_starts,28,43,54,41,16
+0,32,earliest_starts,0,0,0,0,0
+0,32,latest_ends,143,143,143,143,143
+0,32,care_factors,900,900,5400,2700,5400
+0,32,predecessors,1,0,-1,-1,-1
+0,32,successors,2,3,-1,-1,-1
+0,32,prec_delays,35,31,-1,-1,-1
+1,32,astart - ogsa,22,43,54,42,16
+1,32,astart - optimised,22,43,54,42,16
+2,32,astart - ogsa,22,22,54,42,7
+2,32,astart - optimised,22,22,54,42,7
+0,33,demands,600,1200,5,210,5
+0,33,durations,3,4,4,3,8
+0,33,preferred_starts,14,114,91,34,100
+0,33,earliest_starts,0,0,0,0,0
+0,33,latest_ends,143,143,143,143,143
+0,33,care_factors,2700,3600,900,1800,8100
+0,33,predecessors,0,-1,-1,-1,-1
+0,33,successors,1,-1,-1,-1,-1
+0,33,prec_delays,115,-1,-1,-1,-1
+1,33,astart - ogsa,14,128,91,33,100
+1,33,astart - optimised,14,128,91,33,100
+2,33,astart - ogsa,14,129,89,27,100
+2,33,astart - optimised,14,128,89,27,100
+0,34,demands,8,350,68,5000,600
+0,34,durations,1,3,1,2,1
+0,34,preferred_starts,71,42,58,63,69
+0,34,earliest_starts,0,0,0,0,0
+0,34,latest_ends,143,143,143,143,143
+0,34,care_factors,7200,7200,900,6300,4500
+0,34,predecessors,1,2,-1,-1,-1
+0,34,successors,3,4,-1,-1,-1
+0,34,prec_delays,69,73,-1,-1,-1
+1,34,astart - ogsa,71,42,58,21,69
+1,34,astart - optimised,71,42,58,61,69
+2,34,astart - ogsa,71,42,58,21,69
+2,34,astart - optimised,71,42,58,66,69
+0,35,demands,3500,20,130,900,62
+0,35,durations,3,6,5,3,3
+0,35,preferred_starts,50,63,48,109,32
+0,35,earliest_starts,0,0,0,0,0
+0,35,latest_ends,143,143,143,143,143
+0,35,care_factors,900,9000,5400,7200,4500
+0,35,predecessors,-1,-1,-1,-1,-1
+0,35,successors,-1,-1,-1,-1,-1
+0,35,prec_delays,-1,-1,-1,-1,-1
+1,35,astart - ogsa,21,63,48,109,32
+1,35,astart - optimised,21,63,48,109,32
+2,35,astart - ogsa,6,63,48,109,32
+2,35,astart - optimised,6,63,48,109,32
+0,36,demands,150,650,90,900,2
+0,36,durations,3,3,2,5,6
+0,36,preferred_starts,35,36,109,40,105
+0,36,earliest_starts,0,0,0,0,0
+0,36,latest_ends,143,143,143,143,143
+0,36,care_factors,2700,2700,8100,7200,3600
+0,36,predecessors,0,0,0,-1,-1
+0,36,successors,2,3,4,-1,-1
+0,36,prec_delays,39,24,16,-1,-1
+1,36,astart - ogsa,35,27,109,40,106
+1,36,astart - optimised,37,27,79,40,56
+2,36,astart - ogsa,35,24,109,42,104
+2,36,astart - optimised,64,24,106,67,83
+0,37,demands,130,100,1700,50,1200
+0,37,durations,3,1,2,5,1
+0,37,preferred_starts,43,18,71,136,110
+0,37,earliest_starts,0,0,0,0,0
+0,37,latest_ends,143,143,143,143,143
+0,37,care_factors,1800,900,8100,0,1800
+0,37,predecessors,0,1,-1,-1,-1
+0,37,successors,2,3,-1,-1,-1
+0,37,prec_delays,110,67,-1,-1,-1
+1,37,astart - ogsa,43,18,71,19,111
+1,37,astart - optimised,43,18,71,19,111
+2,37,astart - ogsa,43,18,71,5,110
+2,37,astart - optimised,43,18,71,19,110
+0,38,demands,8,600,45,2400,5
+0,38,durations,3,1,5,1,1
+0,38,preferred_starts,126,95,39,55,48
+0,38,earliest_starts,0,0,0,0,0
+0,38,latest_ends,143,143,143,143,143
+0,38,care_factors,8100,8100,900,0,900
+0,38,predecessors,2,2,-1,-1,-1
+0,38,successors,3,4,-1,-1,-1
+0,38,prec_delays,3,20,-1,-1,-1
+1,38,astart - ogsa,126,92,39,21,48
+1,38,astart - optimised,126,92,18,23,43
+2,38,astart - ogsa,126,102,39,7,48
+2,38,astart - optimised,126,102,18,23,43
+0,39,demands,68,72,6000,100,50
+0,39,durations,3,2,1,1,5
+0,39,preferred_starts,86,23,63,111,101
+0,39,earliest_starts,0,0,0,0,0
+0,39,latest_ends,143,143,143,143,143
+0,39,care_factors,7200,900,3600,8100,4500
+0,39,predecessors,1,1,-1,-1,-1
+0,39,successors,3,4,-1,-1,-1
+0,39,prec_delays,67,129,-1,-1,-1
+1,39,astart - ogsa,87,23,23,112,108
+1,39,astart - optimised,87,42,23,111,108
+2,39,astart - ogsa,86,23,23,110,102
+2,39,astart - optimised,86,42,23,111,102
+0,40,demands,2400,2400,2000,80,900
+0,40,durations,1,1,4,2,1
+0,40,preferred_starts,103,79,32,19,109
+0,40,earliest_starts,0,0,0,0,0
+0,40,latest_ends,143,143,143,143,143
+0,40,care_factors,9000,6300,2700,8100,8100
+0,40,predecessors,1,-1,-1,-1,-1
+0,40,successors,4,-1,-1,-1,-1
+0,40,prec_delays,138,-1,-1,-1,-1
+1,40,astart - ogsa,108,79,20,19,109
+1,40,astart - optimised,108,79,20,19,109
+2,40,astart - ogsa,103,77,6,19,109
+2,40,astart - optimised,103,77,6,19,109
+0,41,demands,350,1200,2000,350,1200
+0,41,durations,4,6,7,3,2
+0,41,preferred_starts,100,46,13,102,20
+0,41,earliest_starts,0,0,0,0,0
+0,41,latest_ends,143,143,143,143,143
+0,41,care_factors,7200,8100,3600,9000,6300
+0,41,predecessors,1,-1,-1,-1,-1
+0,41,successors,3,-1,-1,-1,-1
+0,41,prec_delays,27,-1,-1,-1,-1
+1,41,astart - ogsa,108,46,13,109,20
+1,41,astart - optimised,108,46,13,78,20
+2,41,astart - ogsa,102,21,6,102,20
+2,41,astart - optimised,102,69,6,102,20
+0,42,demands,400,45,10,2400,2400
+0,42,durations,2,1,1,5,3
+0,42,preferred_starts,117,42,19,92,43
+0,42,earliest_starts,0,0,0,0,0
+0,42,latest_ends,143,143,143,143,143
+0,42,care_factors,8100,900,5400,3600,0
+0,42,predecessors,-1,-1,-1,-1,-1
+0,42,successors,-1,-1,-1,-1,-1
+0,42,prec_delays,-1,-1,-1,-1,-1
+1,42,astart - ogsa,117,42,19,19,19
+1,42,astart - optimised,117,42,19,19,15
+2,42,astart - ogsa,117,42,19,6,6
+2,42,astart - optimised,117,42,19,6,6
+0,43,demands,1000,20,72,2000,1500
+0,43,durations,6,3,3,3,5
+0,43,preferred_starts,2,8,102,4,43
+0,43,earliest_starts,0,0,0,0,0
+0,43,latest_ends,143,143,143,143,143
+0,43,care_factors,8100,8100,0,2700,1800
+0,43,predecessors,0,0,1,-1,-1
+0,43,successors,1,2,4,-1,-1
+0,43,prec_delays,27,23,31,-1,-1
+1,43,astart - ogsa,6,9,16,9,19
+1,43,astart - optimised,2,8,15,9,19
+2,43,astart - ogsa,3,7,7,6,5
+2,43,astart - optimised,3,9,15,6,19
+0,44,demands,11,150,4,20,1000
+0,44,durations,2,2,3,5,5
+0,44,preferred_starts,81,49,35,5,45
+0,44,earliest_starts,0,0,0,0,0
+0,44,latest_ends,143,143,143,143,143
+0,44,care_factors,900,9000,900,1800,3600
+0,44,predecessors,-1,-1,-1,-1,-1
+0,44,successors,-1,-1,-1,-1,-1
+0,44,prec_delays,-1,-1,-1,-1,-1
+1,44,astart - ogsa,81,49,35,5,19
+1,44,astart - optimised,81,49,35,5,19
+2,44,astart - ogsa,79,49,35,5,19
+2,44,astart - optimised,79,49,35,5,19
+0,45,demands,550,120,2000,120,11
+0,45,durations,5,2,4,1,2
+0,45,preferred_starts,82,119,132,81,65
+0,45,earliest_starts,0,0,0,0,0
+0,45,latest_ends,143,143,143,143,143
+0,45,care_factors,4500,900,3600,4500,2700
+0,45,predecessors,-1,-1,-1,-1,-1
+0,45,successors,-1,-1,-1,-1,-1
+0,45,prec_delays,-1,-1,-1,-1,-1
+1,45,astart - ogsa,76,119,134,80,65
+1,45,astart - optimised,76,119,134,80,65
+2,45,astart - ogsa,73,119,134,80,65
+2,45,astart - optimised,73,119,134,80,65
+0,46,demands,5,11,2400,15,900
+0,46,durations,3,3,6,3,3
+0,46,preferred_starts,31,104,22,31,45
+0,46,earliest_starts,0,0,0,0,0
+0,46,latest_ends,143,143,143,143,143
+0,46,care_factors,5400,4500,6300,900,9000
+0,46,predecessors,0,-1,-1,-1,-1
+0,46,successors,1,-1,-1,-1,-1
+0,46,prec_delays,39,-1,-1,-1,-1
+1,46,astart - ogsa,31,105,18,31,45
+1,46,astart - optimised,31,73,18,31,45
+2,46,astart - ogsa,31,103,18,31,45
+2,46,astart - optimised,31,73,18,31,45
+0,47,demands,350,72,15,2400,120
+0,47,durations,6,4,8,4,5
+0,47,preferred_starts,127,84,52,115,112
+0,47,earliest_starts,0,0,0,0,0
+0,47,latest_ends,143,143,143,143,143
+0,47,care_factors,8100,8100,8100,6300,9000
+0,47,predecessors,1,-1,-1,-1,-1
+0,47,successors,3,-1,-1,-1,-1
+0,47,prec_delays,19,-1,-1,-1,-1
+1,47,astart - ogsa,127,87,52,128,112
+1,47,astart - optimised,127,88,52,111,112
+2,47,astart - ogsa,127,84,52,129,112
+2,47,astart - optimised,127,84,52,107,112
+0,48,demands,600,1000,100,100,4
+0,48,durations,3,1,6,2,4
+0,48,preferred_starts,91,70,130,40,93
+0,48,earliest_starts,0,0,0,0,0
+0,48,latest_ends,143,143,143,143,143
+0,48,care_factors,3600,6300,1800,1800,5400
+0,48,predecessors,-1,-1,-1,-1,-1
+0,48,successors,-1,-1,-1,-1,-1
+0,48,prec_delays,-1,-1,-1,-1,-1
+1,48,astart - ogsa,78,70,130,40,93
+1,48,astart - optimised,78,70,130,40,93
+2,48,astart - ogsa,84,70,130,40,93
+2,48,astart - optimised,84,70,130,40,93
+0,49,demands,5000,15,1000,600,2400
+0,49,durations,1,4,2,3,1
+0,49,preferred_starts,79,42,66,120,38
+0,49,earliest_starts,0,0,0,0,0
+0,49,latest_ends,143,143,143,143,143
+0,49,care_factors,2700,4500,900,9000,9000
+0,49,predecessors,-1,-1,-1,-1,-1
+0,49,successors,-1,-1,-1,-1,-1
+0,49,prec_delays,-1,-1,-1,-1,-1
+1,49,astart - ogsa,23,42,22,120,35
+1,49,astart - optimised,23,42,22,120,35
+2,49,astart - ogsa,23,42,7,120,38
+2,49,astart - optimised,23,42,7,120,38
+0,50,demands,350,56,56,1000,60
+0,50,durations,7,7,3,9,2
+0,50,preferred_starts,38,25,123,1,29
+0,50,earliest_starts,0,0,0,0,0
+0,50,latest_ends,143,143,143,143,143
+0,50,care_factors,8100,9000,900,8100,1800
+0,50,predecessors,0,-1,-1,-1,-1
+0,50,successors,2,-1,-1,-1,-1
+0,50,prec_delays,44,-1,-1,-1,-1
+1,50,astart - ogsa,38,25,123,6,29
+1,50,astart - optimised,38,25,78,6,29
+2,50,astart - ogsa,38,25,123,3,29
+2,50,astart - optimised,38,25,84,3,29
