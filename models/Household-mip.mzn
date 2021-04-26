@@ -1,6 +1,7 @@
 % parameters
 int: num_intervals;
 set of int: INTERVALS = 1 .. num_intervals; 
+float: num_intervals_hour = num_intervals / 24;
 
 array[INTERVALS] of int: prices;
 
@@ -37,11 +38,11 @@ constraint forall (p in PREC) (
 % maximum demand constraint   
 constraint forall (s in INTERVALS) (sum(d in TASKS) (actual_starts[d, s] * demands[d]) <= max_demand);
 
-array [TASKS, INTERVALS] of int: run_costs = array2d(TASKS,INTERVALS, [ 
-    care_factors[d] * abs(s - preferred_starts[d]) + sum (t in s..min(s + durations[d] - 1, num_intervals)) (prices[t] * demands[d]) 
+array [TASKS, INTERVALS] of float: run_costs = array2d(TASKS,INTERVALS, [ 
+    care_factors[d] * abs(s - preferred_starts[d]) + sum (t in s..min(s + durations[d] - 1, num_intervals)) (prices[t] * demands[d] / num_intervals_hour) 
     | d in TASKS, s in INTERVALS]);
 
-var int: obj= sum (d in TASKS, s in INTERVALS) (run_costs[d, s] * actual_starts[d, s]);
+var float: obj= sum (d in TASKS, s in INTERVALS) (run_costs[d, s] * actual_starts[d, s]);
 % solve minimize obj;
 
 % output [show(actual_starts) ++ "\n" ++ show(obj)];

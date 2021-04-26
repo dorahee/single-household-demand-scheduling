@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c051f8c4-06fd-4048-94e2-dbe5fbc3004e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Household-cp.mzn" beforeDir="false" afterPath="$PROJECT_DIR$/models/Household-cp.mzn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Household-mip.mzn" beforeDir="false" afterPath="$PROJECT_DIR$/models/Household-mip.mzn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-cost.py" beforeDir="false" afterPath="$PROJECT_DIR$/run-cost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#474#478#0" />
+                <element signature="e#665#889#0" />
+                <element signature="e#906#1295#0" />
+                <element signature="e#2335#5785#0" />
+                <element signature="e#5950#6557#0" />
+                <element signature="e#6748#10440#0" />
+                <element signature="e#10787#12212#0" />
+                <element signature="e#12270#20117#0" />
+                <element signature="e#20186#20783#0" />
+                <element signature="e#20866#22876#0" />
+                <element signature="e#22951#36152#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hb.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Household-mip.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run-cost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Household-mip-pre.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MiniZinc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="153" column="16" lean-forward="true" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+              <folding>
+                <element signature="e#455#532#0" />
+                <element signature="e#552#4407#0" />
+                <element signature="e#834#1452#0" />
+                <element signature="e#1892#4114#0" />
+                <element signature="e#2525#2726#0" />
+                <element signature="e#2777#2805#0" />
+                <element signature="e#2952#2976#0" />
+                <element signature="e#3382#3824#0" />
+                <element signature="e#3872#4114#0" />
+                <element signature="e#3924#3962#0" />
+                <element signature="e#4201#4407#0" />
+                <element signature="e#4649#5369#0" />
+                <element signature="e#5372#5406#0" />
+                <element signature="e#5556#5595#0" />
+                <element signature="e#5828#7212#0" />
+                <element signature="e#5860#6059#0" />
+                <element signature="e#6223#6963#0" />
+                <element signature="e#6251#6963#0" />
+                <element signature="e#6329#6963#0" />
+                <element signature="e#6993#7212#0" />
+                <element signature="e#7029#7212#0" />
+                <element signature="e#7250#7337#0" />
+                <element signature="e#7481#7589#0" />
+                <element signature="e#7734#8046#0" />
+                <element signature="e#8458#8468#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run-cost.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/hb.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="2048" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="single-scheduling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-scheduling" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c051f8c4-06fd-4048-94e2-dbe5fbc3004e" name="Default Changelist" comment="" />
+      <created>1618847710304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618847710304</updated>
+      <workItem from="1618847712792" duration="1618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1618000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="2048" height="1005" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Household-mip-pre.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Household-mip.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-cost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniZinc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="153" column="16" lean-forward="true" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+          <folding>
+            <element signature="e#455#532#0" />
+            <element signature="e#552#4407#0" />
+            <element signature="e#834#1452#0" />
+            <element signature="e#1892#4114#0" />
+            <element signature="e#2525#2726#0" />
+            <element signature="e#2777#2805#0" />
+            <element signature="e#2952#2976#0" />
+            <element signature="e#3382#3824#0" />
+            <element signature="e#3872#4114#0" />
+            <element signature="e#3924#3962#0" />
+            <element signature="e#4201#4407#0" />
+            <element signature="e#4649#5369#0" />
+            <element signature="e#5372#5406#0" />
+            <element signature="e#5556#5595#0" />
+            <element signature="e#5828#7212#0" />
+            <element signature="e#5860#6059#0" />
+            <element signature="e#6223#6963#0" />
+            <element signature="e#6251#6963#0" />
+            <element signature="e#6329#6963#0" />
+            <element signature="e#6993#7212#0" />
+            <element signature="e#7029#7212#0" />
+            <element signature="e#7250#7337#0" />
+            <element signature="e#7481#7589#0" />
+            <element signature="e#7734#8046#0" />
+            <element signature="e#8458#8468#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#474#478#0" />
+            <element signature="e#665#889#0" />
+            <element signature="e#906#1295#0" />
+            <element signature="e#2335#5785#0" />
+            <element signature="e#5950#6557#0" />
+            <element signature="e#6748#10440#0" />
+            <element signature="e#10787#12212#0" />
+            <element signature="e#12270#20117#0" />
+            <element signature="e#20186#20783#0" />
+            <element signature="e#20866#22876#0" />
+            <element signature="e#22951#36152#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

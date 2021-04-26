@@ -43,7 +43,7 @@ constraint forall (p in PREC) (
      actual_starts[pre] + durations[pre] <= actual_starts[succ] /\ actual_starts[succ] <= actual_starts[pre] + durations[pre] + d
    ); 
    
-constraint cumulative(actual_starts, durations, demands, max_demand);
+constraint cumulative(actual_starts, durations, demands, max_demand * 6);
 
 % solve 
 % :: int_search(actual_starts, first_fail, indomain_max, complete)

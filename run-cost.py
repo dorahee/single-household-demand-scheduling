@@ -31,4 +31,4 @@ for r in run_costs:
 run_costs_str += "]"
 
 # print(run_costs_str)
-print (run_costs)
+print(run_costs)

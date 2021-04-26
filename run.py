@@ -73,7 +73,7 @@ colour_choices = "Set1"
 
 
 def read_data():
-    prices = genfromtxt('inputs/prices.csv', delimiter=',', dtype="float").astype(int) # in cents
+    prices = genfromtxt('inputs/prices.csv', delimiter=',', dtype="float").astype(int)  # in cents
 
     models = dict()
     models["Initial"] = dict()
