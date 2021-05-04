@@ -69,9 +69,9 @@ array [TASKS, INTERVALS] of float: task_costs = array2d(TASKS,INTERVALS, [
     care_factors[d] * abs(s - preferred_starts[d]) + 
     sum (t in s..min(s + durations[d] - 1, num_intervals)) (prices[t] * demands[d] / num_intervals_hour) 
     | d in TASKS, s in INTERVALS]);
-var float: total_cost = sum (i in INTERVALS) (
+var float: obj = sum (i in INTERVALS) (
     ((sum(t in TASKS) (task_costs[t, i] * actual_starts[t, i])) + battery_profile[i] / num_intervals_hour) * prices[i]
 );
 
-solve minimize total_cost;
+solve minimize obj;
 % solve satisfy;
